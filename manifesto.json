@@ -1,6 +1,6 @@
 {
-  "versao": 2,
-  "gerado_em": "2026-08-16",
+  "versao": 3,
+  "gerado_em": "2026-08-17",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -1341,11 +1341,11 @@
       "blocos": 11
     },
     "licitacoes": {
-      "versao": 1,
-      "sha256": "1e07e814f7f23ec72385e931fe4a03c6727d3f130e8ca6323ac007c3aa43d2a0",
-      "sha256_arquivo": "70bcfbc2da85c7792384083d342fba3559b98e151b89be765591d772c51f40b5",
-      "bytes": 588471,
-      "blocos": 1502
+      "versao": 2,
+      "sha256": "0cd4874d30f4d04ab88af4151fa4b3e0d700e3feca9d5fdf62ec8d87e3a56d4e",
+      "sha256_arquivo": "d754b1904c20956f371675d5beed895ff1a4b87707f6500b10bbc360acc97282",
+      "bytes": 589586,
+      "blocos": 1503
     },
     "lindb": {
       "versao": 1,
@@ -1434,7 +1434,7 @@
     "maria_penha": {
       "versao": 1,
       "sha256": "141ca9f1ee0041996454525ed8f06da6761a29e118b32e4cf84ae2f4d16b60f5",
-      "sha256_arquivo": "f11dd5cde56ae95ef85ca9b63ed375cbef60517e1b59d35be509f2d390bf5106",
+      "sha256_arquivo": "d30885507a7424d67efe6c8533162251f23f156b7b40f7333c8fb2c44429bfff",
       "bytes": 93574,
       "blocos": 227
     },
@@ -1901,11 +1901,11 @@
       "blocos": 440
     },
     "regulamento_marco_civil": {
-      "versao": 1,
-      "sha256": "b83bae281cfe5d302bd2ed5edfbed8f2ecd86c9f2c6e338c59aaf25d542b9ef3",
-      "sha256_arquivo": "9b6fc5478bbfeec770f66e119f21bc7b3aba6c73085e60ddd4aece19692fe19d",
-      "bytes": 28039,
-      "blocos": 71
+      "versao": 2,
+      "sha256": "5fd20df870c3dbaabdfa596e36e1871840086a058b7d5557a3ca57e3e0413825",
+      "sha256_arquivo": "007065909fac6e08bcb629f354e690142f75985906cd119a5726be9c13b97449",
+      "bytes": 71676,
+      "blocos": 167
     },
     "regulamento_oab": {
       "versao": 1,
