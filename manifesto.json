@@ -1,0 +1,2324 @@
+{
+  "versao": 2,
+  "gerado_em": "2026-08-16",
+  "total_leis": 331,
+  "leis": {
+    "abuso": {
+      "versao": 1,
+      "sha256": "378f1ee5ef9bcc41daf2dcec928aed28db2b00a71174e68923a35fb18e15d3ab",
+      "sha256_arquivo": "75d412715d44aac44f8ba23d4b2600a533cda3457fa7f3e2d729e720fed71965",
+      "bytes": 49136,
+      "blocos": 141
+    },
+    "acao_alimentos": {
+      "versao": 1,
+      "sha256": "e620d26e3958dc02ad43e99440104dbb0f1f3eb118fa640514e327b3fe9ae059",
+      "sha256_arquivo": "7be96b1bb8330b6788f23f1cf697fcd99cc4f5855e747278d1caf99ab436e33f",
+      "bytes": 25722,
+      "blocos": 62
+    },
+    "acao_civil_publica": {
+      "versao": 1,
+      "sha256": "f673a269311c7468108adc32e054600df2ba334c6d94c1f790ac6d09cb66abba",
+      "sha256_arquivo": "c95c126e666cd95d4a660531ae70fd63475f6627703e4434d27b7311c745a8ce",
+      "bytes": 23491,
+      "blocos": 55
+    },
+    "acao_popular": {
+      "versao": 1,
+      "sha256": "514d5fa1cdf2b7dfcbc9281ec87c1c0a33b4031a03bb70310550a9326de1a609",
+      "sha256_arquivo": "bae139556d235e4b3dc09febfd6b2a2924fd2fbaf8adebc20c2adf04cfeb77eb",
+      "bytes": 37044,
+      "blocos": 93
+    },
+    "acoes_penais_originarias": {
+      "versao": 1,
+      "sha256": "80ff2c96723b130b1a34a46ee6d58091897db601d519cfe88d9bdc7726a17db4",
+      "sha256_arquivo": "1ce661815de8721b1b10cd1a16e3321bc52fb0d31e756b34df93120265989c43",
+      "bytes": 2102,
+      "blocos": 4
+    },
+    "acp_investidores": {
+      "versao": 1,
+      "sha256": "29261f0478ea71be6608739283a2ab8d4e7f985c3bb4b1a8bc0fa17549e459d8",
+      "sha256_arquivo": "65816a55641d5c5583d85239ea6d26dc748e5db20cbc0ca1eec87d31eafc3582",
+      "bytes": 5085,
+      "blocos": 11
+    },
+    "adct": {
+      "versao": 1,
+      "sha256": "becb9cba98d1fad10e2ba10c06d0088662a82f28623820d414942c8d3ecf80e5",
+      "sha256_arquivo": "98b4d60aaca71d9aa59de9ea8193d385a87ec6a091204d6ae645b305a1abd468",
+      "bytes": 341704,
+      "blocos": 711
+    },
+    "adi_adc": {
+      "versao": 1,
+      "sha256": "87df35b57f5220dfacf1cde1f75b8814a874fdae5b996af9f8bb842d6fb0456c",
+      "sha256_arquivo": "17107d2c2cb0cab4dafd37950940a0f8f64c887bc4e04d08bb6efd6a95a23c70",
+      "bytes": 46563,
+      "blocos": 125
+    },
+    "adocao": {
+      "versao": 1,
+      "sha256": "200998596abca5c43e181b6308e19b86b893e54dcbbfdf29800e469ef9c8d551",
+      "sha256_arquivo": "5195d69ae2589ca6b4e248c3992e05b2590521d51a142205693100c3dd69393c",
+      "bytes": 65376,
+      "blocos": 11
+    },
+    "adpf": {
+      "versao": 1,
+      "sha256": "82fa74f7ea7694c04c8bb83e7442e84758a2e28f11903e05fce379e8a8688326",
+      "sha256_arquivo": "86795418de8f4713f38dc9e39d521fecafec0fdc39a0a605dbca436abcfdf57a",
+      "bytes": 14952,
+      "blocos": 42
+    },
+    "afixacao_precos": {
+      "versao": 1,
+      "sha256": "df9f13452af30ce611e5fe24d527dc1e2c2d98dcd1c9120e6443452ac7f01ed9",
+      "sha256_arquivo": "1a9e3c7f84503455ed0c917630c9d8a42240306e35016e889ed06c1bac3ecc02",
+      "bytes": 7782,
+      "blocos": 18
+    },
+    "alienacao_fiduciaria": {
+      "versao": 1,
+      "sha256": "20e03eae75857202365129fd5b32e51759e5a8810653c14b9caa597b85d3fdf0",
+      "sha256_arquivo": "41592a328cf4c630bc5bfb9c24653bc1a1306e796baae6557cd8bcb5bc36cfba",
+      "bytes": 43252,
+      "blocos": 94
+    },
+    "alienacao_parental": {
+      "versao": 1,
+      "sha256": "915601d9f9f33f6308aaf8448f4329d63687b88caa146c911c55254da6d4de19",
+      "sha256_arquivo": "7451e7d6b59e85a2cd52c900287d138665e3e976a33c4c834fd5efb553121786",
+      "bytes": 16108,
+      "blocos": 38
+    },
+    "alimentos_eca": {
+      "versao": 1,
+      "sha256": "6fe8d92a7b2c759fb01b165a82442fea9771938e47c70c58fdd0709e85eb3e53",
+      "sha256_arquivo": "09feee30aff0e3e7602041e549efcdd0924a8a1875a9d7e29eebd0ea4e6896d7",
+      "bytes": 2552,
+      "blocos": 4
+    },
+    "alimentos_gravidicos": {
+      "versao": 1,
+      "sha256": "edb4d1d478ae0fd50bde6027c2ba0f85aa23124cc6d00f00b201c1f33bf42271",
+      "sha256_arquivo": "c5b77c416d90343ae40830d2d8dc4abed134fb348d1a8081e23d11b3d25077f6",
+      "bytes": 5335,
+      "blocos": 15
+    },
+    "aliquotas_pis_cofins": {
+      "versao": 1,
+      "sha256": "1b95fe9188624f362fe278b248f3e571717ab9344f7d7f91c581feb4c4d63ed6",
+      "sha256_arquivo": "103d19a72d9c2caff03d7607327a299a467d64540bbc0c7beea82db51a9d3c71",
+      "bytes": 261473,
+      "blocos": 634
+    },
+    "altera_custeio_beneficios": {
+      "versao": 1,
+      "sha256": "ece2f65a0690c4958b135e1d2d754477085574d1095426246fd7e037d38fb5fc",
+      "sha256_arquivo": "35bd3e2e7b7c2570ee0f584f4c4db7b3499c2ed55e0a841702f06ae6035a30cb",
+      "bytes": 46502,
+      "blocos": 102
+    },
+    "altera_eleitorais_2009": {
+      "versao": 1,
+      "sha256": "ab93ab19acd2b48c20f1025690eb6a5c1a8b6d9947b4d9ea528f121b0f5a4822",
+      "sha256_arquivo": "fa0e747fcdb12ccf628b6a4569c367d26168b69d64961ef5ca6561b1369a1b76",
+      "bytes": 57324,
+      "blocos": 15
+    },
+    "altera_sa": {
+      "versao": 1,
+      "sha256": "d448cb42734269b086d2b2a9f5ceb63bac13e435672007e624b9e4f7b0688ff6",
+      "sha256_arquivo": "3bf7a740cbafb51a3b6d874476b5e031e7197ed3ace88a10b458b6636ecd5497",
+      "bytes": 113289,
+      "blocos": 257
+    },
+    "ano_civil": {
+      "versao": 1,
+      "sha256": "38b0e8d9215669f4beebdde3efa4aaebd9e0067fa4bf41b5d877cbba4e06be5f",
+      "sha256_arquivo": "53128feef67caa8ad7fe777e06707cb8f96c697ecb633f049ccb12ec8c4a9ab4",
+      "bytes": 1876,
+      "blocos": 5
+    },
+    "anticorrupcao": {
+      "versao": 1,
+      "sha256": "ebaa63d6dbde97e6d0e75d8fe55058f4472966fb4d8463b2b7c2886b8d262f0c",
+      "sha256_arquivo": "32ce49f8cf4f4f7ac8e2c79c1d97ea34e663a00433e526f0af423682d2dc0799",
+      "bytes": 59827,
+      "blocos": 152
+    },
+    "arbitragem": {
+      "versao": 1,
+      "sha256": "d8abbefb1b70e1dad0dce4607962ea2f0b282025e2f219b697f892854f346f98",
+      "sha256_arquivo": "15bd1ca9e0cca6d806b12f6394729ede5ffd05ed34b96145ea895cdd752797a8",
+      "bytes": 63952,
+      "blocos": 163
+    },
+    "arrendamento_residencial": {
+      "versao": 1,
+      "sha256": "bb63eb1ff1be921b31513032bd03a602bc60f2f768b795374134e612c195e25c",
+      "sha256_arquivo": "7962b1f4d0add7ad1b4cc008c5636abc58704a65d92f8c6a68635874f12211e5",
+      "bytes": 32967,
+      "blocos": 82
+    },
+    "asilo_territorial": {
+      "versao": 1,
+      "sha256": "8f83a93cb410fad7cd546a9d3d86d50dc3a34f73e1429a5022305db448ae7c83",
+      "sha256_arquivo": "265e7d251c81bb5914b009862818e217715712760934a5cf5d56711eee3754f8",
+      "bytes": 9339,
+      "blocos": 15
+    },
+    "assistencia_judiciaria": {
+      "versao": 1,
+      "sha256": "845feb4fb3eac87060251c90f8becbc079d56e18c75b45745db66d48885eaff5",
+      "sha256_arquivo": "34bb8a54c2b4c2a516317adca05d5d89fc8307eb72649fe6f59cef8cb9cf8684",
+      "bytes": 14091,
+      "blocos": 36
+    },
+    "atendimento_emergencial": {
+      "versao": 1,
+      "sha256": "5a451b237ecc5c4e3a6201e3e8b409113801306061f65607c880acae5e952ccf",
+      "sha256_arquivo": "a2e8152fd4032889a179f159e1adba1ec4409f0cd31df0d19199482207ac97a6",
+      "bytes": 3157,
+      "blocos": 5
+    },
+    "atos_por_fax": {
+      "versao": 1,
+      "sha256": "6caa484965ce5d26ce424bfb02a91d7bddf16e53c5642f9f6ea42ef7dfd0a2b5",
+      "sha256_arquivo": "8217b2e5717da844675894a4e6afbb6cd6fb96990ee028888a2e0a63477ec3e9",
+      "bytes": 4085,
+      "blocos": 9
+    },
+    "aviso_previo": {
+      "versao": 1,
+      "sha256": "2a80ae0244886d90167ee33bb5095829727c97019c3ad971ec1569af3bdcc3a6",
+      "sha256_arquivo": "74d6ae023d1895446cf76f7e40115b44c0f208a99312781c4eceb8cbd97c9a15",
+      "bytes": 1957,
+      "blocos": 4
+    },
+    "bem_familia": {
+      "versao": 1,
+      "sha256": "ce8b23b3573efca1b6a51ab10e5344bc2c2090a542a83c86389ddfaea3af95fb",
+      "sha256_arquivo": "55b3ebd40b258d4a6291de77aa1e2110b6a29b97dcc700c503dcdca1f638d9f3",
+      "bytes": 8970,
+      "blocos": 21
+    },
+    "bens_imoveis_uniao": {
+      "versao": 1,
+      "sha256": "cf55d90035bc5e77d482ce788d40a595cafce0dc9bd0e3a017c274f770190c97",
+      "sha256_arquivo": "dcec227e9bf8387b04864d9f1b2f70e69c0b60ac288a2596b45205409590be26",
+      "bytes": 195604,
+      "blocos": 428
+    },
+    "biosseguranca": {
+      "versao": 1,
+      "sha256": "1caad4c22de822cc0b287b529d82d9f22b5b6766ae0e8dfa987ae299013b9098",
+      "sha256_arquivo": "5da6910302ae1c0bb1fdcbc497f53514fa6433c15dac05ddd58fd7aaf8a4a023",
+      "bytes": 91045,
+      "blocos": 242
+    },
+    "bolsa_verde": {
+      "versao": 1,
+      "sha256": "f3a911f7b273fedc5b6f728c88f20adb151cb42f326a6d95870ab1c8b3d8a068",
+      "sha256_arquivo": "82e78940a41b54dea5ad91f0c5ea21af627178bc224c0afc2ae63d11ed32e5df",
+      "bytes": 70504,
+      "blocos": 153
+    },
+    "bullying": {
+      "versao": 1,
+      "sha256": "19dd247e30346f20c9d97b28ac8fc15421f51ab372e86fafafd55a8baf3ae9cb",
+      "sha256_arquivo": "bdaa406e6a7ffda487096f77c208de74b8933011480eda6344de48389b55ed81",
+      "bytes": 12438,
+      "blocos": 37
+    },
+    "cadastro_positivo": {
+      "versao": 1,
+      "sha256": "a9a502c28b8f17f6c028c8a28898fdb27c390ccfa53256757a72f46b7132eec4",
+      "sha256_arquivo": "f73381a568298072cfcfab49833af42f83981b9dba73147906493b2c39cfab09",
+      "bytes": 48892,
+      "blocos": 112
+    },
+    "cade": {
+      "versao": 1,
+      "sha256": "47541ea02d2eab3238061f1c39603e7e57909b4ea43e77b99cba72ef8bf286d0",
+      "sha256_arquivo": "e30981b61f258a0e7816693990ddc321a79bc7ad80e02f9676cc4581709cb3ee",
+      "bytes": 219882,
+      "blocos": 581
+    },
+    "cadin": {
+      "versao": 1,
+      "sha256": "028fbad58371df733db50b1289bdeae36578f9d4b305c3266090ad89466758ab",
+      "sha256_arquivo": "bca8716c21e71365b9bdd7ffba43f6f5be583ac60735388bb6bd5038df7a9c21",
+      "bytes": 161794,
+      "blocos": 375
+    },
+    "car": {
+      "versao": 1,
+      "sha256": "2bed96865b010d1facea5a30dcd7879ea5aae37263489bf7b2b997ae2ed8ca28",
+      "sha256_arquivo": "8cab22026cec292f04b26140e9f7afd0ca514f00d6ff1a47303b8a1abf0eca13",
+      "bytes": 42445,
+      "blocos": 101
+    },
+    "carta_servicos": {
+      "versao": 1,
+      "sha256": "7293a72101d47bcc3384c06b00ae3f69271953efbf4bb17d9ad59f2f95a13d81",
+      "sha256_arquivo": "2900f0e6904538dedd5899a2ebb51d13a28f74439bdfb63f8e9fabdd2c635540",
+      "bytes": 53723,
+      "blocos": 134
+    },
+    "cautelar_fiscal": {
+      "versao": 1,
+      "sha256": "494486ec6b1f76cd8f0192a3dd46a26ddb5c27d9822cca56c022c562ae5da98d",
+      "sha256_arquivo": "8b83ee07f0ccd65c74ad84536b7de753d30c63ed08b126999d183c5e75e4cf19",
+      "bytes": 20079,
+      "blocos": 57
+    },
+    "cautelares_poder_publico": {
+      "versao": 1,
+      "sha256": "f3bbafcd14314c5ffad1cac10c5055cce3e4cd64cf930a309b4540cccb491012",
+      "sha256_arquivo": "859c7b3e83c34b8c042efb75f171a6aa24aedcb989a3d016d0e0f0d097c3f639",
+      "bytes": 9549,
+      "blocos": 21
+    },
+    "cc": {
+      "versao": 1,
+      "sha256": "b39441a0439e718a8948fc26326a49b9b45a246ec27ae3ac4915a804be508b69",
+      "sha256_arquivo": "7e66c877490dc148227578774ee2367e55b95167f30be64f2955ccae42f279cc",
+      "bytes": 1544539,
+      "blocos": 4264
+    },
+    "cdc": {
+      "versao": 1,
+      "sha256": "677f59c6aa0c9334d64852e81afc5723cde819440d3d09150878fd0726a8e4ec",
+      "sha256_arquivo": "732c341b4939ebe38aea9b8dc0776e8fc1c7e269d7248cff82a61389d1276313",
+      "bytes": 189801,
+      "blocos": 511
+    },
+    "cdc_exemplar": {
+      "versao": 1,
+      "sha256": "8c4062a5057264c300ae48b35c5a8593c77f1f5600f3411005bd5d38f9c12f42",
+      "sha256_arquivo": "e83e87236d3c5417dbd0ab1ebff1a8da26d0c09350d4e8a4d2ee71480b20b458",
+      "bytes": 2708,
+      "blocos": 7
+    },
+    "cedaw": {
+      "versao": 1,
+      "sha256": "5bee314955b3bfae773a7d5bc92242511217db493137a4a145395a4ff5107b9b",
+      "sha256_arquivo": "09e4869483024d59a1b131b901bef46aacd33dee1b6f8b917fc62ac287b463df",
+      "bytes": 48982,
+      "blocos": 88
+    },
+    "cedula_credito_bancario": {
+      "versao": 1,
+      "sha256": "7b7ae65672decf530ee49da156dd40c124b3d438bc7c97c9b3337f704af8a277",
+      "sha256_arquivo": "c3a8a1f32da87b939df51f1d1ebe396433dc0cb9719daf73aa210121cd5e4d11",
+      "bytes": 166022,
+      "blocos": 371
+    },
+    "cedula_hipotecaria": {
+      "versao": 1,
+      "sha256": "3554c74fb7b8271c42d5cc5512d06f85c8be588076e0b8e2cb78049ff2349708",
+      "sha256_arquivo": "b173932a87a814a104fb96e06d67b57defa5f2a48b6a937645b833a43e8d33e8",
+      "bytes": 43641,
+      "blocos": 112
+    },
+    "centrais_sindicais": {
+      "versao": 1,
+      "sha256": "0aac8f7c09c629a8af8b8b36980e071c99826a9447d8b0056200c64329645352",
+      "sha256_arquivo": "74d73dfe114c1a94801e0f033555a3bcc53c2ff85abd9b03eddaf311d5780dfb",
+      "bytes": 11505,
+      "blocos": 21
+    },
+    "certidoes": {
+      "versao": 1,
+      "sha256": "d0ca79638d4c48d7bd668db848ac3f2cf1d16f79b50ca98317786959c7d29930",
+      "sha256_arquivo": "c56bb8c7c3fdb40e4dcc48b164fb8015f87a162ab5efee062e7d5dd0ceaea534",
+      "bytes": 2568,
+      "blocos": 6
+    },
+    "cf": {
+      "versao": 1,
+      "sha256": "b10925f662d29ea187cbca82292091e094ef208e1a27459bffdbadeb9f5eb378",
+      "sha256_arquivo": "93e4bbf5b4efa2af5aa942264bac3fdec1ab68dc4d57f35d48bf0428271a7a00",
+      "bytes": 1086423,
+      "blocos": 2666
+    },
+    "cheque": {
+      "versao": 1,
+      "sha256": "fd58ec8bde6c758afac5dcd14c619d85ad9e050d83a1832f9a79146847470262",
+      "sha256_arquivo": "54518002631baf25138bff4edf1ab9a05a65637f2bb5a75038fe252b01afd132",
+      "bytes": 66331,
+      "blocos": 188
+    },
+    "clausulas_usurarias": {
+      "versao": 1,
+      "sha256": "b75e39f0dc9c68c3c6b2865812405a5830e9aa78247b53c185cf6856df670e23",
+      "sha256_arquivo": "ee79a12ff7835d61f723bf90c23adbf4e4e83db51795dccaa374c52c780e44b0",
+      "bytes": 7399,
+      "blocos": 15
+    },
+    "clt": {
+      "versao": 1,
+      "sha256": "fdea953d70a54131e6ac0c2c3928af56c5500b9d982af8a2e7f2c07e660eaf25",
+      "sha256_arquivo": "247a95f32a3c3af01d36f629469358421c90f315f3aa33efb1198e6f1cd0aa58",
+      "bytes": 1328046,
+      "blocos": 3164
+    },
+    "codigo_etica_magistratura": {
+      "versao": 1,
+      "sha256": "0760659e258ae53ecb976a003f765dca866b14c8b4643dd886aa2bdb080e3027",
+      "sha256_arquivo": "c7d4c12b71dc1f4756c8034d3efd351e45d7b256f03a819bdb9c5cff715d53b8",
+      "bytes": 20988,
+      "blocos": 55
+    },
+    "codigo_etica_oab": {
+      "versao": 1,
+      "sha256": "c18e4aedbbffafb68e82fa9d3e17eb8beca488aa6847017a5999d216dd2fcfd8",
+      "sha256_arquivo": "7e7c5b8e6b9e36cca6c3bedd1361001f5113bf08b8ccedc6f8edb3c52cb65d77",
+      "bytes": 71872,
+      "blocos": 99
+    },
+    "codigo_florestal": {
+      "versao": 1,
+      "sha256": "6a55306bc653c80740783b3341ce526798e5b4144cc0c47e67410317ce7dcb1a",
+      "sha256_arquivo": "203dfa29d0d3bab5b02393447004425ce6988c4e1ef0d660ffc57add1ca27edc",
+      "bytes": 238976,
+      "blocos": 578
+    },
+    "combate_tortura": {
+      "versao": 1,
+      "sha256": "0944fbe63889701ca9fe72b78dcf9619b042c41374b1e006193dc31da63d8e55",
+      "sha256_arquivo": "f1e72944b2af65b5378744553247e046eb0b7cd2da4c06c052ad511ffb75c4fb",
+      "bytes": 40315,
+      "blocos": 107
+    },
+    "comercio_eletronico": {
+      "versao": 1,
+      "sha256": "6672f429ff24df75eb181b0d01a8d1e0df00bcb87ef693a53418d7ba2e712605",
+      "sha256_arquivo": "4c0c047e4a887f3d433cfe5c5abc30357da33cd6512f42d035a6435ef9902dac",
+      "bytes": 12836,
+      "blocos": 35
+    },
+    "comissao_verdade": {
+      "versao": 1,
+      "sha256": "df841ba92d85d625236752e64af7cdace8dd3a8ad0e8ade3bfba967bc8925495",
+      "sha256_arquivo": "56e0bbd3b072e16967900712d33b817ee53e9e1279dd56562d864ab49b077869",
+      "bytes": 19701,
+      "blocos": 51
+    },
+    "comp_ambiental": {
+      "versao": 1,
+      "sha256": "e41a5ff5263e1b70c5e45a220b667499145f3781808f2c1b83c78afe94269e1c",
+      "sha256_arquivo": "6fc081ed906571d3b9dd64f33ff2256baac4136c3aa2ecbe1fa78da1d54052ee",
+      "bytes": 56462,
+      "blocos": 145
+    },
+    "competencia_jt": {
+      "versao": 1,
+      "sha256": "05dd189f679c99e1cb7e7c45dfac55e921edb596e635d46f222a71896264fef7",
+      "sha256_arquivo": "51cd309d8f1f0ce1184e56f894466248abff4050e51d9a89346ad06fc5af4dc0",
+      "bytes": 1785,
+      "blocos": 4
+    },
+    "concessoes": {
+      "versao": 1,
+      "sha256": "47cbc1753f23dd4b393051fc5a86a3aaa5fd9925eef42dd2a826aeb5fd84be2f",
+      "sha256_arquivo": "1e0143650a426c9d7260d7d4679056a7957442bd06fa7c56974bd1502f385b46",
+      "bytes": 91511,
+      "blocos": 240
+    },
+    "condominio_incorporacoes": {
+      "versao": 1,
+      "sha256": "e3dd5a67156ff0bc6a77b5f0163924912de6dd0b116276baf35c0ce7e392ee84",
+      "sha256_arquivo": "8c3518b4586e010acab4ec75b11e0a054f06845b0982e020a2dc2f1864d1d67c",
+      "bytes": 203497,
+      "blocos": 452
+    },
+    "conflito_interesses": {
+      "versao": 1,
+      "sha256": "5942c14bc77a30842a44887ff7a16285bd6b218d654b0cfe3254c279b940b464",
+      "sha256_arquivo": "cd00fb0b7c96a0b3631d4b526e6e21ee10ce9bac3c32ddb9ea6ce6be00907a9e",
+      "bytes": 23803,
+      "blocos": 59
+    },
+    "conselho_justificacao": {
+      "versao": 1,
+      "sha256": "eaace9d3f1cca16ea4418b77cf319a9db929b16c2d0b0881a0b676bc62af450f",
+      "sha256_arquivo": "d9de515170aa68453e736b29d3aad73c2c0391891a51e700c3abc6de50006f39",
+      "bytes": 27011,
+      "blocos": 75
+    },
+    "consorcios": {
+      "versao": 1,
+      "sha256": "37344caa6a672209cd88fb9a730e7217825e85236b448caa9f63ca1bdb877df2",
+      "sha256_arquivo": "e98183b283bcad3f7ed20ddb872dea3f12f506e31cf99f1dc52da6354e48029b",
+      "bytes": 58669,
+      "blocos": 155
+    },
+    "consorcios_publicos": {
+      "versao": 1,
+      "sha256": "a2f754fb7eb6430e593599fc5517fad1ac6973261a86b2be0354d0ecd7636c5c",
+      "sha256_arquivo": "dc1367e3064ab1007d9a784634373abc786f76a1836a1b3e12017711746d2945",
+      "bytes": 41831,
+      "blocos": 104
+    },
+    "contratacoes_sustentaveis": {
+      "versao": 1,
+      "sha256": "33c47a754efcba9fa373e29835e8f8f056ae3b896d7902508a1ec799c9bbfaa5",
+      "sha256_arquivo": "863c46e445f63d2d3ca4308fec9cffc6086a7fc33a5644dc35949e6d066c281b",
+      "bytes": 20792,
+      "blocos": 56
+    },
+    "contrato_prazo": {
+      "versao": 1,
+      "sha256": "f098b93146ed68f40d50f1111ece22d6cc466cd8905e8c3fd580dc6bb15ecaee",
+      "sha256_arquivo": "bd6ee4f05b17822c9e2db8b0ae9be119f8ecd25fe07c9ed2a7b7f481b5a547a9",
+      "bytes": 14728,
+      "blocos": 34
+    },
+    "contravencoes": {
+      "versao": 1,
+      "sha256": "cfa0388dc118b15e0264f96acaf8d21da067381acfd3f120c9a0c803b936b6af",
+      "sha256_arquivo": "5f9fb28e783d1370d604964ef5888e1a255d6c292b74d7aaf3c7173fbec9524e",
+      "bytes": 70165,
+      "blocos": 200
+    },
+    "contribuicao_melhoria": {
+      "versao": 1,
+      "sha256": "e722124e1d7344b5a5e805302877f949ea7f923c520f52d10ead18cd1f40d569",
+      "sha256_arquivo": "e60b3e2a92f91fd9f3429dc253bbed05987eb04690d1dd486f01a5910f41df75",
+      "bytes": 24224,
+      "blocos": 62
+    },
+    "controladores_if": {
+      "versao": 1,
+      "sha256": "6a0ed178ef805a8eb1fedbd6322fa19fd8495e9872f2b4c83147e3c8d3fa9be2",
+      "sha256_arquivo": "2220226fd55cbcd614dac97682514fc87e77382fad73aea015103f6070b78d9a",
+      "bytes": 18931,
+      "blocos": 40
+    },
+    "conv_pcd_intl": {
+      "versao": 1,
+      "sha256": "4d43ba7a827901db5decf512425bfaeb02964b65fae7c3a558892e12d7d2e92e",
+      "sha256_arquivo": "47d264c6504b762703f4ce46e8ed0bb7ddc8f3afa7b9a97c72ef8a5c92448fa9",
+      "bytes": 119828,
+      "blocos": 186
+    },
+    "conv_viena_tratados": {
+      "versao": 1,
+      "sha256": "445954f549c52be61dd8a4f480fb097650b5077511b2433a3054fe84738db9c2",
+      "sha256_arquivo": "dd10cb0af9d727a7f77b9e4f772e2fa8450bf8fcdcf71cd04db5ddeffe4a00ef",
+      "bytes": 84230,
+      "blocos": 106
+    },
+    "cooperativas": {
+      "versao": 1,
+      "sha256": "03141efdfd575bc5b0a0aad72c0a554984ba39b10f6ea597b85902af1160409d",
+      "sha256_arquivo": "173f23cdeab325a90ebe437bcb1d3ed13d0694198d9cd52f79d9de17ad51270d",
+      "bytes": 144860,
+      "blocos": 385
+    },
+    "cooperativas_trabalho": {
+      "versao": 1,
+      "sha256": "bd8d525cc99728f722d4139ef50e73f8536ba8e176638003fd74c71977fea8ac",
+      "sha256_arquivo": "b9247a0ba0ea24a4f724f1ad19c1dcef36a30f6892156fdca50088660e6f982a",
+      "bytes": 40527,
+      "blocos": 114
+    },
+    "correcao_monetaria": {
+      "versao": 1,
+      "sha256": "aea2ebfa5255da1ddcf843cd2afe433155a8711494e972c24585132addef54b3",
+      "sha256_arquivo": "35935382e2e9872554f496d9b2acc3c26663ddfbe8e641111383040663480fed",
+      "bytes": 3173,
+      "blocos": 8
+    },
+    "cp": {
+      "versao": 2,
+      "sha256": "af8263a8b061f32e954fc54fc9e165c264d4babedb5b508685b55915abf31db0",
+      "sha256_arquivo": "2950e0318c342ad3cff964dc75b0a3a7ab5c22fe833bcddfbd86c1afd3fe8fc4",
+      "bytes": 663990,
+      "blocos": 1776
+    },
+    "cpc": {
+      "versao": 1,
+      "sha256": "0bd294bfb520f7b99a6ddb4026b7c097e38d6c99a593e10a7c7a5b34fa42678e",
+      "sha256_arquivo": "dc6eb56e67fd0ef3fdaa102e6f120b75fa9856432b1905cbf920357023f4f4e7",
+      "bytes": 1473213,
+      "blocos": 4174
+    },
+    "cpi": {
+      "versao": 1,
+      "sha256": "86967caec7dfcf759cd8374fd5ddbc7621fa7414ce0f0bc9c1dd8550e992df41",
+      "sha256_arquivo": "5e7a1a642be65cb4f3b57ebdf037dceaa4ae4f38fea778c859eceda988233eff",
+      "bytes": 8318,
+      "blocos": 19
+    },
+    "cpp": {
+      "versao": 1,
+      "sha256": "4609dcbd72e065308253bfa1eebbe6ad1e897df22c310ac97dd47e030ad45dd7",
+      "sha256_arquivo": "e5c14dc2d3ad08b2aef8cad08eed1ae3d04a488631569058098cdd3bd848e48b",
+      "bytes": 874857,
+      "blocos": 2255
+    },
+    "credito_consignado": {
+      "versao": 1,
+      "sha256": "0592c0d43c8a893dfe770f12c4a70cc4d219a4f86a86b3f2e622b9375f3afc4f",
+      "sha256_arquivo": "ec7d9611c6549b275a20be9c3c7ff2079ead999bfea528968ae3742143db2195",
+      "bytes": 65221,
+      "blocos": 138
+    },
+    "crimes_ambientais": {
+      "versao": 1,
+      "sha256": "9416f2f1872cdd1ad4c2892d9b3c26a5f2159b158b2232e354142fb348407176",
+      "sha256_arquivo": "60e46e130c4e2bd9c16da7e02c3adac00a423f4c465de12908fb989b3820567d",
+      "bytes": 117032,
+      "blocos": 349
+    },
+    "crimes_estado_democratico": {
+      "versao": 1,
+      "sha256": "f8425a37a16c40c098f55dc6490bca55dac9e0db16fd9e63884fa8aca9d9ec8c",
+      "sha256_arquivo": "f6cbef8ae83cb7278db76d63f2d85717a5bb767a2044e4f6efe46a01277cbc17",
+      "bytes": 8593,
+      "blocos": 6
+    },
+    "crimes_ordem_economica": {
+      "versao": 1,
+      "sha256": "2c01542c52f8bebb0d0055fbb008057db00dc139638affb39f06e8c39749502e",
+      "sha256_arquivo": "d0af0f5c38a48d5e13137fddb55bb546294011653ed6b73971ead89cc43e1bf9",
+      "bytes": 6044,
+      "blocos": 16
+    },
+    "crimes_pcd": {
+      "versao": 1,
+      "sha256": "c946e67d76ff2be20c2c104660f569657d30f8df0c02eda834aac82ed15a01d1",
+      "sha256_arquivo": "8c3b535921c8d3f7ff2a2f6662d42cfbbe9e4deca9079989a8702edd665e00d9",
+      "bytes": 36030,
+      "blocos": 83
+    },
+    "crimes_prefeitos": {
+      "versao": 1,
+      "sha256": "c8ff74b55616845e643e55f64ca854932c349046f027d6dda1b5a812cf509281",
+      "sha256_arquivo": "36b721ec4fd8837f424bdfb7de3d9fbead35c486ace2eb73a26fd692c95f15b7",
+      "bytes": 31412,
+      "blocos": 73
+    },
+    "crimes_resp_governadores": {
+      "versao": 1,
+      "sha256": "ee3524a594039e7ec759e74be2f8fbc20b4eaac20e38e1ab02392bf6d348a4e5",
+      "sha256_arquivo": "85ea0d928e709d73a95fd788aceed0e453e4d700eb4c7620b851f357f6f3c88a",
+      "bytes": 5341,
+      "blocos": 11
+    },
+    "crimes_responsabilidade": {
+      "versao": 1,
+      "sha256": "78f0060c4e830f91141c5aef3f16717b16f7b71b10442223b6e75bb6c06a2a7b",
+      "sha256_arquivo": "e3e40e9baf990ff4a1f9a57a26b7784d7c107ec23648fff1a658dad281733340",
+      "bytes": 73119,
+      "blocos": 164
+    },
+    "crimes_sfn": {
+      "versao": 1,
+      "sha256": "117e2deab9ac3fdac2c3cef7b7efa89c767ebc40946185849ec67a1433d6959d",
+      "sha256_arquivo": "e7d2069ebc5630e532bd491e06d96f5cacb4f175368a341fdfd32f2abb2f4864",
+      "bytes": 29588,
+      "blocos": 85
+    },
+    "crimes_tributarios": {
+      "versao": 1,
+      "sha256": "180ab67d0071c3ebf5dbc96831afc2c78a9e319ae809b6b062f8f2841da2ea8a",
+      "sha256_arquivo": "4c55162abe9d759c0142c533a7526668bf4a4ce4f9574a2d604fda3b42b10869",
+      "bytes": 34168,
+      "blocos": 96
+    },
+    "csll": {
+      "versao": 1,
+      "sha256": "d9efb189039bf226983d629ea63dd6fec621b4da48bdbe0bf9c6bc9536ca647c",
+      "sha256_arquivo": "450baedcf5dd04fa687181ec6962ee8b2f838b76c1dbdf6bb7ab1b0ae507d1cc",
+      "bytes": 16151,
+      "blocos": 32
+    },
+    "ctn": {
+      "versao": 1,
+      "sha256": "0f668d64761720a760b4a9733ebdab667e329238feb00f16cb98149b0f6456b9",
+      "sha256_arquivo": "9a66864789900607de005a96c9734571b49ccebb368b4fdb70d24c136c69019b",
+      "bytes": 261608,
+      "blocos": 728
+    },
+    "custas_justica_federal": {
+      "versao": 1,
+      "sha256": "3cd45b2f25a13ca27bd0dd86a92d8d958d3f2f45c9cf9b96398095aba8b4f5d8",
+      "sha256_arquivo": "2e3e12c4545d30d1d0be985fc37f4b12557ce5797a7e3b7decf9e775f0db1cd4",
+      "bytes": 30676,
+      "blocos": 76
+    },
+    "custas_stj": {
+      "versao": 1,
+      "sha256": "7ece25051c13f0fbe34e6db75b4d46b57321163244b7d28f0840001a56f0ea16",
+      "sha256_arquivo": "5b1d8a5ab320e52f0ebb32ae3f5081d8f31f381b50e495f535babba683a94d9d",
+      "bytes": 9456,
+      "blocos": 23
+    },
+    "custeio_seguridade": {
+      "versao": 1,
+      "sha256": "360cb635ba3af252174d188d57f831f9c7e00587113f20853ac7db9dcea27f92",
+      "sha256_arquivo": "95ddd1119b21be0491aa0d6cac680a53b41c4794a80d6c970fe234b8961e2dc7",
+      "bytes": 289734,
+      "blocos": 690
+    },
+    "cvm": {
+      "versao": 2,
+      "sha256": "3f1fa832de2af3e1b18b93b46aa2ceed5e9c2ba27de08a3cd9368816cb3496f7",
+      "sha256_arquivo": "298111536984cb9b56e1e4eea356b8312efaeceb672a718eb182521842e992b5",
+      "bytes": 112287,
+      "blocos": 287
+    },
+    "decimo_terceiro": {
+      "versao": 1,
+      "sha256": "a8fc3a5f45344a36fc32bc9b54111737a76ea6f81ca9c7f1655efc9ddec33704",
+      "sha256_arquivo": "e7323d1338ca3b3b9326ff57cb3ca16b61944c97319950ec72f389932bde9d90",
+      "bytes": 4082,
+      "blocos": 10
+    },
+    "defensoria": {
+      "versao": 1,
+      "sha256": "998a4a48a362f8b5f1dd08ef26c044e6bdfef457bd095bc29badf6b4bf7a8de5",
+      "sha256_arquivo": "6ed99b97df116c4956a94ca9218744ceff6c789d6f943e6dc025a1e94ef097e0",
+      "bytes": 289545,
+      "blocos": 784
+    },
+    "depositario_infiel": {
+      "versao": 1,
+      "sha256": "5d06cca3c0374cc25143655d9c3561c35b56f349b49bdab8e11ca2cb19f371cf",
+      "sha256_arquivo": "6ce9d07710d5b287c140e4526c64940e3572ce30ea2e3f1b171fe33014c22f9e",
+      "bytes": 10524,
+      "blocos": 26
+    },
+    "desapropriacao_agraria": {
+      "versao": 1,
+      "sha256": "81ed8eb7deaeb3fddbcf4594f50e5278c7f73939033d737365de1b99698bb89c",
+      "sha256_arquivo": "0af95ef7fde67b3fba9084a0da74ceab1b84807bd0b7280a678b2e86e1e18cad",
+      "bytes": 30504,
+      "blocos": 75
+    },
+    "desapropriacao_interesse_social": {
+      "versao": 1,
+      "sha256": "05bcba29b75d0bc37a466d1e71cefaf9100c572fe602171d08ef44d4f709f0b0",
+      "sha256_arquivo": "831b82adacc1c4c11b5500c37235c69ca944981f4b48891f8e2e221923bde9d9",
+      "bytes": 7531,
+      "blocos": 19
+    },
+    "desapropriacao_utilidade": {
+      "versao": 1,
+      "sha256": "90ab045ee4d2cbc5603fb2b3758af0529815ab67c005597b9de559cb1d637218",
+      "sha256_arquivo": "0b49170782085d2dfb1e40802f07329703611dd6837f7f81fd0b06ba23bea03b",
+      "bytes": 60567,
+      "blocos": 146
+    },
+    "direito_financeiro": {
+      "versao": 1,
+      "sha256": "213316fe07b44097a870c4c7ce059fb059bf405eaae2534bff3b0438daab37b7",
+      "sha256_arquivo": "42e8a59496ff4d6d5a0e6be22e834f48c9cdd9819761563f40c4c6c28d088966",
+      "bytes": 118085,
+      "blocos": 312
+    },
+    "direitos_autorais": {
+      "versao": 1,
+      "sha256": "06e8bedcacad6580a3f999a5fd4f9a3f39a5af41384ca8e382ad1fd78797214e",
+      "sha256_arquivo": "5843403216e11bb9fa3261ffbbdb9368b28f07651fe064142a490b520a020362",
+      "bytes": 155602,
+      "blocos": 418
+    },
+    "discriminacao_emprego": {
+      "versao": 1,
+      "sha256": "c9bbf0deeb079f52cc45bb3b7f0338fd66c5a17e907091d7c3a90370b06fb99f",
+      "sha256_arquivo": "eb8f385ab3b927012fa1f0975d599f7efa18f175b048744a407fcb2dddc980df",
+      "bytes": 7837,
+      "blocos": 19
+    },
+    "discriminacao_hiv": {
+      "versao": 1,
+      "sha256": "83e1218f7373bd370b6ec94159a1ed324dd2a385908bb23a24c1c08d1da50dfa",
+      "sha256_arquivo": "8291c55b6de045bf90bc36b5e4d0bd988cf552aba5261cb133b822ea2e561656",
+      "bytes": 3243,
+      "blocos": 9
+    },
+    "documentos_identificacao": {
+      "versao": 1,
+      "sha256": "264d761dfd3ba15db44d62c66fd545365613c5be4ed6de8fe55bf42b22a34ba6",
+      "sha256_arquivo": "2fcb428a43102fe9eef16b6b892c9951585f8508b65d8d15a385fba66a9c57da",
+      "bytes": 4396,
+      "blocos": 9
+    },
+    "dpvat": {
+      "versao": 1,
+      "sha256": "feb1b6322f14207f5b91eb1979b7728f903b5ebd380418081a1891f15034c33d",
+      "sha256_arquivo": "b2ace013bcfc3094e155fc293a6accddf0583535ae644daa412dc180299ab775",
+      "bytes": 21692,
+      "blocos": 43
+    },
+    "drogas": {
+      "versao": 1,
+      "sha256": "5c32f31fe46d9023228d3c7d6cef7915a192813005bde93a18c422991316ccde",
+      "sha256_arquivo": "0b5dd1e377c89cdde105a07072412c4fb98fe4f185a5333f360b783ec92a4422",
+      "bytes": 173928,
+      "blocos": 443
+    },
+    "dudh": {
+      "versao": 1,
+      "sha256": "16e6f1ddc7eaf899c8799c47745b7ada7d5b2e70006dcc5fcc97a1ab66866881",
+      "sha256_arquivo": "50455278b6912aabec5bf9a109080431ef7fb529dde33eb2400c914f5bd3650d",
+      "bytes": 24508,
+      "blocos": 62
+    },
+    "duplicatas": {
+      "versao": 1,
+      "sha256": "79b53dc62326a82957e12aa863a38c4dd6368f7f126cb4f1c80f896e3cb61891",
+      "sha256_arquivo": "cc9aa18cf41a3ebf16bbb1c83615f5fc69f4a3ae64add8c428f9bea26b14d2fa",
+      "bytes": 37230,
+      "blocos": 96
+    },
+    "eca": {
+      "versao": 1,
+      "sha256": "4a6247b87c55672bef27bae849b9333e5f3cb55b34131c4654d3517df47061dc",
+      "sha256_arquivo": "569f982b8e78d88f10e52ba53170b8aeb546ee55a49453601b62c970da840abf",
+      "bytes": 540676,
+      "blocos": 1367
+    },
+    "economia_popular": {
+      "versao": 1,
+      "sha256": "0df6f350ce12d5e852185d2da6018df4f33ea4247e0b6ec2bf5d57c4bc15ba9c",
+      "sha256_arquivo": "2b1a1b0a986ae037e9dda14d13980bac8ea678ce8b7d729bd16fd088db35bcb9",
+      "bytes": 34059,
+      "blocos": 83
+    },
+    "eleitoral": {
+      "versao": 1,
+      "sha256": "876f8f63df5f8400d5ca9c5312fd00a56385178f0627030b117d394e10f01050",
+      "sha256_arquivo": "4bc324ea67803ad6dc3eebbea15f5e7b967971530a35809b5714a6b5382060e6",
+      "bytes": 565967,
+      "blocos": 1490
+    },
+    "emprego_publico": {
+      "versao": 1,
+      "sha256": "40608de84c1961e519e48d119d911471829b0a2134ee5470a2d5063e4bddd331",
+      "sha256_arquivo": "5c4943de86ea2be036ad06aa5383334b6964f7f08e556c060274a7522c88d359",
+      "bytes": 7057,
+      "blocos": 19
+    },
+    "estagio": {
+      "versao": 1,
+      "sha256": "5c767fca0c9373d99f01284499cd1060ea87ddf010cf37f7b1d8b4fcbcb8737e",
+      "sha256_arquivo": "e90c65ad544d51605f4b672940328d002476a09c95c9bed11a374e1f521931ce",
+      "bytes": 35389,
+      "blocos": 90
+    },
+    "estatais": {
+      "versao": 1,
+      "sha256": "568baf53410f07bcbf7fc69bd000de273f3ebd49a88ad4265e350c4cddc58e4e",
+      "sha256_arquivo": "2405ae05a2d4820084945f0697999eac756436ae7b294765c013a62ab92e761c",
+      "bytes": 253165,
+      "blocos": 645
+    },
+    "estatuto_cidade": {
+      "versao": 1,
+      "sha256": "5bb2030f0a363fea88a1cc63c534fd98721574c8fe4137ffddc9d9d32c231ae4",
+      "sha256_arquivo": "d6dfacfabd74d2cbe81102052a0bb869080715b9fe5344584ef33a067865da3c",
+      "bytes": 114987,
+      "blocos": 316
+    },
+    "estatuto_cidh": {
+      "versao": 1,
+      "sha256": "f6dc063a46b62d6c3c9d5911a9193f8545faf6f8cf78f1cbcf649eb5faffb654",
+      "sha256_arquivo": "d4a7fac940ca9386387273e08dd09b40c0b3fd39c47f5cf624ac0012dc6e68ab",
+      "bytes": 21289,
+      "blocos": 27
+    },
+    "estatuto_cij": {
+      "versao": 1,
+      "sha256": "febeb4a92fe26cfb8d679533c77d0fd9e481c487ab1681839cc8077419d0b9b9",
+      "sha256_arquivo": "6871bde06196d261f0f9521a3f4de83088d890fd48c3e8a3b8a3121d9c8bedf2",
+      "bytes": 46081,
+      "blocos": 76
+    },
+    "estatuto_corte_idh": {
+      "versao": 1,
+      "sha256": "34a052a23aca02d76b8050775e89b828f3334669b7a1163f7a274727acd847d0",
+      "sha256_arquivo": "69e55cfbe5968a7655a11eea8b02923a7fd8b11d66ef68b4675807d9ddad0d6c",
+      "bytes": 26557,
+      "blocos": 40
+    },
+    "estatuto_desarmamento": {
+      "versao": 1,
+      "sha256": "954f2176f1303f786f2668f9e6c7059248b1c03806598e18fd2dbd3aeadd5dee",
+      "sha256_arquivo": "53a15dd6abdb524587ea985c42e90ff6f52f472e944365d52434f29c8d0f3eb5",
+      "bytes": 75126,
+      "blocos": 181
+    },
+    "estatuto_idoso": {
+      "versao": 1,
+      "sha256": "9083ea5309865e671368120db4d827c6fae3298991ce22c919229f8cb0453344",
+      "sha256_arquivo": "d0c23f3c991045fd7bea060f99db82a8b1179e138b6284068213178c27c8c619",
+      "bytes": 144494,
+      "blocos": 382
+    },
+    "estatuto_indio": {
+      "versao": 1,
+      "sha256": "7b13c0bb4344e8fa81c505582d709144655ae943609e24f577b03a0ae9a8f728",
+      "sha256_arquivo": "185fc87416c6889d4e3cadbe923fca05f652809ca94686b00c80a59d540732e6",
+      "bytes": 64094,
+      "blocos": 177
+    },
+    "estatuto_juventude": {
+      "versao": 1,
+      "sha256": "bf0122c0d33fe3f17199d1f79ccd5e68cc99a79504685f237dbccb8a823de4d4",
+      "sha256_arquivo": "373b21512ca2ce5bf11f8e1eb23515070ac3595b245955c5f61b15781de5b190",
+      "bytes": 83682,
+      "blocos": 237
+    },
+    "estatuto_metropole": {
+      "versao": 1,
+      "sha256": "604b253deda263935d4fd7a733e60b6ab653d7e3690944f456bccc490f65abd1",
+      "sha256_arquivo": "2e2139189d6c858bda888c28d576d6794c3e53cd3a8f938602cb294c2be9864c",
+      "bytes": 45304,
+      "blocos": 119
+    },
+    "estatuto_militares": {
+      "versao": 1,
+      "sha256": "3e0a66b75b6ba89649d77f902c25fafd885bd979627624faffc177e787fe7f64",
+      "sha256_arquivo": "fce12844306aec9ca5b38ddb745721011679c97f1484556c3aefa79b124a9713",
+      "bytes": 288007,
+      "blocos": 781
+    },
+    "estatuto_oab": {
+      "versao": 1,
+      "sha256": "3b0a1796d6b828ebd470d156bff6be40c64f987676e391ff6531c3c74000c599",
+      "sha256_arquivo": "43e2c4fd1ba54e556a83217d1c71af4a1ca279e4a347e9b898776309fe35dcfa",
+      "bytes": 198105,
+      "blocos": 514
+    },
+    "estatuto_roma": {
+      "versao": 1,
+      "sha256": "c18e3ec912927b12bc8493905ab53e37d5efd578ebc6f75e08d3af1eef394a0f",
+      "sha256_arquivo": "2f586f29cda3e6c67874409c56e2ef9d91dee14bdd8d99504cc9082d5b238418",
+      "bytes": 298281,
+      "blocos": 499
+    },
+    "estatuto_torcedor": {
+      "versao": 1,
+      "sha256": "b09811b88fb4ff5634ad20ea71e0efee415ab9095a9923b041722bd46fce5b5f",
+      "sha256_arquivo": "beb023aceea96192657cfede35ca5830c020e68f4f5fbbb44e4e6e6daf1ec801",
+      "bytes": 86359,
+      "blocos": 233
+    },
+    "execucao_fiscal": {
+      "versao": 1,
+      "sha256": "f703460ba2e8234c1f6cce6104e8d71aba92810bf63ad53040bbccfdbea74110",
+      "sha256_arquivo": "a80be8cea63f4bd94d326fdcd0f95ce4def4d917e3b3d1e17a68ec7fa0696466",
+      "bytes": 58438,
+      "blocos": 164
+    },
+    "execucao_penas_acomp": {
+      "versao": 1,
+      "sha256": "5777ab350f7c19c544857d06cac644e5acdfacd8448766102e4a1e83a2ca4943",
+      "sha256_arquivo": "c3f5029eabc6d1fd9230775eea6063c0fe000454abf4a6fefc5360b2c9808b74",
+      "bytes": 13338,
+      "blocos": 42
+    },
+    "fauna": {
+      "versao": 1,
+      "sha256": "9cd392baad8efb5aba45252e83bd91d5ea974c6e3522060b49eddbe308add6bd",
+      "sha256_arquivo": "7e713af3c5aded53448f02f7bd49edf30309fc71b5ab9f45bac68f3f31c7c392",
+      "bytes": 33945,
+      "blocos": 91
+    },
+    "fgts": {
+      "versao": 1,
+      "sha256": "888bf02b92cf8d0a253bd47a39fd1b4ac9786131e6b71f56df54c6d0866c0ea3",
+      "sha256_arquivo": "e341dc4fbeb4de4d98be75b32efd409150f81ea76cdb590a41f518148207e2c6",
+      "bytes": 155469,
+      "blocos": 361
+    },
+    "ficha_limpa": {
+      "versao": 1,
+      "sha256": "48770bbb49c2480f267f7748f58657251d6a505e48ef44c82587ff038560cc1c",
+      "sha256_arquivo": "a3a27a62d3158f235a99fc9bf0a888d66edb9035425731c4588c056aa3cc9aa5",
+      "bytes": 14457,
+      "blocos": 6
+    },
+    "florestas_publicas": {
+      "versao": 1,
+      "sha256": "be27dfef80ba15874a24cba52288579d6481cafd0e3d79c477b3354537155f8d",
+      "sha256_arquivo": "d3f9a033e2ca38f9fe69866520458df11d8f3a5aab9fdce6c167add06542191a",
+      "bytes": 224157,
+      "blocos": 587
+    },
+    "forcas_armadas": {
+      "versao": 1,
+      "sha256": "4799cfb0b6efbd44ed137d3724fbb07d7eac48bbec7736379d353afa4a177585",
+      "sha256_arquivo": "ea6b1701f0c670f634f681b5667e60974e34f76a6b61f5ea416e4eb3af7bd6da",
+      "bytes": 48064,
+      "blocos": 112
+    },
+    "funpresp": {
+      "versao": 1,
+      "sha256": "2917ccca7ec95d0d709235d8551377f120d959da45234dce62c00e79ad203ba6",
+      "sha256_arquivo": "ea69072f64f8fbea85d24e7723ecdc8ed5978a0950cb7c0c737dc6ba1a56746f",
+      "bytes": 76754,
+      "blocos": 169
+    },
+    "funpresp_exe": {
+      "versao": 1,
+      "sha256": "0bb24ec57e06ca9eacb4cb0291c198020b6c4223d4a329ff2e0788f3ae995122",
+      "sha256_arquivo": "0fbc353cfd490a83f8cbcc471a164a1f238b5a2782d587c4250e928ce9a50211",
+      "bytes": 15401,
+      "blocos": 40
+    },
+    "ganho_capital": {
+      "versao": 1,
+      "sha256": "ae81be5549e7f93f9b004b4d2229d71ceb05ef70cd15162c28ec833cb8d2812f",
+      "sha256_arquivo": "c05dfcb83a38fcfc5e0d4c6ec130cee1157061c0214e844bda7e0c0c584715fc",
+      "bytes": 14559,
+      "blocos": 22
+    },
+    "genocidio": {
+      "versao": 1,
+      "sha256": "3d262493bc17d573b84ccfce0a244dd062a1a451adb174399230aa2fc7087d55",
+      "sha256_arquivo": "f0578d130cb77c0d228b098ed70ef15d3502916e208433283d1c5fed06b6f1de",
+      "bytes": 5549,
+      "blocos": 17
+    },
+    "gratuidade_cidadania": {
+      "versao": 1,
+      "sha256": "3d1ae0738098cf0faecc0a2a2065e81ece918869a5826f7dbc70acf8f1248c60",
+      "sha256_arquivo": "230a9c6e84adac39b5ea9ae8b5ed2cf1c39c4da3b5ad6d5c5161f293e2708d9b",
+      "bytes": 4012,
+      "blocos": 11
+    },
+    "gravames_ativos": {
+      "versao": 1,
+      "sha256": "5a17be9cc7231adfd7b475a7116fc27625deda8e26df2581af4ee09b800b9946",
+      "sha256_arquivo": "03ea9ea84f9c26e0dc5be2aba645b3c237fa8a40d33958f253b1ccfcec8cf876",
+      "bytes": 5537,
+      "blocos": 12
+    },
+    "greve": {
+      "versao": 1,
+      "sha256": "dcdb52c17bf53680850ce6ade088aae286ba14bbfd0b99a053503011fd2f6512",
+      "sha256_arquivo": "52c2d527005416ca984819156c6c90ce934d3f9b9d814db7f18eaea31c195385",
+      "bytes": 19224,
+      "blocos": 52
+    },
+    "guardas_municipais": {
+      "versao": 1,
+      "sha256": "7267520d9cbfde6b59a37ed2df81c50ed7c6e157919eaf53950cd7fb956b0b99",
+      "sha256_arquivo": "47936d530c76593a9b1b34f5cb589de259ef92de3cb3746529654f84e9813662",
+      "bytes": 30974,
+      "blocos": 89
+    },
+    "habeas_data": {
+      "versao": 1,
+      "sha256": "bc35253f5d563d658b9327a9517acf0043a4930e2e660ba05e8e83ea6eff3cdc",
+      "sha256_arquivo": "7bcad6bffa6a71942116e9a604f29dcc4a8724b68f6e59bbb8c7551dbd83d50b",
+      "bytes": 18650,
+      "blocos": 55
+    },
+    "hediondos": {
+      "versao": 1,
+      "sha256": "6f9ea5984433a04b9444cf69b450d02a99f118394d2d2755107ed345f7bfd2e1",
+      "sha256_arquivo": "98cff6ee481a10f54758908b65a44182f7c9697ef307572e47e52aed1cdf3455",
+      "bytes": 25818,
+      "blocos": 66
+    },
+    "identificacao_contribuintes": {
+      "versao": 1,
+      "sha256": "322695b2fb3b58870c08f60b255bfd0408245bfd2cc4333b220d5e3e349f950f",
+      "sha256_arquivo": "8262ac08e8a1c0d336cbd54de70d95de57b2c652b0bc7a099923405f81d517a7",
+      "bytes": 17769,
+      "blocos": 43
+    },
+    "identificacao_criminal": {
+      "versao": 1,
+      "sha256": "ec5b7264bb7358fdb379afa2912c879287272ea787602567a4c33f2284002285",
+      "sha256_arquivo": "e844b3db96aaf575c70dc7cb09480c31303dae2f8073596671a94613849645ec",
+      "bytes": 18006,
+      "blocos": 45
+    },
+    "igualdade_racial": {
+      "versao": 1,
+      "sha256": "2312ad9cdbbcaceebd6d783ffa36d76377b89ddd19c195fbb86079240cc7da94",
+      "sha256_arquivo": "af232605821fe833f6911e9584287bab8a3d1c51e0027b8e20e46b7c94b4c396",
+      "bytes": 80723,
+      "blocos": 198
+    },
+    "imissao_posse": {
+      "versao": 1,
+      "sha256": "7fc3a553a868423dcc113b7839823b6212bde97db0af0f0eabfef80234633e1e",
+      "sha256_arquivo": "fbf76652b5512105ec731f577cbbc1bc6967257fd2c7ccf26efd427795fe693f",
+      "bytes": 5393,
+      "blocos": 11
+    },
+    "imoveis_uniao": {
+      "versao": 1,
+      "sha256": "c03369d94b9e07912d4ee76976399263ff5e0cb79129a3fb24086baa694bb97d",
+      "sha256_arquivo": "d3bbf0be37c1f7936a00c5f0e7121d54aa8b9e1a63cbd416de92a3309aa22799",
+      "bytes": 226921,
+      "blocos": 525
+    },
+    "improbidade": {
+      "versao": 1,
+      "sha256": "854e8a2d01f65276735e24aefdf58a4460083b597c24374258ec42f343cfc607",
+      "sha256_arquivo": "32e892a57d9abc74d93d8ff84d8e35bab0cf03b3f6240b7701af38ebd63444d2",
+      "bytes": 115660,
+      "blocos": 269
+    },
+    "inelegibilidades": {
+      "versao": 1,
+      "sha256": "46fcc28291bf092e822b0d01f586e9e1c6d6ef25159fe4dec2b08a4850622e6c",
+      "sha256_arquivo": "8fccf2842cce01871380cb3aa7aa1f1653bb0e06190648379d510a0171ac29f5",
+      "bytes": 71757,
+      "blocos": 143
+    },
+    "infracoes_ambientais": {
+      "versao": 1,
+      "sha256": "9a5133877f4f471b35cf29f65b3af0115f0639ba1b459c4d9a64f4df2d761123",
+      "sha256_arquivo": "8a4ed032d9cc5bceb606b336b29c3cd28dda901c85ebe249309f305f0010a488",
+      "bytes": 254942,
+      "blocos": 621
+    },
+    "infracoes_pf": {
+      "versao": 1,
+      "sha256": "233569fddfec6d4625373f0a963044b297b3448b81b698af12671193aa2c36fb",
+      "sha256_arquivo": "dcc0083f58acc923359bfbd7df0b02614928f3fa32fe90cd6fad2032bb92ce11",
+      "bytes": 6036,
+      "blocos": 12
+    },
+    "inquilinato": {
+      "versao": 1,
+      "sha256": "09231a72cb07b8ad14324c33b4c9ff3e24870424bd984b6d7bc99afbed94d69e",
+      "sha256_arquivo": "90997967dca4a73bc20a337e1a0a0972256b93b75e125badca1b7c428d30e257",
+      "bytes": 128328,
+      "blocos": 347
+    },
+    "interceptacao": {
+      "versao": 1,
+      "sha256": "ebde6d9bcd2eabf036fb6b63a3046a8f442ce0920adeb5df90f7d203d09181e0",
+      "sha256_arquivo": "d32ff23565dc5d4cecb0f7cd11b7abd6d16c90eacd619f64eafe6113451fe82c",
+      "bytes": 16549,
+      "blocos": 41
+    },
+    "intervencao_uniao": {
+      "versao": 1,
+      "sha256": "142b5c4d32413bc5d80ad77cd6ec1793fa38f6f2b0f25ee1a63e9c56755fb8b5",
+      "sha256_arquivo": "6c8267ebff75cb4c099062f48a339c90e4a83dc37b8232524217771ad1810179",
+      "bytes": 20994,
+      "blocos": 41
+    },
+    "investigacao_delegado": {
+      "versao": 1,
+      "sha256": "fe3f057d770a265a2d0ada18743c587e7028e113b139a0b9876ae1167fee737e",
+      "sha256_arquivo": "1d425561a69f8b3159bb7be62f1af926aab41547473c84b65a6f146eae5dd98b",
+      "bytes": 4558,
+      "blocos": 11
+    },
+    "investigacao_paternidade": {
+      "versao": 1,
+      "sha256": "f9d6a9bec999db208d8a32c2f18ae0ba6fde946b22b57ca27e8f524626a35c0d",
+      "sha256_arquivo": "a9c7826aaf06843b1c98c78b5b38139e069e9bd70ebc2cf7afb1e6e1c600c0ba",
+      "bytes": 10835,
+      "blocos": 27
+    },
+    "irpf": {
+      "versao": 1,
+      "sha256": "1d60044dbfa29ff0ce5ae0fa1a2e7dd2e5a2412a4b1f2d94da825f108b7f661c",
+      "sha256_arquivo": "28b8c1a853edaec74ca0363e108e0831c1b46b9106a2a16d5d5b6a702d375367",
+      "bytes": 125116,
+      "blocos": 296
+    },
+    "iss": {
+      "versao": 1,
+      "sha256": "3e0f132885a61859c9238f86a1b60ee90c1f2ee51c78f60ac4d4e437f03f7982",
+      "sha256_arquivo": "8197ce1dfa1448b8b42df3226555fdca363cef29177fb308cda5ef59c3b233a8",
+      "bytes": 34843,
+      "blocos": 79
+    },
+    "juizados": {
+      "versao": 1,
+      "sha256": "cb0cef2917328fc6be9d45c5a1fcad5bc71acdb41e1c74808ce1b5ee24609981",
+      "sha256_arquivo": "01c2a412376ef62dbac49bc468b1bb5b453f7ac1c9eae9d27ce2ab34eeeddafc",
+      "bytes": 97447,
+      "blocos": 271
+    },
+    "juizados_fazenda": {
+      "versao": 1,
+      "sha256": "cf644cb0b5db37096f4bca85d1b67e9778c30d8ce693d5d6c85763b281e389e0",
+      "sha256_arquivo": "6dd911887f1a5d98c11aad99140dc44a64a646e8c7b6d8fd39db3186cb2e85a1",
+      "bytes": 25988,
+      "blocos": 66
+    },
+    "juizados_federais": {
+      "versao": 1,
+      "sha256": "9548327e42b93370b093b17092b9bcf3b1d3636b3b292995c0e0352dc20fe0e9",
+      "sha256_arquivo": "21611bc4cc87a8ad5e40d3afc88f5250f3cc18fdaa25c50a1ae9eaf0c7ab1b9f",
+      "bytes": 26551,
+      "blocos": 64
+    },
+    "julgamento_colegiado": {
+      "versao": 1,
+      "sha256": "935da449a7b7d8265f7154e3830943c531fc7be859b81def960512b761c2fe83",
+      "sha256_arquivo": "0c0c51ebdc30bb8f20109f40998a238295b86837d02ad523d1ac6d8b100bce14",
+      "bytes": 26705,
+      "blocos": 53
+    },
+    "kandir": {
+      "versao": 1,
+      "sha256": "4e970a7eabdf653d9c3345574d0e3da03c92748843841d79db0a6b1ffca10071",
+      "sha256_arquivo": "669371a01d6a6010346e2e164e930b59d7fd7c6cef3a3dca64ca9683accbad44",
+      "bytes": 131000,
+      "blocos": 298
+    },
+    "lai": {
+      "versao": 1,
+      "sha256": "cf37051ed3df85c1471bc0bca13ca5c98f34ad93702a00d11215ce30a6c9ff87",
+      "sha256_arquivo": "cfde0cd9109c7db234903c9130625a16e1f7da41f06d8491c8a677ad43c6f8ba",
+      "bytes": 97366,
+      "blocos": 261
+    },
+    "lavagem": {
+      "versao": 1,
+      "sha256": "90dac3d3ea6928b3300ddc99b5a15abf3c3ee849a205f997a6a55f7e760abfbc",
+      "sha256_arquivo": "84b25304e68c82409e7c08fb8750ee8256c2786b3afdea5c24c54b6cb521a200",
+      "bytes": 69701,
+      "blocos": 172
+    },
+    "lbi": {
+      "versao": 1,
+      "sha256": "7500a6087a1b8d22a1e105604fb7c30d292cc01991dbf44dda838ac4a9042f9b",
+      "sha256_arquivo": "9537a44d85f0d3b88d26a7ceff7e158613df07c0476945a4469d48b5131ce7d7",
+      "bytes": 239422,
+      "blocos": 584
+    },
+    "lc118_ctn": {
+      "versao": 1,
+      "sha256": "3b0d899eaccac660aeabaf6f7e7a145a39b29fe3a38777f5cceb9e95ac3f9573",
+      "sha256_arquivo": "dbfff7debb9cb1cf735563c8bbc2a82e57bd353246d13f60daf46098d3a07b5c",
+      "bytes": 12043,
+      "blocos": 24
+    },
+    "lc142_apos_pcd": {
+      "versao": 1,
+      "sha256": "26d41896d58fa92a3ed593ac06960cd6b1374f9bd5b46a926f20caa040514b30",
+      "sha256_arquivo": "15e20ce3dde707f2b388feeaf509aaef45d16db15b6f675443444018b8a9bbf0",
+      "bytes": 11127,
+      "blocos": 26
+    },
+    "lc148_divida": {
+      "versao": 1,
+      "sha256": "149fc30de6d582b28e8b7291e044150538688ca47b22ab9a63c797458047e854",
+      "sha256_arquivo": "3b6d55e1e9d3f250fceaf6de5a10f9286188f052c8bd98e1accd6025ee902dfc",
+      "bytes": 16109,
+      "blocos": 36
+    },
+    "lc151_depositos": {
+      "versao": 1,
+      "sha256": "340f6d3817a358c9c32f2dae4255e5ee73ca50665ed9cea4adc8eb425f3d7e3b",
+      "sha256_arquivo": "e52a1b768afac5ea54b0dbd086790606ca942a5ad0ffc188c2ca91c4577090df",
+      "bytes": 21403,
+      "blocos": 43
+    },
+    "lc152_apos_compulsoria": {
+      "versao": 1,
+      "sha256": "a89a5da6de49b98acd86336003e29d1eac6d89460805293ba86a3fe46f150e07",
+      "sha256_arquivo": "8336bb78c58ce3222f2a94277eec511b98fc1ac07aa6819a7c68968b74e7d280",
+      "bytes": 4516,
+      "blocos": 11
+    },
+    "lc155_simples": {
+      "versao": 1,
+      "sha256": "8ad5d1aa4cfb78d36f8ac39c762d5b7ada0390bb2f902e3b6160fc8c9ec1ff6f",
+      "sha256_arquivo": "b37c060d5e260c76c4327670be084402c3fe860fe55c9c2c87bf0487d0053628",
+      "bytes": 47600,
+      "blocos": 41
+    },
+    "lc157_iss": {
+      "versao": 1,
+      "sha256": "e74fb98a9c11fbabf26e084e92a0f5b3b7c922d6f534aa4ea6d03d77c029c655",
+      "sha256_arquivo": "6833be8bb1ed8725c394e29cdd4cb82173cf6616c62b0635514a108c518c69c2",
+      "bytes": 11566,
+      "blocos": 9
+    },
+    "lc160_convenio": {
+      "versao": 1,
+      "sha256": "c70e78a929f7d4da448cb41ec3dcd33d22f0d48be3c12686b8be55b5db95e5de",
+      "sha256_arquivo": "4c026557becc6be3ed33022ce4ce7264755ef719fe2a34f73bfb623470f1f936",
+      "bytes": 17540,
+      "blocos": 36
+    },
+    "ldb": {
+      "versao": 1,
+      "sha256": "ec0e86503ace52e0d556a0130327e798173070c476b3f0e24c05a91b62ff86c6",
+      "sha256_arquivo": "a5556e235f9298665200e625c493a3e8fbe07427c0b3d5d01b395f129fbcfb1d",
+      "bytes": 261935,
+      "blocos": 668
+    },
+    "leasing": {
+      "versao": 1,
+      "sha256": "59a35f21ecaac8f78908cb323e8c36c4d6d2959e9b96c9e4c5676be859b395ce",
+      "sha256_arquivo": "c5fc3f9e3fcc2ea3322378b92ea32878687f0cc97fde1783540dff61978dcd13",
+      "bytes": 26506,
+      "blocos": 63
+    },
+    "leasing_veiculo": {
+      "versao": 1,
+      "sha256": "dd4ccacf4859b2cec4a624aeecbc1d780ef3e28a3ecb9b84d5c03434b3ee8d57",
+      "sha256_arquivo": "0103561e675e565f45529d711ccd9d74ef097f2ca8128411bcd6d15ac5cc4d8c",
+      "bytes": 3919,
+      "blocos": 7
+    },
+    "lei_eleicoes": {
+      "versao": 1,
+      "sha256": "3dd01f474e80ac93f5d6956ebbde06f2188dcb87e455ad92a14d551ba4cc39c4",
+      "sha256_arquivo": "7a468c9dd4641f05839633fba53a0059ff9403f7932ab3ff7df58e671d82910f",
+      "bytes": 345356,
+      "blocos": 804
+    },
+    "lei_ferrari": {
+      "versao": 1,
+      "sha256": "3aa5c7b4f1e7bf521bc108b975f019df99f1f637b10c93ffb1612dc979a969a2",
+      "sha256_arquivo": "b540f9cde3853540f4e6eff2508d084e4f903b6b8fed2565a4e3515d5b4ec3c9",
+      "bytes": 58313,
+      "blocos": 159
+    },
+    "lei_franquia": {
+      "versao": 1,
+      "sha256": "a68a583f891e4e767b5beccb8b8ffee08f49e6b53d3d07d525a392c0e75a2542",
+      "sha256_arquivo": "0262e5f616c6632f46f17081c1bf1d3aee3704b9b25ae7a1fd644920cb9003b1",
+      "bytes": 25247,
+      "blocos": 66
+    },
+    "lei_migracao": {
+      "versao": 1,
+      "sha256": "3d0f56319401f881cd6d315215f04dc63a8fdf66b1b6b066f241a238d6e1ab0f",
+      "sha256_arquivo": "bb2290195e921e3dd794d04184230791f4546ee72ea66898160604bb906ea9e7",
+      "bytes": 176695,
+      "blocos": 521
+    },
+    "lei_seca": {
+      "versao": 1,
+      "sha256": "a69401d3a8bd16f3740aa00e8ad61f70afe189ede62ca9d0224f68bd3eab890b",
+      "sha256_arquivo": "20fa8f9b5867902ee3badf21d67fd48a46d353f70a471d45fc33ac4ae951f562",
+      "bytes": 13435,
+      "blocos": 24
+    },
+    "lep": {
+      "versao": 1,
+      "sha256": "ecfa40c2a4d6f1dbdf0d7fe671e5be67c9080057f0a150e5c0908f3f968b422e",
+      "sha256_arquivo": "086ba178bf9abb8d0a101930b34608389a1e5a816c6a0aee1838f345ed3512b4",
+      "bytes": 275147,
+      "blocos": 797
+    },
+    "lgpd": {
+      "versao": 1,
+      "sha256": "2c343f3b71bc081c7e4ed3563ec412d0411d49dce9612ce910c8965b970314fc",
+      "sha256_arquivo": "d216c9e9d62d7d440931e5068314f5b8f36f2020872e1dbcd36d82cd84c988b7",
+      "bytes": 181925,
+      "blocos": 481
+    },
+    "licenca_forcas_armadas": {
+      "versao": 1,
+      "sha256": "592c3261453906164fc94a25f2b31c7f59b6305dd8b171799a91e1a17ebfeb34",
+      "sha256_arquivo": "0eae108f6a6ddfc7afa87c8e81f7b939a84464c6a8da86c4e2f3d28e24ee538a",
+      "bytes": 8732,
+      "blocos": 20
+    },
+    "licenca_paternidade": {
+      "versao": 1,
+      "sha256": "4600b1acd119398b993c30b383075718ce2cf8858b4fda0e2783a4da31de6b37",
+      "sha256_arquivo": "4e70eec5d781e36b7fdc0d6d74c7116166371851e5ff111aaee993d34b12651f",
+      "bytes": 4666,
+      "blocos": 11
+    },
+    "licitacoes": {
+      "versao": 1,
+      "sha256": "1e07e814f7f23ec72385e931fe4a03c6727d3f130e8ca6323ac007c3aa43d2a0",
+      "sha256_arquivo": "70bcfbc2da85c7792384083d342fba3559b98e151b89be765591d772c51f40b5",
+      "bytes": 588471,
+      "blocos": 1502
+    },
+    "lindb": {
+      "versao": 1,
+      "sha256": "e333be22bfb5d342f1eee48b30f8068f98b7fa9716aed107f9b3ad40fb4aa40d",
+      "sha256_arquivo": "fd885fd65ac9144b26d6394ccd334edbe7204a845f2633a1a107f5eaf6ce27d4",
+      "bytes": 36893,
+      "blocos": 90
+    },
+    "liquidacao_if": {
+      "versao": 1,
+      "sha256": "0166131eaadd680d0e0c8257a67dbfa33faa7513383a8948a0affae4ab7e1255",
+      "sha256_arquivo": "cba0d5dbe71a2089a8f9e19d01af178415c930e91500aa416a20a0bc2925aa15",
+      "bytes": 76573,
+      "blocos": 189
+    },
+    "loas": {
+      "versao": 1,
+      "sha256": "4843bf2bb92be18446ccda740911fd4b45e0abd9de1684ca679fb7ca8e7d2243",
+      "sha256_arquivo": "abbedc6bec60305508ca3ceb4dd33ac804cc99919ae36c0bea28ed30251288a4",
+      "bytes": 136157,
+      "blocos": 319
+    },
+    "loman": {
+      "versao": 1,
+      "sha256": "ca03f497e612f534e62a6e253ab63be5a0f83a5759bde40eefae9c544370f56d",
+      "sha256_arquivo": "0d80e5875b4124f43f81552c0da3d7d63654916c946dabd19d3ba7d4a7f5a887",
+      "bytes": 178558,
+      "blocos": 451
+    },
+    "lompu": {
+      "versao": 1,
+      "sha256": "3bc3597de585435832a5ee559fffd98e10bacd668ea408a3e63c8f79ed696a69",
+      "sha256_arquivo": "33176e8b98b49f1027481d61dc962b0ed2849b9199c15c44eeb4ff75eb8fc892",
+      "bytes": 448264,
+      "blocos": 1277
+    },
+    "lonagu": {
+      "versao": 1,
+      "sha256": "d729db3d23c5fcc55ba1bc2bb2d520e366b6dd5d6f1db2e7f2b589d138f84bd2",
+      "sha256_arquivo": "77289f5f27834499bedf374a929a27502253fa4da19b598a9ed22b50762581cc",
+      "bytes": 85023,
+      "blocos": 246
+    },
+    "lonmp": {
+      "versao": 1,
+      "sha256": "4984b5e239ee37ce5c972cd1a759c94c887101fddb315285833c7932faee9b43",
+      "sha256_arquivo": "2e3f00841684f359887790340727c6aa2c48fdc0cf70e6a38e41578ddf461d1c",
+      "bytes": 139654,
+      "blocos": 404
+    },
+    "loteamento": {
+      "versao": 1,
+      "sha256": "c92b5571c6428997915db26682023eb9739aeacea3075c422a10cd7a942fc6e4",
+      "sha256_arquivo": "510e7b7442a3d0c12975ac20c454c8df09bf7c45885b6677f157487fdda84818",
+      "bytes": 34728,
+      "blocos": 83
+    },
+    "lrf": {
+      "versao": 1,
+      "sha256": "23a826a7715a7fd02b3bb5e6c0cd0f7eb13ae9eb12afeabd7fbead0ba89e980c",
+      "sha256_arquivo": "dcf3dce9b7326bdbfb6017d8b0586abe32e9f41d7b0cc4500fbffe53e71f55b5",
+      "bytes": 227772,
+      "blocos": 582
+    },
+    "mandado_injuncao": {
+      "versao": 1,
+      "sha256": "a07bc14d4eb77e721fbd6ecba934f7f5d752044243e06ec01181541f6da6cbb8",
+      "sha256_arquivo": "85365cc942d0f5a84d71ed7d9e4820e35032f56156221a1d91c26b61f680e820",
+      "bytes": 15557,
+      "blocos": 37
+    },
+    "mandado_seguranca": {
+      "versao": 1,
+      "sha256": "a45443ad34fa54c2cc9faaa7c1f1884fa3b5ab675a8674ab27fc08ecb113afc9",
+      "sha256_arquivo": "9d41d0611356aa8923bdc783d81a03b0d7a868510b054d261882fffc9f104c63",
+      "bytes": 31874,
+      "blocos": 77
+    },
+    "marco_civil": {
+      "versao": 1,
+      "sha256": "c2e6e772b48007c8065aadd5f6a9cd6706ebacf1920773391c9149331cdcca60",
+      "sha256_arquivo": "e41de2890c7f2961520a8ed18efd3a9ea6d4fca9dfd7223896c5754ad73c9a6a",
+      "bytes": 66184,
+      "blocos": 172
+    },
+    "maria_penha": {
+      "versao": 1,
+      "sha256": "141ca9f1ee0041996454525ed8f06da6761a29e118b32e4cf84ae2f4d16b60f5",
+      "sha256_arquivo": "f11dd5cde56ae95ef85ca9b63ed375cbef60517e1b59d35be509f2d390bf5106",
+      "bytes": 93574,
+      "blocos": 227
+    },
+    "mata_atlantica": {
+      "versao": 1,
+      "sha256": "7880428ede9f68b9ed39ab09882e720b423424b1e953edd49f62a16677645f37",
+      "sha256_arquivo": "d05b116b171843f033fe3e5bbeeb981715b0acbc5dc4ce879758e9f95a59e01e",
+      "bytes": 65320,
+      "blocos": 168
+    },
+    "mcmv": {
+      "versao": 1,
+      "sha256": "cdf83ef07d6af401d0325f0fed0d16bfd2886767151f994af174eba28baa44af",
+      "sha256_arquivo": "5d008efd37a641b9d65b27d4ec954e513a0ee836b5389c4a2a01c6aad72cf134",
+      "bytes": 174268,
+      "blocos": 371
+    },
+    "menor_potencial_ofensivo": {
+      "versao": 1,
+      "sha256": "586c5059c34b8203e8a9bc350193adf139875bfaac0043df7ffde07021e3d8f9",
+      "sha256_arquivo": "300850da97049df0d33a8e9d97399d609655a351271601ee153ba09c7ac67381",
+      "bytes": 5713,
+      "blocos": 15
+    },
+    "mercado_capitais": {
+      "versao": 1,
+      "sha256": "b4611ac829b6ac92f43f1edfaf028b7cdbc6a81ec29cb53ac81a0bedb8c30aa9",
+      "sha256_arquivo": "5a4f34b0585f46b93f45ba64d5a4d839813bbefac8de35e583dbee20019e78b0",
+      "bytes": 150921,
+      "blocos": 378
+    },
+    "minirreforma_2015": {
+      "versao": 1,
+      "sha256": "20017f15c8b9d340fbb6ad71eec688d273bea239f848f9b95e26d242639b64f2",
+      "sha256_arquivo": "561ddc1a53ef7d7bb77d0b8040686edef3960e8790584351f90a7c5ddb9e50b1",
+      "bytes": 63225,
+      "blocos": 26
+    },
+    "mobilidade_urbana": {
+      "versao": 1,
+      "sha256": "0faf805b9e57727248b82333d070ab704c65613ecb3e11450e39f83c5fe1ac78",
+      "sha256_arquivo": "0a4beb0c8a85f8bf45c10cb4a880e7ae900861da26c2680755e0b5de1b210aea",
+      "bytes": 81429,
+      "blocos": 227
+    },
+    "monitoracao_eletronica": {
+      "versao": 1,
+      "sha256": "ba287a3037e7b74dcbdc76438b93b92f572d6c4430a98d0ccef74563bfca1ae6",
+      "sha256_arquivo": "16a338c0e27502b88912cda1f24160bbeb91c2a0b0f63f3103fbc7f1b85c80ab",
+      "bytes": 6588,
+      "blocos": 15
+    },
+    "mrosc": {
+      "versao": 1,
+      "sha256": "314d55d05aebc0193c1157c7bc19f5ffc70dbc8205d8669e1421b8a6baf676fa",
+      "sha256_arquivo": "1efc5dc30533099ea70795b7e9c52636798bcd199e5c87c0eba3dcd1d35630e1",
+      "bytes": 205684,
+      "blocos": 520
+    },
+    "nascido_vivo": {
+      "versao": 1,
+      "sha256": "edffefff7b45142aabaaee702e6b696b25fdd1a7ceb76fce57940951cb26b929",
+      "sha256_arquivo": "eda0c14c12db6b9adaae8ecba6fa9b14513ed0261e8d4df22275138678a5d209",
+      "bytes": 12078,
+      "blocos": 26
+    },
+    "nepotismo": {
+      "versao": 1,
+      "sha256": "4f8b03d0e330975c3a7f0748c3b20f7483f9a7686f12c4e6d26082ad50b21f6f",
+      "sha256_arquivo": "c023caed8f17d0ebfabb820e314448569bf6250a330596064a6e20120e596deb",
+      "bytes": 12538,
+      "blocos": 31
+    },
+    "num_deputados": {
+      "versao": 1,
+      "sha256": "c803db41a2c66c633015a486c91682d408f077ba1db7c6311972a154bdfbc081",
+      "sha256_arquivo": "6f672f0db275a92d456690b3f7e22bdeceee66b0eca6bea6dd72458d636959a8",
+      "bytes": 3347,
+      "blocos": 8
+    },
+    "org_criminosa": {
+      "versao": 1,
+      "sha256": "b9b9a32f4124fe234ba6773db094d8dd71be183477600ea3e2d73dada37d3175",
+      "sha256_arquivo": "b21640b6b00e40a13db3a99ae18d3d801f5ca0c89f5133f031ab245cd6bedce9",
+      "bytes": 76268,
+      "blocos": 182
+    },
+    "organicos": {
+      "versao": 1,
+      "sha256": "dfd3490ad66304cd48f5e009e2894ad03e1418c34b671e0037a9db0d3f42301e",
+      "sha256_arquivo": "f8fd6bb03051734285a610bc7241eac6903c92c5c2ff599596cc21533541f8de",
+      "bytes": 15511,
+      "blocos": 38
+    },
+    "organizacoes_sociais": {
+      "versao": 1,
+      "sha256": "97ff98597e021629371f5a45b77fcf951cf795164a81782710e7f4fc505ba028",
+      "sha256_arquivo": "d8c6caf95e9fe6352a3927619f7c96fe43e0b1dc359978e8e81c0d7ba6285d09",
+      "bytes": 41654,
+      "blocos": 104
+    },
+    "oscip": {
+      "versao": 1,
+      "sha256": "253d3fa7fa9dd1e0200a2e41a9d992809cd70abdac9d28993fcf6c8c332892d3",
+      "sha256_arquivo": "38a0847d929a2102be5898273a309f8479a915d4d611979be8ae1ded8dbda341",
+      "bytes": 39946,
+      "blocos": 103
+    },
+    "outorga_concessoes": {
+      "versao": 1,
+      "sha256": "b654b0d524c741317755a0d3f447aaa6a797e87f294513f3a7f3c1a0abfdc079",
+      "sha256_arquivo": "46b8c2f91894820dd6ea6ef92a0cab1b1653843f116d6dcf991559e788a74b22",
+      "bytes": 106758,
+      "blocos": 241
+    },
+    "pacto_sao_jose": {
+      "versao": 1,
+      "sha256": "92b42e0d204489a41163a43eb3651f4f9e55e0382a76e6d6b704c3338fb42353",
+      "sha256_arquivo": "f386b5c3108fe3202a26e35ccb07b2f4f838daa82b693a46fd0b6f33d7ee5014",
+      "bytes": 88719,
+      "blocos": 158
+    },
+    "paf_fiscal": {
+      "versao": 1,
+      "sha256": "e0011987a28692f6ded1e80142de190bcc33f8aa73ef97cb7e1b18a19747a370",
+      "sha256_arquivo": "87f0793759f3589eadb30169173120ce4ab3d25354d016a0c06e55463ca7868e",
+      "bytes": 105938,
+      "blocos": 278
+    },
+    "pagamento_13": {
+      "versao": 1,
+      "sha256": "712ed00f12f04b03451192e318141996a3a444b02b6942b35a6f557685afb20a",
+      "sha256_arquivo": "d4aa66c51ac9c6638d79bb13e86b5557dd71e6f307c8d96c1b2beabea5aabaa9",
+      "bytes": 4909,
+      "blocos": 12
+    },
+    "parcelamento_federais": {
+      "versao": 1,
+      "sha256": "83595ec0ab576c28db4d5cc298e7cf82cfc646a0b51d126948fb6855bca5d654",
+      "sha256_arquivo": "cff588d46f7387a096ba7b731889624058678aeb1fcda3b1d005c97d77de7651",
+      "bytes": 66863,
+      "blocos": 144
+    },
+    "parcelamento_solo": {
+      "versao": 1,
+      "sha256": "254011c0ac14bfcc72922ca0548acb00dab16ee85d4b9bd35ccf124b38f45c21",
+      "sha256_arquivo": "4ed6f19f33720257f43f4e10b3348ed3bd3aedc6c3a9137786b61a0ecaf06047",
+      "bytes": 123892,
+      "blocos": 284
+    },
+    "partidos_politicos": {
+      "versao": 1,
+      "sha256": "217ea89cb31e1eacd5ccaa88f3d0570ef97a0a21c16c4be8ce0f8ab8ee9d9219",
+      "sha256_arquivo": "e9ed70742dc29f948208a17a34cbe41091af7498bf094a829c3791841706050d",
+      "bytes": 144050,
+      "blocos": 353
+    },
+    "patrimonio_genetico": {
+      "versao": 1,
+      "sha256": "5889fbb2e6d33d39fd931ce8af56a73a4f04e9a3abb25f6dd277bacb10c797e9",
+      "sha256_arquivo": "fb50cb201f22c5b3a01dbdae64a53d5d41aababbb3361db5f357fe4676bbda73",
+      "bytes": 127919,
+      "blocos": 338
+    },
+    "perda_cargo_despesa": {
+      "versao": 1,
+      "sha256": "336ab7fa5b8dca5f5980ce71b4a071fa8e11580131a43ceb5ca0b36af5225c3d",
+      "sha256_arquivo": "39a08213a78e8d1c07f6f199709793206b1d8699d5839358c727f017dee69e6f",
+      "bytes": 7002,
+      "blocos": 20
+    },
+    "pericias_oficiais": {
+      "versao": 1,
+      "sha256": "d6f952d49060ad9cb7e195b50c2a8478f63b7b07967de9ad2aa966cd534c4a70",
+      "sha256_arquivo": "67b06cc5cff462b580eeb28137de40357b2434632f0423367358131be8a88d73",
+      "bytes": 3027,
+      "blocos": 7
+    },
+    "permissionario_loterico": {
+      "versao": 1,
+      "sha256": "224c5de94c69e5fbfc8fc26198c8570238e5ce80a57badf03c23ea5eff8a02d3",
+      "sha256_arquivo": "f86de324c197add1d238dced3565230457fb86fefc0ae81d7ea8fed183139c87",
+      "bytes": 9802,
+      "blocos": 21
+    },
+    "planos_beneficios": {
+      "versao": 1,
+      "sha256": "152e9ea82fa134db4ce33bf10edcc67bec0ab6d5014a59d0fb0a391c65e0754f",
+      "sha256_arquivo": "2507d5448f79276b293e0077dfaeec4435a5727d3995afc5efda52ee8c0b45ea",
+      "bytes": 427107,
+      "blocos": 952
+    },
+    "plebiscito_referendo": {
+      "versao": 1,
+      "sha256": "86d55d4e2a7b1ae0ac18df4418501ce8da1f76661430d26c9db7ee609d10db5f",
+      "sha256_arquivo": "55339e83e55f39bb89ff2ff3e6f7ed225a86ab5188e9db98480e21d072499e02",
+      "bytes": 12384,
+      "blocos": 31
+    },
+    "plr": {
+      "versao": 1,
+      "sha256": "ed570d4a4fdc81e19e26ed66046630921f6d1211771edf5657b9a837e2f5497a",
+      "sha256_arquivo": "9b66cb8a0adb7ee8225c314ece493cc65ec4b4f6885c744d39d47f51c9c66281",
+      "bytes": 26110,
+      "blocos": 61
+    },
+    "pnma": {
+      "versao": 1,
+      "sha256": "a442bafa4d33db83d3df32ffaf3e2cac7653330ef8e3e9f1116a264a8681c786",
+      "sha256_arquivo": "e32dfba60c4f0479ecf61c29409544182225d26cc506260688d5f18c61686d8e",
+      "bytes": 76466,
+      "blocos": 196
+    },
+    "politica_inteligencia": {
+      "versao": 1,
+      "sha256": "390195e907db0726d344538a816f9aae782b542d66b91f4c8395fa29029e7f00",
+      "sha256_arquivo": "a05e261116590f7250506b6b3250d20b21e4efb6318c50e85fd2cf592633ee2f",
+      "bytes": 2347,
+      "blocos": 5
+    },
+    "poluicao_industrial": {
+      "versao": 1,
+      "sha256": "a51ab5bdc34bec063c7d74b2f53710ca89518402ae65b5e4d78747e288c15c23",
+      "sha256_arquivo": "37a2fb63a767724bdbb319c7adeb7760fb88361ef26e7a6a10dc430392313be6",
+      "bytes": 4491,
+      "blocos": 9
+    },
+    "portos": {
+      "versao": 1,
+      "sha256": "136d7e9a376b1406c5a44f0427f7fe84fd99558c25761df8517d587672939aa2",
+      "sha256_arquivo": "f8621822b48a761368d2dc07358b5104d0f9f94988e00f388094bb9ca1b96a14",
+      "bytes": 161746,
+      "blocos": 433
+    },
+    "ppi": {
+      "versao": 1,
+      "sha256": "3aa9a72eff18abb1cdb01ab5d59297c0ae50ed9e08c051b9767003001765e450",
+      "sha256_arquivo": "d598a117158b1ae82f87e0d181f9b25465ae8e4b6aa177db26a55eb0afd1a606",
+      "bytes": 129986,
+      "blocos": 312
+    },
+    "ppp": {
+      "versao": 1,
+      "sha256": "cc72de6dbc7f866d82a9c8368c5522d97ca711319a268696de78432f16e03515",
+      "sha256_arquivo": "e33522f7b1b06fd7056f7189d81d1caf133c6278f9e7e0261f3f994b49a2050f",
+      "bytes": 86219,
+      "blocos": 213
+    },
+    "prazos_judiciais": {
+      "versao": 1,
+      "sha256": "8959526d516818eccf9ba198b2d031b8a32b4f16c41fd883fd4b38c650429958",
+      "sha256_arquivo": "090b172cdc1941e094d3ef5dfe2bdcf230459ee9dfb550a82f67c2bbb7b8fdff",
+      "bytes": 4228,
+      "blocos": 10
+    },
+    "prescricao_administrativa": {
+      "versao": 1,
+      "sha256": "0387480b9a79a53c6709127714fd01f5f9108f48191d43a3eaf7e41f2d631183",
+      "sha256_arquivo": "95c49678aa0d819b8f1803dd6e27b482c9f17324a0889e36822e4608e28e0a6f",
+      "bytes": 9530,
+      "blocos": 24
+    },
+    "prescricao_fazenda": {
+      "versao": 1,
+      "sha256": "51d4e827a5d171a1c2dd08a18933c526432cef0dffa3a0bf82e4ce584549cb06",
+      "sha256_arquivo": "dc48390ac40c8c56ecb5305fd85fb0508ba99dab0339c4dd5117ed8d07f7b0ed",
+      "bytes": 3770,
+      "blocos": 7
+    },
+    "prescricao_quinquenal": {
+      "versao": 1,
+      "sha256": "0c27a873eaac224a6ab5c08bb23962ecc245f8f6e14e53723c9e8e8c1e3566f8",
+      "sha256_arquivo": "79ef54893a6b2d7a69b09e8f5574f3d845d133e240ca72412ef8e807c247cc69",
+      "bytes": 5704,
+      "blocos": 13
+    },
+    "presidios_federais": {
+      "versao": 1,
+      "sha256": "4ac69043ae4e5b3379e272ddfef135791120f064b2c264051a2cbdddb6bebab9",
+      "sha256_arquivo": "ed51424c272ea79d28e8c08b03d419ef319e411220da394c0cdb7f2f83395481",
+      "bytes": 20274,
+      "blocos": 47
+    },
+    "prioridade_cpi": {
+      "versao": 1,
+      "sha256": "ffd5818a64d98d171992e0fff9fe51f123f35e57a0e885ab93b79038f5ccf344",
+      "sha256_arquivo": "f40a4a6e7222b2df5ab5d703bc08c69ec0702290c1cab924c9eb1b0c123ee472",
+      "bytes": 3412,
+      "blocos": 7
+    },
+    "prisao_especial": {
+      "versao": 1,
+      "sha256": "ce1a3b3b1d5362958cd0d8b00620191ddc08779a84088da9ce901811ac8d7864",
+      "sha256_arquivo": "c9fd1c74a23bf4944af38cdf2c69e6274c2eff30dc9875e7e432f6f5cbcb4b86",
+      "bytes": 3560,
+      "blocos": 8
+    },
+    "prisao_temporaria": {
+      "versao": 1,
+      "sha256": "e2d1c611b898c3ea04a4db7e51228e586ad6329a7eb586fd1ee0f4b7d9ea20b4",
+      "sha256_arquivo": "ff962b16a1dbd913c9b5e544c34cd8a64080f58193c022d9071384400b169892",
+      "bytes": 12215,
+      "blocos": 35
+    },
+    "processo_administrativo": {
+      "versao": 1,
+      "sha256": "003fb738c96e91d9ef1bd8cd9f84b23480c612adfb69fec8b881104d256ed4e2",
+      "sha256_arquivo": "3db41a0a6f1e1c3a08b9493db9c6ec99dafbc15e828fdf82a32e6ac4f17efe69",
+      "bytes": 83579,
+      "blocos": 242
+    },
+    "processo_eletronico": {
+      "versao": 1,
+      "sha256": "b16eef320a04ad8619bf6c7cddb38f6df64f1eb19964bb18a2e0f2f1e3d6fea2",
+      "sha256_arquivo": "e2cb8f29ab2632ece17516936552635b5797c8ceda47bf8addc3a0f099970f77",
+      "bytes": 40178,
+      "blocos": 94
+    },
+    "processo_trab_fazenda": {
+      "versao": 1,
+      "sha256": "e85a2240fe42481dfdbfe86a3722fcd723f7cee40d2211b80f64161b13f895ed",
+      "sha256_arquivo": "9270f51c89449173ee04b473402a8dd42999292d2e61343ab89ff2cf9b3801e2",
+      "bytes": 4244,
+      "blocos": 10
+    },
+    "processo_trabalho": {
+      "versao": 1,
+      "sha256": "4d390bc66585e34e7e14f48304f4c85f9d8930407a17264f98253d30346e5c7a",
+      "sha256_arquivo": "0201d5ec25e64b1262fdefcd7c842bb56a7a2a012a5408bb32b12064b0844a39",
+      "bytes": 17554,
+      "blocos": 39
+    },
+    "processos_stj_stf": {
+      "versao": 1,
+      "sha256": "a83584e593e2bc763c99911538102579c1e6d5ce34287d12d81a6ae7fd5bce52",
+      "sha256_arquivo": "b6fed23cb0132e8ec8a7c7ee0040ea71850cd2d4f21235b159d727336a3b0b18",
+      "bytes": 49115,
+      "blocos": 127
+    },
+    "propriedade_industrial": {
+      "versao": 1,
+      "sha256": "ca977146db48a0cdc30314973d5ca89213ea3e333e860d43e4fe534ee20a0deb",
+      "sha256_arquivo": "995672fa611ee3acc9ae3a7dab32950ece6bea48e32147bbbfc00b879fd439f1",
+      "bytes": 263498,
+      "blocos": 741
+    },
+    "prorelit": {
+      "versao": 1,
+      "sha256": "ef1b62d80b59135281ea2f467a23399c4f2ed15195b52887dd78c150fc0b3131",
+      "sha256_arquivo": "2b7e603bec29e472460a6e6ecacf58ca0cc88e33206b25abf6c6f03c7c737e6e",
+      "bytes": 27437,
+      "blocos": 57
+    },
+    "protecao_testemunhas": {
+      "versao": 1,
+      "sha256": "76f90840a9fe29d8a24c0ab7fad9750ff24eb1edc4f0cdc8c36398319dbec59f",
+      "sha256_arquivo": "41c9af58187b3520201b8c665412694f91a71b2d354a2a05a5be5b77ad453aa8",
+      "bytes": 30997,
+      "blocos": 80
+    },
+    "protesto_titulos": {
+      "versao": 1,
+      "sha256": "582edc448f1ff96e8761427edf1a996f41ede2d4be366fe8b7802ab71f55aff6",
+      "sha256_arquivo": "ae81a4664ae52a4a2ab5e4c28c98c033d624654a61e17d4d798bcff61afc7efc",
+      "bytes": 67180,
+      "blocos": 161
+    },
+    "prova_documental": {
+      "versao": 1,
+      "sha256": "8552b9af4b56ccc468e0d08503287cdb3c082d0d4a4a9b76db79a5382611119a",
+      "sha256_arquivo": "024a3f260533f7654623e055e1f6de50a329a35c3cf15ba1b63bb80622363886",
+      "bytes": 2869,
+      "blocos": 7
+    },
+    "quiosques": {
+      "versao": 1,
+      "sha256": "f9d44346d3af75519ca66bbe60179066b339a4c2bda2223ed6ca49911ab31a7c",
+      "sha256_arquivo": "db6f6487d2575de6c9520b425b8dd3ae563889049db7862114189fd98f20d3b5",
+      "bytes": 7260,
+      "blocos": 19
+    },
+    "quitacao_anual": {
+      "versao": 1,
+      "sha256": "801c21a549f80f4406cc5a1723249f98628b5d88df28c8d1257f9e0125ed78db",
+      "sha256_arquivo": "189e43dc4b7605395b11259294deb5eb602f282f0162d4c5585a421a224022d4",
+      "bytes": 4485,
+      "blocos": 10
+    },
+    "racismo": {
+      "versao": 1,
+      "sha256": "b3dc8984fd663bd06a5437e10b72df3ed09fe9adcab61cd2a69d9891d6a85bea",
+      "sha256_arquivo": "a67bb272b8a95f1937ed56571ae420ba19d23c362372e6154bd83141c43ddc2c",
+      "bytes": 21422,
+      "blocos": 62
+    },
+    "raet": {
+      "versao": 1,
+      "sha256": "261b0daf69fc9a19a9e1998df520fdd43de5011e31f10fa129a670d478913088",
+      "sha256_arquivo": "e678f9eb77d0c2d749f160778c48e6de3539206a00bb6306b41857671ebab0b3",
+      "bytes": 21974,
+      "blocos": 49
+    },
+    "recuperacao_falencia": {
+      "versao": 1,
+      "sha256": "ffa4f49345ff566e9b31c02983682f20eeeec986868947f8e1307d4852f62da2",
+      "sha256_arquivo": "75b84547f30b4e470e7c032fa6fc142aab752d30a2afd2d459fa29ebfd2a4541",
+      "bytes": 484705,
+      "blocos": 1178
+    },
+    "redacao_leis": {
+      "versao": 1,
+      "sha256": "17784a1b2d4041ac653d7dbe9371a22c47ccd60c2e2729d985f97a18eb10b76b",
+      "sha256_arquivo": "e1a010b2f3f6bf9d674befae9b63e536099699da20cf7e66ccedb1ff1e3bf714",
+      "bytes": 40394,
+      "blocos": 105
+    },
+    "redesim": {
+      "versao": 1,
+      "sha256": "ececc6b1fc625536661d36050641aec456acefbfd0a4e58061e68cc65935c6a0",
+      "sha256_arquivo": "b1bfc993273627d0d8a105d7e4215df6d5ce315d074c477b28f23117f098a2d1",
+      "bytes": 62003,
+      "blocos": 127
+    },
+    "reforma_agraria": {
+      "versao": 1,
+      "sha256": "696e4fc7eeb284d4f64688b5cad43787c45cf7bf78dad5d9128adcefc613f465",
+      "sha256_arquivo": "b34c2d853485580a1d7d5a6651135d0fade9a7fe6a5e4e3a356f08f04b93c2b2",
+      "bytes": 90574,
+      "blocos": 213
+    },
+    "reforma_eleitoral_2017": {
+      "versao": 1,
+      "sha256": "0735cc410cee127cefeb6b2db66854889207089db8e0fec60f5eb58b8c6bc382",
+      "sha256_arquivo": "e4aa1c71ca6f6c1decdb2fe9154a91f5280757f448bd09cab528008355975fde",
+      "bytes": 32374,
+      "blocos": 34
+    },
+    "reforma_tributaria": {
+      "versao": 1,
+      "sha256": "7e3cfebbb9d78c634291ff2364da671f9a15ccadbadb35d9df9914ce3101b52f",
+      "sha256_arquivo": "84e4d5d41cc41530c446240b030ce87c98c755fda146bde34bdf572a3a255602",
+      "bytes": 1791110,
+      "blocos": 4481
+    },
+    "registros_fronteira": {
+      "versao": 1,
+      "sha256": "e8c33a323bc1bdd6e42c81bb0f7dddf5bc28ba1e6580a973d1b534dd2b86158e",
+      "sha256_arquivo": "1a24acdf8d6d709a5ee80f5b285030e9bcf6c6d211a0d07055ef0ebabafd9add",
+      "bytes": 13798,
+      "blocos": 32
+    },
+    "registros_publicos": {
+      "versao": 1,
+      "sha256": "0f4604abcbafe63335ac911f80aab1bb0f011c59b940b5ba37cd79d1a58189c9",
+      "sha256_arquivo": "b202d1aaa85a7ada78b8ba36d66047193802a2e435c88196b670c0ca07ace6a0",
+      "bytes": 441932,
+      "blocos": 995
+    },
+    "regulamento_estatais": {
+      "versao": 1,
+      "sha256": "10ef51b755a25c0d6f0e8419d2788b5017c1cd10ade31283c5cd751ef5feffd7",
+      "sha256_arquivo": "789be524c5c366a9d823ee5dfb331ca1ea2c2bf2ab90b96e497b26fba07e11c1",
+      "bytes": 166346,
+      "blocos": 440
+    },
+    "regulamento_marco_civil": {
+      "versao": 1,
+      "sha256": "b83bae281cfe5d302bd2ed5edfbed8f2ecd86c9f2c6e338c59aaf25d542b9ef3",
+      "sha256_arquivo": "9b6fc5478bbfeec770f66e119f21bc7b3aba6c73085e60ddd4aece19692fe19d",
+      "bytes": 28039,
+      "blocos": 71
+    },
+    "regulamento_oab": {
+      "versao": 1,
+      "sha256": "d06449dfb0f3ceec3b967af5b7b757e0485578833823a5eae77bcce3a11f88fa",
+      "sha256_arquivo": "89844a087d1394cc1d9194b071e0e3f61d17e81266b3274df44d62bd7a37740e",
+      "bytes": 150925,
+      "blocos": 200
+    },
+    "repouso_semanal": {
+      "versao": 1,
+      "sha256": "76d607425be01427b0c7ab87d310f656e76d6ac00e56d978793acb5dd69f79df",
+      "sha256_arquivo": "8e7295f5894913bc9b1cf1e81e8e66776a8a2cdd44690382b629fb49ede167e7",
+      "bytes": 16059,
+      "blocos": 39
+    },
+    "representacao_interventiva": {
+      "versao": 1,
+      "sha256": "05fe8025e87ece41e071c7038a3d9e52fb19decdf66750ee6f4aa41912b4e521",
+      "sha256_arquivo": "925fadba76bfd57e8caf371107b69f396d855dc9b5dbc915a21e5dff6afdd6df",
+      "bytes": 11162,
+      "blocos": 27
+    },
+    "representantes_comerciais": {
+      "versao": 1,
+      "sha256": "7a70dbeca1ba37a516e687eacc4b2baee574789a0624a3c9ce2d319f7c221efc",
+      "sha256_arquivo": "43c1a35b411cf29d2235a9871256fbf1f258645af1a951ff632155edd9066982",
+      "bytes": 62519,
+      "blocos": 165
+    },
+    "rerct2": {
+      "versao": 1,
+      "sha256": "3bb6eb52400a6e7db9842243383c622377f5dcc51c444ca1b8134769fb9ee851",
+      "sha256_arquivo": "e55591859f97d64ba763355c85d62e39e6723d4c07de6613d567f3f5c0d362af",
+      "bytes": 10583,
+      "blocos": 20
+    },
+    "rerct": {
+      "versao": 1,
+      "sha256": "19c591f29297c00239e0da7228a81d5e674392bc1820d0389556c8965b9f4784",
+      "sha256_arquivo": "6bf969c408e1a7823ee6a26f1de2c6f080afd1277f7346f715217db13a48a424",
+      "bytes": 49836,
+      "blocos": 107
+    },
+    "revista_intima": {
+      "versao": 1,
+      "sha256": "a35dbcb2c6f3ef1b3f684155da3471538f5e8c697a3b00ad13e6fea41812635d",
+      "sha256_arquivo": "3a30dfc49417be5df60067de67809f5415ab0f269021d30d30d4f7d652e7b348",
+      "bytes": 2809,
+      "blocos": 7
+    },
+    "rps": {
+      "versao": 1,
+      "sha256": "5dda38aecf49734e1a1a2d187c0493a2b8c22afa6fa74658aaae8ae54f0639c9",
+      "sha256_arquivo": "7ef5283c22ab05e1f24569fd1e394a692834adecfe7fe95b09c2a6031af4919c",
+      "bytes": 1526933,
+      "blocos": 3174
+    },
+    "rurais_empregados": {
+      "versao": 1,
+      "sha256": "ceb3bc1edb11b275740b60c3932d8cac68a79bf418c01725604d6260fd1027f0",
+      "sha256_arquivo": "1a8ea2a5064e51bbc810632b131a6066b0e006cc81c84c60ca20fbad3784d838",
+      "bytes": 43278,
+      "blocos": 126
+    },
+    "salario_min_parcelamento": {
+      "versao": 1,
+      "sha256": "4654150c1f08bcba603ac3565050bd4d1202f70614e55463a7d32a36f99bb09a",
+      "sha256_arquivo": "c4f237f5d384c60495645b8d55d70a84600261e1a2e9cfe847690269b31d57a9",
+      "bytes": 10500,
+      "blocos": 21
+    },
+    "saude_mental": {
+      "versao": 1,
+      "sha256": "ce8da7c7a1c0dfadf6d4d7def6a19b726c0d7c79b41743f2ad45a692ebd31ac9",
+      "sha256_arquivo": "75d72420f9e6f2fc341dd6074bbfb19b40e8f603d8b638cbcdf4e8847d836f7e",
+      "bytes": 13531,
+      "blocos": 34
+    },
+    "seguro_desemprego": {
+      "versao": 1,
+      "sha256": "9c7343675658cd3f6eaa73e3177c1c42b8368836a04e8cf4439932bffb58d35e",
+      "sha256_arquivo": "5f6aa0e7aec73105b5b3799f79980f88c4068211088c7659c2d38ac62e8c2b39",
+      "bytes": 61111,
+      "blocos": 152
+    },
+    "seguro_emprego": {
+      "versao": 1,
+      "sha256": "686be5f410f08fb318ce971cd2d3bd7d286458991220c6ca322561248bd319d0",
+      "sha256_arquivo": "57e31c848980cb844d8c0e98811287dc67f303342ecbf9464c49cce9188b6dae",
+      "bytes": 34158,
+      "blocos": 74
+    },
+    "servico_alternativo": {
+      "versao": 1,
+      "sha256": "87def23949f86985a24c3faee0d7cdd1d0934466839722e7292b61ea0ec1af16",
+      "sha256_arquivo": "b503c2444a59348564b64fd79eeed3a4fadbb5fc9d60463717e8b692ee9dc855",
+      "bytes": 7175,
+      "blocos": 16
+    },
+    "servico_militar": {
+      "versao": 1,
+      "sha256": "0f0ef009e13bb4e56f2e6ddbddf17fcabba66b55112bbc836abcc3d495889321",
+      "sha256_arquivo": "19ad0e6454c55162a164b20c5f5844686dbf0936ab2e3808fb679ff3b741bdc0",
+      "bytes": 118951,
+      "blocos": 313
+    },
+    "servico_voluntario": {
+      "versao": 1,
+      "sha256": "0e54af66a1d6b648c681420af726ffe875ed9eb3be40dff9c6e866833eae6f51",
+      "sha256_arquivo": "0df461bc9a2773c701d7d821371fba56f7c92cf9e32cf015c4e314452ec38e0e",
+      "bytes": 3686,
+      "blocos": 9
+    },
+    "servidores": {
+      "versao": 1,
+      "sha256": "12f8d228a7b83bf8d10f71a971a37426e6898c14c72e4a6b18c19c9ddeadfd65",
+      "sha256_arquivo": "e4016803de6b7623eacaf5f05df1db0f852f98b1362d4736df431c0c04443bfc",
+      "bytes": 345344,
+      "blocos": 951
+    },
+    "sfh": {
+      "versao": 1,
+      "sha256": "5f5353543745166157d6ac24025bbe4b2cf848635870d9f7f3ecb53183e0a36c",
+      "sha256_arquivo": "e992c70fb607b0e5d3ff8c7cb9a5ed8dd0f91a823e80ddf3cd1ad4547f0a332d",
+      "bytes": 12608,
+      "blocos": 31
+    },
+    "sfi": {
+      "versao": 1,
+      "sha256": "6be2d6452bb0bd330b25c293ccd05e084198eb89968d35581557c50d13f5d096",
+      "sha256_arquivo": "f52b9769cda8eea87533d7f64d45f673f8077484d3098150ac96664cb3075bb8",
+      "bytes": 87486,
+      "blocos": 191
+    },
+    "sfn": {
+      "versao": 1,
+      "sha256": "dfc7ce9c5ea87c28d469bf0e25b00645ad72333d5be9dd922f2afd400dbb1ee8",
+      "sha256_arquivo": "5bf43f40f731abbe066e398ba74797857d09bb3ffd5f19f4d0b721cd7475940b",
+      "bytes": 111969,
+      "blocos": 277
+    },
+    "sigilo_bancario": {
+      "versao": 1,
+      "sha256": "fc09ea0b8ab0f1466483649f977fe2259fe48ed63e2687ff6974a034eaf629e5",
+      "sha256_arquivo": "20946334215484c68ab2b7139c2789c2a69681b9600cdd2682f36847c4b6517f",
+      "bytes": 34758,
+      "blocos": 90
+    },
+    "simples_nacional": {
+      "versao": 1,
+      "sha256": "017e735f99cde114f3770112da90ff5951a6d713763c7926a7eb2e8118275897",
+      "sha256_arquivo": "07728768cc8b2ae81d8785d236c2751e190ae420fdd1dac35fb4a8c2c7334784",
+      "bytes": 483488,
+      "blocos": 1091
+    },
+    "sinase": {
+      "versao": 1,
+      "sha256": "8a29bbfc3d4f3423231ccfe90dd33c661b45684d2077a9ac1db96b10ff6549ef",
+      "sha256_arquivo": "2f6ecfc9e336ebe48b3f26903214c7adcd3f850f09a5766c1122bc2ec6d9b241",
+      "bytes": 141975,
+      "blocos": 346
+    },
+    "sinesp": {
+      "versao": 1,
+      "sha256": "2b7e0ca87795d30402237113b7bfeddc37c231f10734f5dc8c82b19b7f949d7c",
+      "sha256_arquivo": "d78832666bc599279f4ab753acc62a8d0a9b3c9c1c3a51c3e23c1d754f0c24ca",
+      "bytes": 9687,
+      "blocos": 15
+    },
+    "sisbin": {
+      "versao": 1,
+      "sha256": "0b2a505f0a987744c90d03e506b82031a57944ea4d3a4718a40645649874109d",
+      "sha256_arquivo": "4f17141b78e0b8b19a71fa1af5e4657c95f626f0518c134b9e3e81b291466709",
+      "bytes": 18787,
+      "blocos": 42
+    },
+    "snuc": {
+      "versao": 1,
+      "sha256": "f5b72611bfc9b945cd4ee4f2d0a00743dbe969d1a9fa9f036701393192537044",
+      "sha256_arquivo": "9fa28ed9241d8caf6d09679039493bfb76ddb49b6aced035ac1bbc35b2824a90",
+      "bytes": 104735,
+      "blocos": 261
+    },
+    "sociedades_anonimas": {
+      "versao": 1,
+      "sha256": "3336c54c788b99bbc5bf45d1b27ae2b86d6c39d992187ab83a06f5d8b2e5f76d",
+      "sha256_arquivo": "45b9a36efa4becc5fc3e6b85ff06b25f5b4528e17d061d94d3d6861a2c15a176",
+      "bytes": 636562,
+      "blocos": 1593
+    },
+    "software": {
+      "versao": 1,
+      "sha256": "32d591f46b5f15b4fdaeb5f3920e60dad8218c0a8965474f85d688907cfef6c6",
+      "sha256_arquivo": "d4cfc3e349e18da5f9580fbfa26bfa2cd5b9ac8f97376945921118c46ce5ca4a",
+      "bytes": 25337,
+      "blocos": 63
+    },
+    "sonegacao": {
+      "versao": 1,
+      "sha256": "269bb48b4e0cd6e9ad9563dd0f54a9e5cf41e31ebc9a2be28b1521a9adad3a2c",
+      "sha256_arquivo": "9f61187910ba0b6e1320dba5c103c36e8c631b37dcf7d68e66b6bee049a94934",
+      "bytes": 11642,
+      "blocos": 30
+    },
+    "sumula_vinculante": {
+      "versao": 1,
+      "sha256": "a81e3a521d15267f90d4eb22eb0628ce5813c067e631439333a53419953eed3f",
+      "sha256_arquivo": "3544ed92d9c1c90680ec7939c4313f26d0ed0b41bff85a8315e9e46fae3e78e0",
+      "bytes": 13031,
+      "blocos": 31
+    },
+    "sumulas_stf": {
+      "versao": 1,
+      "sha256": "a253d08d85f36c6b117111d121391583f85cc937036e9de63bc3afafc8d33317",
+      "sha256_arquivo": "1646eb025c9784d2e3c7399252ecba98ae0edf35b3e8a56686550266cbc8a434",
+      "bytes": 272330,
+      "blocos": 736
+    },
+    "sumulas_stj": {
+      "versao": 1,
+      "sha256": "31bcdb8e93071c74ebd707cb753321b4e49ad2cf045500e735455afcfaadd4e7",
+      "sha256_arquivo": "0ab9413002623a213b859c4d94b3c58831faefe317ffd5303eb4e4b4d2622a0f",
+      "bytes": 258053,
+      "blocos": 673
+    },
+    "sumulas_sv": {
+      "versao": 1,
+      "sha256": "816f3455970bd8a278154c697822780651fe6c39ef3988f8b0b2bf10b30126af",
+      "sha256_arquivo": "b36e521cd31f7bc45177aac280dcecb5d28dd09ba90792d033189fe65477bd7d",
+      "bytes": 29314,
+      "blocos": 63
+    },
+    "super_receita": {
+      "versao": 1,
+      "sha256": "3e83eb7fef1519054a53022e9180f1a17bdb83a9cbfb674dd9be606906efd494",
+      "sha256_arquivo": "8f027fff99ae79066d0d1b3ad50282f6813894934cebe3a00e4ba9dff712464f",
+      "bytes": 105835,
+      "blocos": 239
+    },
+    "susp": {
+      "versao": 1,
+      "sha256": "5148e4d785a2441809be2e892f2af791c3e3c8a7c553205bfebb623d8f5f18d3",
+      "sha256_arquivo": "b8425cfbbabc2ee80c8c2484658b7e8452a80d2febf5693130ca442e4e36623a",
+      "bytes": 160247,
+      "blocos": 435
+    },
+    "tabela_irpf": {
+      "versao": 1,
+      "sha256": "45275c23cb6d3e0c569263019e20429ba201b0ebbbaf93bc3a1e33d1c3ae169c",
+      "sha256_arquivo": "b6829922276e5c38c338eae655e49b9889c4ce7b7bf0ff6844f50a472ee909ac",
+      "bytes": 46829,
+      "blocos": 98
+    },
+    "terrorismo": {
+      "versao": 1,
+      "sha256": "0c0627ac42dddb3e359025a01536ddcf7045696c7f27af15a07237ade602aeef",
+      "sha256_arquivo": "f38a159202eb09da7c54cafc46dcac8970b75baee5f84aac6271866ec7c1e16a",
+      "bytes": 20467,
+      "blocos": 49
+    },
+    "titulos_agronegocio": {
+      "versao": 1,
+      "sha256": "bca7475f665ab86b6a2d9db40838642d65b6c6a47397e71f95111e7323e03fe4",
+      "sha256_arquivo": "40c616ede18bb01560d62954671f684a9cb2f824ff377f79d620ebb0a9610ae8",
+      "bytes": 96058,
+      "blocos": 253
+    },
+    "tortura": {
+      "versao": 1,
+      "sha256": "1b4e15edfca2af7c3b251f9934e04b2c038ed86b491eb60572ff1d884bdac7cd",
+      "sha256_arquivo": "85aad0c853a4d85272f2e5d82279109dc2e6480c3bb1dc2e86a61442173351d7",
+      "bytes": 7545,
+      "blocos": 22
+    },
+    "trabalho_domestico": {
+      "versao": 1,
+      "sha256": "e1ad5af88f367cf1aca0605aaf28f40d6486714b47df75fe92ffa5940d387e54",
+      "sha256_arquivo": "f0565336e03f832d57faa6edba9ff14744da2769a46edd34cc084b15055d9933",
+      "bytes": 80650,
+      "blocos": 183
+    },
+    "trabalho_rural": {
+      "versao": 1,
+      "sha256": "b6ab43aaf996220366a58b075fd5a7b97248c3c8968190ef6301c1a0b273264c",
+      "sha256_arquivo": "1367b13c283b4f6c37b39338296d5a52c4544e88820665de72e8897dd832480a",
+      "bytes": 24211,
+      "blocos": 59
+    },
+    "trabalho_temporario": {
+      "versao": 1,
+      "sha256": "df7dcbc046c0f546ce61742281a0d0961d43d2e1c97b289a649aefeecda7f5c4",
+      "sha256_arquivo": "6784240b43b82baf87777b2ba7638ae8b2e9cab3b3968c43323a5d34e37ecffa",
+      "bytes": 38933,
+      "blocos": 99
+    },
+    "trafico_pessoas": {
+      "versao": 1,
+      "sha256": "71bfbf7e4b65b430eed58a0847a42709dfb0cfa1a96fb3bc5747f611963b86c6",
+      "sha256_arquivo": "3a63b7d67a1a357153f8624f6ba89a06b68529148d60e8f56489e9a8eb090f76",
+      "bytes": 27732,
+      "blocos": 65
+    },
+    "transplantes": {
+      "versao": 1,
+      "sha256": "fcd94259408460df8a1dc3f77424c4a29e4ec9a8aad813141be5cac956639efd",
+      "sha256_arquivo": "6efcdfb71aeefb2c4d3b7140139a6bc929285add3baaef237720ad4b39a11399",
+      "bytes": 38299,
+      "blocos": 100
+    },
+    "trib_fundos": {
+      "versao": 1,
+      "sha256": "28de337c3c9f5fc97cbae29ea82ab8b87770299aebf22ac7ea58310ced198bcd",
+      "sha256_arquivo": "9efd9a9bb1915843aaa26101a22b35e4962281d57a6e39206bcbede2c4652a9e",
+      "bytes": 255717,
+      "blocos": 430
+    },
+    "trib_irpj": {
+      "versao": 1,
+      "sha256": "daa25144528af10f0b3c60a28c32219514e51ccbd12141c59ba3344cefcf8f5a",
+      "sha256_arquivo": "e5a6be456e2ee522a1285762d483f9cc09ee40cbbea3a6107d42ee8e801382bd",
+      "bytes": 272694,
+      "blocos": 485
+    },
+    "trib_zfm": {
+      "versao": 1,
+      "sha256": "65d5f77eae231bfc7ed1747acdc15ba4911e2a8b02d1523cc2d2a4bc77c2dd19",
+      "sha256_arquivo": "6ec2e9698ae1a8c4fae6f2065f2333eeb378f120e87042e8c80381b9d22f2312",
+      "bytes": 15897,
+      "blocos": 34
+    },
+    "tributos_na_nota": {
+      "versao": 1,
+      "sha256": "d9a69d9ea9a594af0617308b8484a0e47a709ed8f00e63e0ac8e29a104dd6e16",
+      "sha256_arquivo": "fa656e3e60c76a8d29f42fd9cf5862d3d18a27c8269298bb570e83545513da4a",
+      "bytes": 12180,
+      "blocos": 29
+    },
+    "tutela_fazenda": {
+      "versao": 1,
+      "sha256": "fb3664c93001560fe2aa2c9e9e11fceb0935a9fb87a508af1bb9284f097c2163",
+      "sha256_arquivo": "4af2e6cb4f788f11b09b81ea2d0e87a4d21567bc40f61084f7e2da1e0a216b04",
+      "bytes": 8305,
+      "blocos": 14
+    },
+    "uniao_estavel_1994": {
+      "versao": 1,
+      "sha256": "cb78f69509a5035380bb8edb116066bba958caea500428c6ce9e717114f34366",
+      "sha256_arquivo": "693a3e3192ce27d07c56a0bd0edeac6405921855e281850d369bf6971718a774",
+      "bytes": 3941,
+      "blocos": 10
+    },
+    "uniao_estavel_1996": {
+      "versao": 1,
+      "sha256": "d239b7fc2641a1d7f98348f85cb1caecde276dfdb597fe92361ad4a3e1f55d53",
+      "sha256_arquivo": "32c4caee90092851db69b30d83b2b2fe08daa4db3b2ac84715f564b3597a6af1",
+      "bytes": 6052,
+      "blocos": 18
+    },
+    "uso_algemas": {
+      "versao": 1,
+      "sha256": "0586b081fecf734f33a7cd20d57610f1623e40cdba3ddebb5ed62515061e3ba9",
+      "sha256_arquivo": "2de9bb3dfd4e8e5c9defc1e104e68ffdc0ed604058fa031688fab4ec347851d3",
+      "bytes": 3672,
+      "blocos": 8
+    },
+    "uso_cientifico_animais": {
+      "versao": 1,
+      "sha256": "fee685586a3e666692a6e65d2a423b3c0fd47cbb58a26025f2a0acc2b4a7b03d",
+      "sha256_arquivo": "a076600a2da2138002b48b593500b129257c30339ecb0063c79dce5300d2bf79",
+      "bytes": 47056,
+      "blocos": 136
+    },
+    "uso_especial": {
+      "versao": 1,
+      "sha256": "23e724cc0ae5dc777a73dd92de4231f002f8b524e79ab2d871fc9ee9a1d63de8",
+      "sha256_arquivo": "cfcb36ac810766af3fbcc549f73cc63c1abd9e6f4ffb768ce8cd76764550ed9f",
+      "bytes": 19768,
+      "blocos": 48
+    },
+    "usuario_servicos": {
+      "versao": 1,
+      "sha256": "d5577a618ba285d49b98f7037e1c17c6cac61bf911634ff31621f9b83189d8f4",
+      "sha256_arquivo": "e63671c05ded9368ffcb7dfb5b1f6646301d3716aeb0397f12fabcddc08651a4",
+      "bytes": 50109,
+      "blocos": 148
+    },
+    "usucapiao_rural": {
+      "versao": 1,
+      "sha256": "5736a09df3e0500c1c750ca866ab3c373fd1c7e2bbd702db2d451773bc78ce30",
+      "sha256_arquivo": "8caabe0868ebb0e0287703ca53bd30a19bd15378e2c3d4ee55b5ff266c72d36e",
+      "bytes": 12791,
+      "blocos": 29
+    },
+    "vale_cultura": {
+      "versao": 1,
+      "sha256": "7490e2752588119181a3102fa4a03bda3bd14334767ac6aa9f80fba5da97bf76",
+      "sha256_arquivo": "e654a042d797fd3f74ae95619d53fe3e8157040e939c9ff0b7eb197d03bb1875",
+      "bytes": 22368,
+      "blocos": 61
+    },
+    "vale_transporte": {
+      "versao": 1,
+      "sha256": "702a13fbd02869dd4b5d0bfb2d85fd9c549858a5816f6694aa60aa06cd43a7e8",
+      "sha256_arquivo": "f4a68c30473e20ff18d889aad63576b8c9a9acd17d27cae13658c2969dbb4a62",
+      "bytes": 9460,
+      "blocos": 22
+    },
+    "vitimas_violencia_sexual": {
+      "versao": 1,
+      "sha256": "694df01549b825516a5d0395f2e37fd744d9ce0366971336133aace311c1bb5c",
+      "sha256_arquivo": "a2fcc0c6c33bae0bcd8b8ff5e1d99fd9aac887cc0e1580e8066f78bf99f871c8",
+      "bytes": 5347,
+      "blocos": 15
+    }
+  }
+}
