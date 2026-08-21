@@ -1,0 +1,674 @@
+{
+ "gerado_em": "2026-08-20",
+ "leis": {
+  "regulamento_marco_civil": {
+   "urn": "urn:lex:br:federal:decreto:2016-05-11;8771",
+   "detectado_em": "2026-08-20",
+   "eventos": [
+    {
+     "evento": "bloco_novo",
+     "caminho": "art15-A",
+     "rotulo": "Art. 15-A",
+     "texto_antigo": null,
+     "texto_novo": "Art. 15-A. O dever de guarda de registros de endereço IP pelos provedores de conexão e pelos provedores de aplicações de internet, previsto nos art. 13 e art. 15 da Lei nº 12.965, de 23 de abril de 2014, abrangerá a porta lógica de origem associada sempre que necessário para a identificação inequívoca do terminal de origem ou do próximo enlace de rede. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art15-A_par1",
+     "rotulo": "§ 1º",
+     "texto_antigo": null,
+     "texto_novo": "§ 1º O dever de guarda da porta lógica de origem independerá de prévia requisição e recairá autonomamente sobre cada provedor. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art15-A_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": null,
+     "texto_novo": "§ 2º O fornecimento da porta lógica de origem e dos dados a ela vinculados observará o disposto nos art. 10 e art. 22 da Lei nº 12.965, de 23 de abril de 2014. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-A",
+     "rotulo": "Art. 16-A",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-A. São deveres dos provedores de aplicações de internet: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-A_alia",
+     "rotulo": "a)",
+     "texto_antigo": null,
+     "texto_novo": "a) responder perante as esferas administrativa e judicial; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-A_alib",
+     "rotulo": "b)",
+     "texto_antigo": null,
+     "texto_novo": "b) prestar às autoridades competentes informações relativas: (Incluído pelo Decreto nº 12.975, de 2026) Vigência 1. ao funcionamento do provedor; (Incluído pelo Decreto nº 12.975, de 2026) Vigência 2. às regras e aos procedimentos utilizados para moderação de conteúdo e para gestão das reclamações pelos sistemas internos; (Incluído pelo Decreto nº 12.975, de 2026) Vigência 3. aos relatórios de transparência, monitoramento e gestão dos riscos sistêmicos; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência 4. às regras para perfilamento de usuários, à veiculação de publicidade e ao impulsionamento remunerado de conteúdos; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-A_alic",
+     "rotulo": "c)",
+     "texto_antigo": null,
+     "texto_novo": "c) cumprir determinações judiciais; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-A_alid",
+     "rotulo": "d)",
+     "texto_antigo": null,
+     "texto_novo": "d) responder e cumprir eventuais penalizações, multas e afetações financeiras em que o representado incorrer; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-A_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I - constituir e manter sede e representante legal no País, com poderes para: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-A_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II - disponibilizar canal de denúncia permanente e de fácil acesso, para recebimento e tratamento das notificações que inclua expressamente a possibilidade de notificação de conteúdos criminosos ou ilícitos; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-A_incIII",
+     "rotulo": "III",
+     "texto_antigo": null,
+     "texto_novo": "III - adotar medidas para impedir a operação de rede artificial de distribuição de conteúdos ilícitos; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-A_incIV",
+     "rotulo": "IV",
+     "texto_antigo": null,
+     "texto_novo": "IV - adotar meios necessários para garantir a segurança e a transparência dos serviços. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-A_parunico",
+     "rotulo": "Parágrafo único",
+     "texto_antigo": null,
+     "texto_novo": "Parágrafo único. O representante legal de que trata o inciso I do caput será constituído na forma de pessoa jurídica e as suas informações para contato estarão facilmente acessíveis no sítio eletrônico do representado. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B",
+     "rotulo": "Art. 16-B",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-B. Os provedores de aplicações de internet que realizem intermediação de conteúdo gerado por terceiro serão responsabilizados em caso de falha sistêmica na indisponibilização imediata de conteúdo que caracterize: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I - crimes de terrorismo ou preparatórios de terrorismo tipificados na Lei nº 13.260, de 16 de março de 2016; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II - crimes de induzimento, instigação ou auxílio a suicídio ou automutilação, nos termos do disposto no art. 122 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_incIII",
+     "rotulo": "III",
+     "texto_antigo": null,
+     "texto_novo": "III - incitação à discriminação em razão de raça, cor, etnia, religião, procedência nacional, sexualidade ou identidade de gênero, inclusive condutas homofóbicas e transfóbicas, passível de enquadramento nos art. 20, art. 20-A, art. 20-B e art. 20-C da Lei nº 7.716, de 5 de janeiro de 1989; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_incIV",
+     "rotulo": "IV",
+     "texto_antigo": null,
+     "texto_novo": "IV - crimes praticados contra a mulher em razão da condição do sexo feminino, inclusive conteúdos que propaguem ódio ou aversão a mulheres, nos termos do disposto na Lei nº 10.446, de 8 de maio de 2002, na Lei nº 11.340, de 7 de agosto de 2006, na Lei nº 14.192, de 4 de agosto de 2021, e nos art. 141, § 3º, art. 146-A, art. 147, § 1º, art. 147-A e art. 147-B do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_incV",
+     "rotulo": "V",
+     "texto_antigo": null,
+     "texto_novo": "V - crimes sexuais contra pessoas vulneráveis, exploração sexual de crianças e adolescentes e crimes graves contra crianças e adolescentes, nos termos do disposto nos art. 217-A, art. 218, art. 218-A, art. 218-B e art. 218-C do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, e nos art. 240, art. 241-A, art. 241-C, art. 241-D da Lei nº 8.069, de 13 de julho de 1990; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_incVI",
+     "rotulo": "VI",
+     "texto_antigo": null,
+     "texto_novo": "VI - tráfico de pessoas, nos termos do disposto no art. 149-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_incVII",
+     "rotulo": "VII",
+     "texto_antigo": null,
+     "texto_novo": "VII - condutas e atos tipificados nos art. 286, parágrafo único, art. 359-L, art. 359-M, art. 359-N, art. 359-P e art. 359-R do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_par1",
+     "rotulo": "§ 1º",
+     "texto_antigo": null,
+     "texto_novo": "§ 1º Incorrerá em falha sistêmica o provedor de aplicações de internet que não comprovar a adoção de medidas adequadas de prevenção ou remoção dos conteúdos ilícitos referidos no caput que: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_par1_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I - forneçam, conforme o estado da técnica, os níveis mais elevados de segurança para o tipo de serviço que oferecem; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_par1_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II - inibam a circulação massiva dos conteúdos de que tratam os incisos I a VII do caput. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": null,
+     "texto_novo": "§ 2º A avaliação da ocorrência de falha sistêmica será feita pela autoridade competente a partir de mecanismos de supervisão e análise periódica. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_par3",
+     "rotulo": "§ 3º",
+     "texto_antigo": null,
+     "texto_novo": "§ 3º A existência de conteúdos ilícitos referidos no caput de forma isolada não caracteriza, por si só, falha sistêmica, hipótese em que será aplicado o disposto no art. 16-G. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_par4",
+     "rotulo": "§ 4º",
+     "texto_antigo": null,
+     "texto_novo": "§ 4º Os provedores de aplicações de internet de que trata o caput deverão disponibilizar às autoridades competentes as informações e os dados que permitam verificar a adoção e a aplicação das medidas de que trata o § 1º. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-B_par5",
+     "rotulo": "§ 5º",
+     "texto_antigo": null,
+     "texto_novo": "§ 5º Em relação aos crimes de que trata o inciso V do caput, aplica-se, no que couber, o disposto na Lei nº 15.211, de 17 de setembro de 2025. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-C",
+     "rotulo": "Art. 16-C",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-C. Os provedores de aplicações de internet deverão, sem prejuízo do dever de cuidado, monitorar, identificar, avaliar e gerir, de forma diligente, os riscos sistêmicos criados ou potencializados pelas suas atividades ou pela circulação dos conteúdos referidos no art. 16-B. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-D",
+     "rotulo": "Art. 16-D",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-D. A notificação sobre conteúdo criminoso ou ilícito realizada por meio do canal de que trata o art. 16-A, caput, inciso II, deverá conter, sob pena de nulidade: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-D_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I - elementos que permitam identificar a possível conduta criminosa ou ilícita, ou na hipótese de que trata o art. 16-J, parágrafo único, a indicação da respectiva decisão judicial; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-D_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II - informações que permitam a identificação específica do conteúdo criminoso ou ilícito a ser indisponibilizado; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-D_incIII",
+     "rotulo": "III",
+     "texto_antigo": null,
+     "texto_novo": "III - identificação do notificante e, quando couber, indicação do fundamento de sua legitimidade. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-D_parunico",
+     "rotulo": "Parágrafo único",
+     "texto_antigo": null,
+     "texto_novo": "Parágrafo único. A autoridade competente poderá regulamentar: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-D_parunico_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I - a forma de notificação e de contestação; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-D_parunico_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II - o prazo para remoção do conteúdo e da resposta ao notificante; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-D_parunico_incIII",
+     "rotulo": "III",
+     "texto_antigo": null,
+     "texto_novo": "III - os legitimados a notificar; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-D_parunico_incIV",
+     "rotulo": "IV",
+     "texto_antigo": null,
+     "texto_novo": "IV - o prazo de contestação do responsável pelo conteúdo; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-D_parunico_incV",
+     "rotulo": "V",
+     "texto_antigo": null,
+     "texto_novo": "V - os demais procedimentos necessários. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-E",
+     "rotulo": "Art. 16-E",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-E. Após o recebimento de notificação de crime ou ato ilícito, o provedor de aplicações de internet deverá: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-E_alia",
+     "rotulo": "a)",
+     "texto_antigo": null,
+     "texto_novo": "a) em caso de remoção, o provedor de aplicações de internet comunicará a decisão ao notificante e ao usuário que publicou o conteúdo e informará o fundamento específico da remoção e os meios de contestá-la; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-E_alib",
+     "rotulo": "b)",
+     "texto_antigo": null,
+     "texto_novo": "b) em caso de não remoção do conteúdo objeto de notificação, o provedor de aplicações de internet comunicará ao notificante e informará o fundamento específico da manutenção e os meios de contestá-la; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-E_alic",
+     "rotulo": "c)",
+     "texto_antigo": null,
+     "texto_novo": "c) em caso de reconsideração após contestação, o provedor de aplicações de internet deverá comunicar o usuário que publicou o conteúdo e o notificante, com a respectiva fundamentação. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-E_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I - confirmar ao notificante o recebimento da notificação; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-E_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II - avaliar o teor da notificação e adotar as providências pertinentes, observado o seguinte: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-F",
+     "rotulo": "Art. 16-F",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-F. Os provedores de aplicações de internet deverão adotar medidas para coibir o uso ilícito ou abusivo dos instrumentos de notificação, em especial aqueles que atentem contra o direito à liberdade de expressão. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-G",
+     "rotulo": "Art. 16-G",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-G. Sem prejuízo dos deveres previstos nos art. 16-A, art. 16-B e art. 16-C, os provedores de aplicações de internet deverão indisponibilizar, em resposta às notificações de que tratam o art. 16-D e o art. 16-E, o conteúdo gerado por terceiros que configure crime conforme a legislação nacional, excetuados os crimes contra a honra. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-G_par1",
+     "rotulo": "§ 1º",
+     "texto_antigo": null,
+     "texto_novo": "§ 1º O provedor de aplicações de internet poderá manter o conteúdo disponível quando, após a análise diligente e fundamentada, concluir existir dúvida razoável sobre o caráter criminoso do conteúdo, considerada a proporcionalidade entre a dúvida e a gravidade do crime, hipótese em que comunicará ao notificante as razões da não indisponibilização. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-G_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": null,
+     "texto_novo": "§ 2º Com o objetivo de assegurar a liberdade de expressão, a aplicação das medidas previstas neste artigo considerará o contexto das publicações, a liberdade religiosa e de crença e a eventual finalidade informativa, educativa ou de crítica, sátira e paródia. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-H",
+     "rotulo": "Art. 16-H",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-H. Os provedores de aplicações de internet, ao identificarem ou concluírem pela existência de conteúdo relativo às condutas criminosas, deverão encaminhar o conteúdo e as informações necessárias à identificação da autoria e da materialidade dos crimes ao Poder Público. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-H_parunico",
+     "rotulo": "Parágrafo único",
+     "texto_antigo": null,
+     "texto_novo": "Parágrafo único. Ato do Ministro de Estado da Justiça e Segurança Pública disciplinará a forma de cumprimento deste artigo, inclusive quanto à possibilidade de encaminhamento das informações de que trata o caput ao órgão central responsável por recebê-las, processá-las e disponibilizá-las às autoridades competentes, resguardadas as atribuições constitucionais e legais dos entes federativos. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-I",
+     "rotulo": "Art. 16-I",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-I. Na apuração da responsabilidade administrativa do provedor de aplicações de internet pelo descumprimento do disposto nos art. 16-G, a autoridade competente avaliará a atuação diligente, proporcional e célere do provedor no tratamento das notificações recebidas, vedada a responsabilização fundada exclusivamente na manutenção ou na remoção isolada de conteúdos objeto de notificação. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-I_parunico",
+     "rotulo": "Parágrafo único",
+     "texto_antigo": null,
+     "texto_novo": "Parágrafo único. É vedada à autoridade competente a notificação de provedores de aplicações de internet para moderação de conteúdos criminosos ou ilícitos de forma isolada. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-J",
+     "rotulo": "Art. 16-J",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-J. A responsabilização de provedor de aplicações de internet por conteúdo gerado por terceiro dependerá de ordem judicial específica, nos termos do disposto no art. 19 da Lei nº 12.965, de 23 de abril de 2014, nas hipóteses: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-J_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I - de crimes e atos ilícitos contra a honra; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-J_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II - dos serviços de que trata o art. 16-O. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-J_parunico",
+     "rotulo": "Parágrafo único",
+     "texto_antigo": null,
+     "texto_novo": "Parágrafo único. Na hipótese de sucessivas replicações do fato ofensivo reconhecido por decisão judicial, todos os provedores de aplicações de internet que realizem intermediação de conteúdo gerado por terceiros deverão remover as publicações com conteúdos idênticos, independentemente de novas decisões judiciais, a partir de notificação judicial ou extrajudicial. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-K",
+     "rotulo": "Art. 16-K",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-K. Os provedores de aplicações de internet que, mediante pagamento, disponibilizem ferramentas para anúncio ou impulsionamento de conteúdo adotarão medidas adequadas para vedar a contratação de conteúdo que configure crime ou ato ilícito. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-L",
+     "rotulo": "Art. 16-L",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-L. Presume-se a responsabilidade do provedor de aplicações de internet quando o conteúdo ilícito for veiculado em anúncios, impulsionamentos pagos ou distribuído por meio de redes artificiais de distribuição de conteúdos, independentemente de notificação. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-L_parunico",
+     "rotulo": "Parágrafo único",
+     "texto_antigo": null,
+     "texto_novo": "Parágrafo único. Os provedores de aplicações de internet ficarão excluídos de responsabilidade se comprovarem que atuaram diligentemente e em tempo razoável para indisponibilizar o conteúdo. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-M",
+     "rotulo": "Art. 16-M",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-M. Os provedores de aplicações de internet que, mediante pagamento, disponibilizem ferramentas para anúncio ou impulsionamento de conteúdo deverão manter, pelo prazo de um ano, contado da data do encerramento da veiculação, as informações relativas a cada anúncio ou impulsionamento e aos respectivos anunciantes. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-M_parunico",
+     "rotulo": "Parágrafo único",
+     "texto_antigo": null,
+     "texto_novo": "Parágrafo único. A autoridade competente poderá regulamentar a forma de acesso às informações de que trata este artigo, de modo a possibilitar a fiscalização dos deveres dos provedores de aplicações de internet, respeitadas as competências da Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-N",
+     "rotulo": "Art. 16-N",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-N. Sem prejuízo dos deveres previstos nos art. 16-A a art. 16-M, os provedores de aplicações de internet indisponibilizarão, em resposta à notificação, o conteúdo gerado por terceiros que constitua publicidade enganosa, abusiva ou fraudulenta, nos termos do disposto no art. 37 da Lei nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-N_par1",
+     "rotulo": "§ 1º",
+     "texto_antigo": null,
+     "texto_novo": "§ 1º A notificação de que trata o caput poderá ser feita por autoridade integrante do Sistema Nacional de Defesa do Consumidor ou, quando a publicidade enganosa, abusiva ou fraudulenta for relacionada a políticas públicas, pela Advocacia-Geral da União. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-N_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": null,
+     "texto_novo": "§ 2º Para fins do disposto neste artigo, o conteúdo que não for claramente identificável pelo usuário como publicidade será considerado publicidade enganosa. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-O",
+     "rotulo": "Art. 16-O",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-O. Os deveres previstos nos art. 16-B a art. 16-J não se aplicam às seguintes categorias de serviços prestados por provedores de aplicações de internet: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-O_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I - serviços de e-mail, assim compreendidos os serviços de aplicação de internet para fins exclusivos de comunicação unicamente assíncrona, ponto a ponto, que consista na transmissão, no recebimento e no armazenamento de mensagens eletrônicas entre remetentes e destinatários previamente identificados ou identificáveis por meio de endereçamento por domínio; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-O_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II - serviços de mensageria instantânea, exclusivamente quanto às comunicações interpessoais, resguardadas pelo sigilo das comunicações, nos termos do disposto no art. 5º, caput, inciso XII, da Constituição, assim compreendidos os serviços de aplicação de internet que permitam o envio e o recebimento de mensagens de texto, voz, imagem ou vídeo entre usuários ou grupos determinados de usuários, de forma síncrona ou assíncrona, sem difusão pública do conteúdo transmitido ou de grupos abertos; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-O_incIII",
+     "rotulo": "III",
+     "texto_antigo": null,
+     "texto_novo": "III - serviços de comunicação audiovisual em grupo restrito, assim compreendidos os serviços de aplicação de internet cuja funcionalidade principal consista na realização de reuniões, videoconferências ou chamadas de áudio e vídeo entre participantes previamente convidados ou autorizados, em ambiente de acesso controlado. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art16-P",
+     "rotulo": "Art. 16-P",
+     "texto_antigo": null,
+     "texto_novo": "Art. 16-P. A autoridade competente poderá definir critérios diferenciados para o cumprimento dos deveres previstos nos art. 16-A a art. 16-J e art. 16-M, considerados o porte econômico do operador de aplicações de internet, o nível de interferência na circulação de conteúdo de terceiros, o estado da técnica e o risco envolvido no serviço, especialmente quanto aos pequenos provedores de aplicações de internet. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art19-A",
+     "rotulo": "Art. 19-A",
+     "texto_antigo": null,
+     "texto_novo": "Art. 19-A. A Agência Nacional de Proteção de Dados – ANPD atuará na regulação, na fiscalização e na apuração de infrações quanto à garantia dos direitos dos usuários e ao cumprimento dos deveres dos provedores de aplicações de internet, em especial aqueles previstos nos art. 16-A a 16-P deste Decreto, nos termos: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art19-A_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I - da Lei nº 12.965, de 23 de abril de 2014, especialmente quanto ao disposto nos art. 10 a art. 12; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art19-A_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II - da Lei nº 13.709, de 14 de agosto de 2018; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art19-A_incIII",
+     "rotulo": "III",
+     "texto_antigo": null,
+     "texto_novo": "III - da Lei nº 15.211, de 17 de setembro de 2025. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1_alia",
+     "rotulo": "a)",
+     "texto_antigo": null,
+     "texto_novo": "a) na requisição de dados cadastrais pela administração pública; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1_alib",
+     "rotulo": "b)",
+     "texto_antigo": null,
+     "texto_novo": "b) no cumprimento do dever de cuidado dos provedores de aplicações de internet no âmbito de seus serviços; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I - hipóteses admitidas de discriminação de pacotes de dados na internet e de degradação de tráfego; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II - deveres e procedimentos de guarda e proteção de dados por provedores de conexão e de aplicações de internet, e outros relativos a conteúdo gerado por terceiros e proteção a direitos dos usuários de internet; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1_incIII",
+     "rotulo": "III",
+     "texto_antigo": null,
+     "texto_novo": "III - medidas de transparência: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1_incIV",
+     "rotulo": "IV",
+     "texto_antigo": null,
+     "texto_novo": "IV - parâmetros para fiscalização e apuração das infrações previstas na Lei nº 12.965, de 23 de abril de 2014. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art20-A",
+     "rotulo": "Art. 20-A",
+     "texto_antigo": null,
+     "texto_novo": "Art. 20-A. Os provedores de aplicações de internet deverão editar termos e condições de uso e outras formas de autorregulação que abranjam, necessariamente: (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art20-A_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I - o sistema de notificações; (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art20-A_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II - o devido processo; e (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art20-A_incIII",
+     "rotulo": "III",
+     "texto_antigo": null,
+     "texto_novo": "III - os relatórios anuais de transparência em relação a notificações extrajudiciais, anúncios e impulsionamentos. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art20-A_par1",
+     "rotulo": "§ 1º",
+     "texto_antigo": null,
+     "texto_novo": "§ 1º As regras de que trata o caput deverão ser publicadas e revisadas periodicamente, de forma transparente e acessível ao público. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art20-A_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": null,
+     "texto_novo": "§ 2º A autorregulação será considerada elemento de comprovação de boa-fé para a apuração de infrações quando tiver como finalidade a criação de padrões técnicos e de governança que visem a proteger os direitos dos usuários de internet previstos na Lei nº 12.965, de 23 de abril de 2014. (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "dispGERAI_capIII_secIII",
+     "rotulo": "Seção III",
+     "texto_antigo": null,
+     "texto_novo": "Seção III (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "dispGERAI_capIII_secIV",
+     "rotulo": "Seção IV",
+     "texto_antigo": null,
+     "texto_novo": "Seção IV (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "dispGERAI_capIII_secV",
+     "rotulo": "Seção V",
+     "texto_antigo": null,
+     "texto_novo": "Seção V (Incluído pelo Decreto nº 12.975, de 2026) Vigência Dos anúncios, dos impulsionamentos pagos e da publicidade enganosa, abusiva ou fraudulenta"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "dispGERAI_capIII_secVI",
+     "rotulo": "Seção VI",
+     "texto_antigo": null,
+     "texto_novo": "Seção VI (Incluído pelo Decreto nº 12.975, de 2026) Vigência"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "preambulo",
+     "rotulo": "Preâmbulo",
+     "texto_antigo": "Decreto nº 8771 Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos DECRETO Nº 8.771, DE 11 DE MAIO DE 2016 Vigência Vide Decreto nº 12.975, de 2026 Vigência Regulamenta a Lei nº 12.965, de 23 de abril de 2014, para tratar das hipóteses admitidas de discriminação de pacotes de dados na internet e de degradação de tráfego, indicar procedimentos para guarda e proteção de dados por provedores de conexão e de aplicações, apontar medidas de transparência na requisição de dados cadastrais pela administração pública e estabelecer parâmetros para fiscalização e apuração de infrações. A PRESIDENTA DA REPÚBLICA , no uso da atribuição que lhe confere o art. 84, caput , inciso IV, da Constituição, e tendo em vista o disposto na Lei nº 12.965, de 23 de abril de 2014, DECRETA:",
+     "texto_novo": "Decreto nº 8771 Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos DECRETO Nº 8.771, DE 11 DE MAIO DE 2016 Vigência Regulamenta a Lei nº 12.965, de 23 de abril de 2014, para tratar das hipóteses admitidas de discriminação de pacotes de dados na internet e de degradação de tráfego, indicar procedimentos para guarda e proteção de dados por provedores de conexão e de aplicações, apontar medidas de transparência na requisição de dados cadastrais pela administração pública e estabelecer parâmetros para fiscalização e apuração de infrações. A PRESIDENTA DA REPÚBLICA , no uso da atribuição que lhe confere o art. 84, caput , inciso IV, da Constituição, e tendo em vista o disposto na Lei nº 12.965, de 23 de abril de 2014, DECRETA:"
+    }
+   ]
+  },
+  "cpp": {
+   "urn": "urn:lex:br:federal:decreto.lei:1941-10-03;3689",
+   "detectado_em": "2026-08-20",
+   "eventos": [
+    {
+     "evento": "texto_alterado",
+     "caminho": "art3-B_par1",
+     "rotulo": "§ 1º",
+     "texto_antigo": "§ 1º O preso em flagrante ou por força de mandado de prisão provisória será encaminhado à presença do juiz de garantias no prazo de 24 (vinte e quatro) horas, momento em que se realizará audiência com a presença do Ministério Público e da Defensoria Pública ou de advogado constituído, vedado o emprego de videoconferência. (Incluído pela Lei nº 13.964, de 2019)",
+     "texto_novo": "§ 1º O preso em flagrante ou por força de mandado de prisão provisória será encaminhado à presença do juiz competente para celebração da audiência de custódia no prazo de 24 (vinte e quatro) horas, momento em que se realizará, por videoconferência, audiência com a presença do Ministério Público e da Defensoria Pública ou de advogado constituído, na forma estabelecida no art. 310 deste Código. (Redação dada pela Lei nº 15.358, de 2026)"
+    }
+   ]
+  },
+  "eleitoral": {
+   "urn": "urn:lex:br:federal:lei:1965-07-15;4737",
+   "detectado_em": "2026-08-20",
+   "eventos": [
+    {
+     "evento": "bloco_novo",
+     "caminho": "art5_incIV",
+     "rotulo": "IV",
+     "texto_antigo": null,
+     "texto_novo": "IV - as pessoas recolhidas a estabelecimento prisional, enquanto perdurar a privação de liberdade, ainda que sem condenação definitiva. (Incluído pela Lei nº 15.358, de 2026)"
+    }
+   ]
+  }
+ }
+}
