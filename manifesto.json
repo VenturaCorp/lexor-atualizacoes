@@ -1,6 +1,6 @@
 {
   "versao": 3,
-  "gerado_em": "2026-08-20",
+  "gerado_em": "2026-08-24",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -1434,7 +1434,7 @@
     "maria_penha": {
       "versao": 1,
       "sha256": "141ca9f1ee0041996454525ed8f06da6761a29e118b32e4cf84ae2f4d16b60f5",
-      "sha256_arquivo": "d30885507a7424d67efe6c8533162251f23f156b7b40f7333c8fb2c44429bfff",
+      "sha256_arquivo": "cf265887f58f2ae97daa5b71539239eab0ae5818aadf5ce65830e590f1f637e7",
       "bytes": 93574,
       "blocos": 227
     },
