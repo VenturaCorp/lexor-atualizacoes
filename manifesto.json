@@ -1,6 +1,6 @@
 {
-  "versao": 5,
-  "gerado_em": "2026-08-26",
+  "versao": 6,
+  "gerado_em": "2026-08-28",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -83,7 +83,7 @@
     "alienacao_fiduciaria": {
       "versao": 1,
       "sha256": "20e03eae75857202365129fd5b32e51759e5a8810653c14b9caa597b85d3fdf0",
-      "sha256_arquivo": "41592a328cf4c630bc5bfb9c24653bc1a1306e796baae6557cd8bcb5bc36cfba",
+      "sha256_arquivo": "6d4635f70f5667ded95ba4a969e4725b5714bef56e0b346dc541c2d4996badd8",
       "bytes": 43252,
       "blocos": 94
     },
@@ -1873,11 +1873,11 @@
       "blocos": 34
     },
     "reforma_tributaria": {
-      "versao": 1,
-      "sha256": "7e3cfebbb9d78c634291ff2364da671f9a15ccadbadb35d9df9914ce3101b52f",
-      "sha256_arquivo": "84e4d5d41cc41530c446240b030ce87c98c755fda146bde34bdf572a3a255602",
-      "bytes": 1791110,
-      "blocos": 4481
+      "versao": 2,
+      "sha256": "c16a0dd53f6e93afe5d99f8b1204b4f7a13583384946d0b9e4198603e1cd8c85",
+      "sha256_arquivo": "baca0389c39d0ae5d24e7f049ad8affda4028d9109e4da4f5d94814062d5e024",
+      "bytes": 1791797,
+      "blocos": 4482
     },
     "registros_fronteira": {
       "versao": 1,
