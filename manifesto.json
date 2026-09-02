@@ -1,6 +1,6 @@
 {
   "versao": 7,
-  "gerado_em": "2026-09-01",
+  "gerado_em": "2026-09-02",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -83,7 +83,7 @@
     "alienacao_fiduciaria": {
       "versao": 1,
       "sha256": "20e03eae75857202365129fd5b32e51759e5a8810653c14b9caa597b85d3fdf0",
-      "sha256_arquivo": "6d4635f70f5667ded95ba4a969e4725b5714bef56e0b346dc541c2d4996badd8",
+      "sha256_arquivo": "884e30f30b03a9a86ca605286a5486585fe0d51834b60ba014260d47f0ef5a3c",
       "bytes": 43252,
       "blocos": 94
     },

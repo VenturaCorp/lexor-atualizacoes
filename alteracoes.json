@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-01",
+ "gerado_em": "2026-09-02",
  "leis": {
   "regulamento_marco_civil": {
    "urn": "urn:lex:br:federal:decreto:2016-05-11;8771",
@@ -710,7 +710,7 @@
   },
   "alienacao_fiduciaria": {
    "urn": "urn:lex:br:federal:decreto.lei:1969-10-01;911",
-   "detectado_em": "2026-08-28",
+   "detectado_em": "2026-09-02",
    "eventos": []
   },
   "cdc": {
