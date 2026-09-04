@@ -1,6 +1,6 @@
 {
-  "versao": 7,
-  "gerado_em": "2026-09-02",
+  "versao": 8,
+  "gerado_em": "2026-09-04",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -543,11 +543,11 @@
       "blocos": 1776
     },
     "cpc": {
-      "versao": 1,
-      "sha256": "0bd294bfb520f7b99a6ddb4026b7c097e38d6c99a593e10a7c7a5b34fa42678e",
-      "sha256_arquivo": "dc6eb56e67fd0ef3fdaa102e6f120b75fa9856432b1905cbf920357023f4f4e7",
-      "bytes": 1473213,
-      "blocos": 4174
+      "versao": 2,
+      "sha256": "38a91bd8c999b67ffb9dfc037a5dd77178f1b9d6aa3718e0d3e708d8668498c7",
+      "sha256_arquivo": "3bad23c9ceac3104ba3a391a1e52636fe00731358a127dc5a65e9022c133e964",
+      "bytes": 1480308,
+      "blocos": 4185
     },
     "cpi": {
       "versao": 1,
