@@ -1,6 +1,6 @@
 {
-  "versao": 8,
-  "gerado_em": "2026-09-04",
+  "versao": 9,
+  "gerado_em": "2026-09-05",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -641,11 +641,11 @@
       "blocos": 32
     },
     "ctn": {
-      "versao": 1,
-      "sha256": "0f668d64761720a760b4a9733ebdab667e329238feb00f16cb98149b0f6456b9",
-      "sha256_arquivo": "9a66864789900607de005a96c9734571b49ccebb368b4fdb70d24c136c69019b",
-      "bytes": 261608,
-      "blocos": 728
+      "versao": 2,
+      "sha256": "1d1d5c06a716fd3f68fa2dedd5cfad12cceb0541cb30b5267e867fe87ffd84df",
+      "sha256_arquivo": "a5c9b7ee1779c37e01f52fe217cb824f461ddf7cfbad071cea3868a64bd388de",
+      "bytes": 330656,
+      "blocos": 887
     },
     "custas_justica_federal": {
       "versao": 1,
@@ -655,10 +655,10 @@
       "blocos": 76
     },
     "custas_stj": {
-      "versao": 1,
-      "sha256": "7ece25051c13f0fbe34e6db75b4d46b57321163244b7d28f0840001a56f0ea16",
-      "sha256_arquivo": "5b1d8a5ab320e52f0ebb32ae3f5081d8f31f381b50e495f535babba683a94d9d",
-      "bytes": 9456,
+      "versao": 2,
+      "sha256": "c1956403d160c51b030de48658d441ae687d05f9bb340b30b7b55f3aedac3fc5",
+      "sha256_arquivo": "7d5187941d7086db5e5bd239cd448b669c61e6bc09e465d2e1cd197c7e60c7b1",
+      "bytes": 9514,
       "blocos": 23
     },
     "custeio_seguridade": {
