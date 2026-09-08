@@ -1,6 +1,6 @@
 {
-  "versao": 10,
-  "gerado_em": "2026-09-05",
+  "versao": 11,
+  "gerado_em": "2026-09-08",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -564,10 +564,10 @@
       "blocos": 2255
     },
     "credito_consignado": {
-      "versao": 1,
-      "sha256": "0592c0d43c8a893dfe770f12c4a70cc4d219a4f86a86b3f2e622b9375f3afc4f",
-      "sha256_arquivo": "ec7d9611c6549b275a20be9c3c7ff2079ead999bfea528968ae3742143db2195",
-      "bytes": 65221,
+      "versao": 2,
+      "sha256": "68a7e32fe639c0916c051f9d5887aae8d6f93eaaccdf114901463b2df3013a88",
+      "sha256_arquivo": "c15f1d89d5928f6784e8bc417e9e327d51c368662d870f3d6a703bcf483f5611",
+      "bytes": 65251,
       "blocos": 138
     },
     "crimes_ambientais": {
