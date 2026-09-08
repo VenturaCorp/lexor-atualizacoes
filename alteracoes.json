@@ -888,7 +888,7 @@
   },
   "ctn": {
    "urn": "urn:lex:br:federal:lei:1966-10-25;5172",
-   "detectado_em": "2026-09-05",
+   "detectado_em": "2026-09-08",
    "eventos": [
     {
      "evento": "bloco_novo",
@@ -1514,6 +1514,13 @@
      "texto_novo": "VII – proporcionalidade e imparcialidade. (Incluído pela Lei Complementar nº 236, de 2026)"
     },
     {
+     "evento": "texto_alterado",
+     "caminho": "art196",
+     "rotulo": "Art. 196",
+     "texto_antigo": "Art. 196. A autoridade administrativa que proceder ou presidir a quaisquer diligências de fiscalização lavrará os têrmos necessários para que se documente o início do procedimento, na forma da legislação aplicável, que fixará prazo máximo para a conclusão daquelas.",
+     "texto_novo": "Art. 196. A autoridade administrativa que proceder ou presidir quaisquer diligências de fiscalização lavrará os termos necessários para que se documente o procedimento, na forma da legislação aplicável. (Redação dada pela Lei Complementar nº 236, de 2026)"
+    },
+    {
      "evento": "bloco_novo",
      "caminho": "art196_par1",
      "rotulo": "§ 1º",
@@ -1631,6 +1638,13 @@
      "rotulo": "§ 2º",
      "texto_antigo": null,
      "texto_novo": "§ 2º (VETADO). (Incluído pela Lei Complementar nº 236, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art205_parunico",
+     "rotulo": "Parágrafo único",
+     "texto_antigo": null,
+     "texto_novo": "Parágrafo único. A certidão negativa será sempre expedida nos termos em que tenha sido requerida e será fornecida dentro de 10 (dez) dias da data da entrada do requerimento na repartição."
     },
     {
      "evento": "bloco_novo",
@@ -2128,6 +2142,11 @@
      "texto_novo": "L10820compilado Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos LEI nº 10.820, DE 17 DE DEZEMBRO DE 2003. Conversão da MPv nº 130, de 2003 Vide Medida Provisória nº 656, de 2014 Vigência encerrada Dispõe sobre a autorização para desconto de prestações em folha de pagamento, e dá outras providências. O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:"
     }
    ]
+  },
+  "planos_beneficios": {
+   "urn": "urn:lex:br:federal:lei:1991-07-24;8213",
+   "detectado_em": "2026-09-08",
+   "eventos": []
   }
  }
 }

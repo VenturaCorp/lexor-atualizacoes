@@ -1,5 +1,5 @@
 {
-  "versao": 11,
+  "versao": 12,
   "gerado_em": "2026-09-08",
   "total_leis": 331,
   "leis": {
@@ -641,11 +641,11 @@
       "blocos": 32
     },
     "ctn": {
-      "versao": 3,
-      "sha256": "ee2e869b58fa0888452cc757dada01af07941915511d82744dc0241f547fc1da",
-      "sha256_arquivo": "76ea7c721128424280a9e0e62cd9c906fab4888d1c32e5b574b94e654192bcac",
-      "bytes": 330635,
-      "blocos": 887
+      "versao": 4,
+      "sha256": "cb15906e31c98818ea085fe2f21d91c5f62961f7c7f456e402cad4777de2c37e",
+      "sha256_arquivo": "d779c5917ca959ce02d7e22a6c2addeb11052f70079fe2dcc840e31815f9120e",
+      "bytes": 331045,
+      "blocos": 888
     },
     "custas_justica_federal": {
       "versao": 1,
@@ -1621,10 +1621,10 @@
       "blocos": 21
     },
     "planos_beneficios": {
-      "versao": 1,
-      "sha256": "152e9ea82fa134db4ce33bf10edcc67bec0ab6d5014a59d0fb0a391c65e0754f",
-      "sha256_arquivo": "2507d5448f79276b293e0077dfaeec4435a5727d3995afc5efda52ee8c0b45ea",
-      "bytes": 427107,
+      "versao": 2,
+      "sha256": "30b23d8b5f734263379ce61081096358d8268b8d95e8646654369d530ef1d8d0",
+      "sha256_arquivo": "f6cf6f870b5d70baec8b15852d493f2d1868628928aa27d278933430ef0ff7c1",
+      "bytes": 427707,
       "blocos": 952
     },
     "plebiscito_referendo": {
