@@ -4,7 +4,7 @@
   "ementa": "Código de Processo Civil.",
   "sigla": "cpc",
   "fonte": "planalto.gov.br",
-  "gerado_em": "2026-09-04",
+  "gerado_em": "2026-09-17",
   "blocos": [
     {
       "id": "urn:lex:br:federal:lei:2015-03-16;13105!preambulo",
@@ -32934,7 +32934,7 @@
       "caminho": "art1042_par2",
       "tipo": "paragrafo",
       "rotulo": "§ 2º",
-      "texto": "§ 2º A petição de agravo será dirigida ao presidente ou ao vice-presidente do tribunal de origem e independe do pagamento de custas e despesas postais, aplicando-se a ela o regime de repercussão geral e de recursos repetitivos, inclusive quanto à possibilidade de sobrestamento e do juízo de retratação. (Redação dada pela Lei nº 13.256, de 2016)",
+      "texto": "§ 2º A petição de agravo será dirigida ao presidente ou ao vice-presidente do tribunal de origem e independe do pagamento de custas e despesas postais, aplicando-se a ela o regime de repercussão geral, de relevância da questão de direito federal infraconstitucional e de recursos repetitivos, inclusive quanto à possibilidade de sobrestamento e do juízo de retratação. (Redação dada pela Lei nº 15.484, de 2026) Vigência",
       "status": "vigente"
     },
     {

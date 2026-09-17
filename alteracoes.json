@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-08",
+ "gerado_em": "2026-09-17",
  "leis": {
   "regulamento_marco_civil": {
    "urn": "urn:lex:br:federal:decreto:2016-05-11;8771",
@@ -728,7 +728,7 @@
   },
   "cpc": {
    "urn": "urn:lex:br:federal:lei:2015-03-16;13105",
-   "detectado_em": "2026-09-04",
+   "detectado_em": "2026-09-17",
    "eventos": [
     {
      "evento": "texto_alterado",
@@ -827,6 +827,13 @@
      "rotulo": "Art. 1.042",
      "texto_antigo": "Art. 1.042. Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos. (Redação dada pela Lei nº 13.256, de 2016)",
      "texto_novo": "Art. 1.042. Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regimes de repercussão geral, de relevância da questão de direito federal infraconstitucional ou de julgamento de recursos repetitivos. (Redação dada pela Lei nº 15.484, de 2026) Vigência"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art1042_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": "§ 2º A petição de agravo será dirigida ao presidente ou ao vice-presidente do tribunal de origem e independe do pagamento de custas e despesas postais, aplicando-se a ela o regime de repercussão geral e de recursos repetitivos, inclusive quanto à possibilidade de sobrestamento e do juízo de retratação. (Redação dada pela Lei nº 13.256, de 2016)",
+     "texto_novo": "§ 2º A petição de agravo será dirigida ao presidente ou ao vice-presidente do tribunal de origem e independe do pagamento de custas e despesas postais, aplicando-se a ela o regime de repercussão geral, de relevância da questão de direito federal infraconstitucional e de recursos repetitivos, inclusive quanto à possibilidade de sobrestamento e do juízo de retratação. (Redação dada pela Lei nº 15.484, de 2026) Vigência"
     },
     {
      "evento": "texto_alterado",
