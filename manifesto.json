@@ -1,5 +1,5 @@
 {
-  "versao": 13,
+  "versao": 14,
   "gerado_em": "2026-09-17",
   "total_leis": 331,
   "leis": {
@@ -1670,11 +1670,11 @@
       "blocos": 433
     },
     "ppi": {
-      "versao": 1,
-      "sha256": "3aa9a72eff18abb1cdb01ab5d59297c0ae50ed9e08c051b9767003001765e450",
-      "sha256_arquivo": "d598a117158b1ae82f87e0d181f9b25465ae8e4b6aa177db26a55eb0afd1a606",
-      "bytes": 129986,
-      "blocos": 312
+      "versao": 2,
+      "sha256": "86ebcf5b19cd5fce6da19792bce0d4077f6226b92472d2013b55358638f9789a",
+      "sha256_arquivo": "8feef29050c01a885331a70804f92fa28d088dcc76ad6034b7f1fee2e0181def",
+      "bytes": 130820,
+      "blocos": 314
     },
     "ppp": {
       "versao": 1,

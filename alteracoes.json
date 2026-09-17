@@ -2154,6 +2154,26 @@
    "urn": "urn:lex:br:federal:lei:1991-07-24;8213",
    "detectado_em": "2026-09-08",
    "eventos": []
+  },
+  "ppi": {
+   "urn": "urn:lex:br:federal:lei:2016-09-13;13334",
+   "detectado_em": "2026-09-17",
+   "eventos": [
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1_par1_incV",
+     "rotulo": "V",
+     "texto_antigo": null,
+     "texto_novo": "V – os projetos de pesquisa, lavra, beneficiamento e transformação mineral e de mineração urbana de minerais críticos e estratégicos e as infraestruturas associadas. (Incluído pela Lei nº 15.506, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art4_incV",
+     "rotulo": "V",
+     "texto_antigo": null,
+     "texto_novo": "V – os projetos de pesquisa, lavra, beneficiamento e transformação mineral e de mineração urbana de minerais críticos e estratégicos e as infraestruturas associadas. (Incluído pela Lei nº 15.506, de 2026)"
+    }
+   ]
   }
  }
 }

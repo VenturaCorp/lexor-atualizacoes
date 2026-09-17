@@ -1,0 +1,2568 @@
+{
+  "urn": "urn:lex:br:federal:lei:2016-09-13;13334",
+  "nome": "Programa de Parcerias de Investimentos",
+  "ementa": "Cria o Programa de Parcerias de Investimentos - PPI; altera a Lei nº 10.683, de 28 de maio de 2003, e dá outras providências.",
+  "sigla": "ppi",
+  "fonte": "planalto.gov.br",
+  "gerado_em": "2026-09-17",
+  "blocos": [
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!preambulo",
+      "caminho": "preambulo",
+      "tipo": "preambulo",
+      "rotulo": "Preâmbulo",
+      "texto": "L13334 Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos LEI Nº 13.334, DE 13 DE SETEMBRO DE 2016. Texto compilado Conversão da Medida Provisória nº 727, de 2016 Vide Lei nº 13.448, de 2017 Vide Decreto nº 11.412, de 2023 Cria o Programa de Parcerias de Investimentos - PPI; altera a Lei nº 10.683, de 28 de maio de 2003, e dá outras providências. O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!capI",
+      "caminho": "capI",
+      "tipo": "divisao",
+      "rotulo": "CAPÍTULO I",
+      "texto": "CAPÍTULO I DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art1",
+      "caminho": "art1",
+      "tipo": "artigo",
+      "rotulo": "Art. 1º",
+      "texto": "Art. 1º Fica criado, no âmbito da Presidência da República, o Programa de Parcerias de Investimentos - PPI, destinado à ampliação e fortalecimento da interação entre o Estado e a iniciativa privada por meio da celebração de contratos de parceria para a execução de empreendimentos públicos de infraestrutura e de outras medidas de desestatização.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art1_par1",
+      "caminho": "art1_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Podem integrar o PPI:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art1_par1_incI",
+      "caminho": "art1_par1_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - os empreendimentos públicos de infraestrutura em execução ou a serem executados por meio de contratos de parceria celebrados pela administração pública direta e indireta da União;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art1_par1_incII",
+      "caminho": "art1_par1_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - os empreendimentos públicos de infraestrutura que, por delegação ou com o fomento da União, sejam executados por meio de contratos de parceria celebrados pela administração pública direta ou indireta dos Estados, do Distrito Federal ou dos Municípios; e",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art1_par1_incIII",
+      "caminho": "art1_par1_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - as demais medidas do Programa Nacional de Desestatização a que se refere a Lei nº 9.491, de 9 de setembro de 1997 .",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art1_par1_incIII~antigo1",
+      "caminho": "art1_par1_incIII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - as demais medidas do Programa Nacional de Desestatização a que se refere a Lei nº 9.491, de 9 de setembro de 1997 .",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art1_par1_incIII~antigo2",
+      "caminho": "art1_par1_incIII~antigo2",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - as demais medidas do Programa Nacional de Desestatização a que se refere a Lei nº 9.491, de 9 de setembro de 1997; e (Redação dada pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art1_par1_incIV",
+      "caminho": "art1_par1_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - as obras e os serviços de engenharia de interesse estratégico. (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art1_par1_incV",
+      "caminho": "art1_par1_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V – os projetos de pesquisa, lavra, beneficiamento e transformação mineral e de mineração urbana de minerais críticos e estratégicos e as infraestruturas associadas. (Incluído pela Lei nº 15.506, de 2026)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art1_par2",
+      "caminho": "art1_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º Para os fins desta Lei, consideram-se contratos de parceria a concessão comum, a concessão patrocinada, a concessão administrativa, a concessão regida por legislação setorial, a permissão de serviço público, o arrendamento de bem público, a concessão de direito real e os outros negócios público-privados que, em função de seu caráter estratégico e de sua complexidade, especificidade, volume de investimentos, longo prazo, riscos ou incertezas envolvidos, adotem estrutura jurídica semelhante.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2",
+      "caminho": "art2",
+      "tipo": "artigo",
+      "rotulo": "Art. 2º",
+      "texto": "Art. 2º São objetivos do PPI:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2_incI",
+      "caminho": "art2_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - ampliar as oportunidades de investimento e emprego e estimular o desenvolvimento tecnológico e industrial, em harmonia com as metas de desenvolvimento social e econômico do País;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2_incII",
+      "caminho": "art2_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - garantir a expansão com qualidade da infraestrutura pública, com tarifas adequadas;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2_incIII",
+      "caminho": "art2_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - promover ampla e justa competição na celebração das parcerias e na prestação dos serviços;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2_incIV",
+      "caminho": "art2_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - assegurar a estabilidade e a segurança jurídica, com a garantia da mínima intervenção nos negócios e investimentos; e",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2_incIV~antigo1",
+      "caminho": "art2_incIV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - assegurar a estabilidade e a segurança jurídica, com a garantia da mínima intervenção nos negócios e investimentos; e",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2_incIV~antigo2",
+      "caminho": "art2_incIV~antigo2",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - assegurar a estabilidade e a segurança jurídica, com a garantia da mínima intervenção nos negócios e investimentos; (Redação dada pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2_incV",
+      "caminho": "art2_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - fortalecer o papel regulador do Estado e a autonomia das entidades estatais de regulação.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2_incV~antigo1",
+      "caminho": "art2_incV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - fortalecer o papel regulador do Estado e a autonomia das entidades estatais de regulação.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2_incV~antigo2",
+      "caminho": "art2_incV~antigo2",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - fortalecer o papel regulador do Estado e a autonomia das entidades estatais de regulação; e (Redação dada pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2_incVI",
+      "caminho": "art2_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - fortalecer políticas nacionais de integração dos diferentes modais de transporte de pessoas e bens, em conformidade com as políticas de desenvolvimento nacional, regional e urbano, de defesa nacional, de meio ambiente e de segurança das populações, formuladas pelas diversas esferas de governo. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art2_incVI~antigo1",
+      "caminho": "art2_incVI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - fortalecer políticas nacionais de integração dos diferentes modais de transporte de pessoas e bens, em conformidade com as políticas de desenvolvimento nacional, regional e urbano, de defesa nacional, de meio ambiente e de segurança das populações, formuladas pelas diversas esferas de governo. (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art3",
+      "caminho": "art3",
+      "tipo": "artigo",
+      "rotulo": "Art. 3º",
+      "texto": "Art. 3º Na implementação do PPI serão observados os seguintes princípios:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art3_incI",
+      "caminho": "art3_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - estabilidade das políticas públicas de infraestrutura;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art3_incII",
+      "caminho": "art3_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - legalidade, qualidade, eficiência e transparência da atuação estatal; e",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art3_incIII",
+      "caminho": "art3_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - garantia de segurança jurídica aos agentes públicos, às entidades estatais e aos particulares envolvidos.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4",
+      "caminho": "art4",
+      "tipo": "artigo",
+      "rotulo": "Art. 4º",
+      "texto": "Art. 4º O PPI será regulamentado por meio de decretos que, nos termos e limites das leis setoriais e da legislação geral aplicável, definirão:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4_incI",
+      "caminho": "art4_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - as políticas federais de longo prazo para o investimento por meio de parcerias em empreendimentos públicos federais de infraestrutura e para a desestatização;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4_incII",
+      "caminho": "art4_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - os empreendimentos públicos federais de infraestrutura qualificados para a implantação por parceria; e (Redação da pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4_incII~antigo1",
+      "caminho": "art4_incII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - os empreendimentos públicos federais de infraestrutura qualificados para a implantação por parceria; e (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4_incII~antigo2",
+      "caminho": "art4_incII~antigo2",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - os empreendimentos públicos federais de infraestrutura qualificados para a implantação por parceria; e (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4_incII~antigo3",
+      "caminho": "art4_incII~antigo3",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - os empreendimentos públicos federais de infraestrutura qualificados para a implantação por parceria; e (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4_incII~antigo4",
+      "caminho": "art4_incII~antigo4",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - os empreendimentos públicos federais de infraestrutura qualificados para a implantação por parceria; (Redação dada pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4_incIII",
+      "caminho": "art4_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - as políticas federais de fomento às parcerias em empreendimentos públicos de infraestrutura dos Estados, do Distrito Federal ou dos Municípios.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4_incIII~antigo1",
+      "caminho": "art4_incIII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - as políticas federais de fomento às parcerias em empreendimentos públicos de infraestrutura dos Estados, do Distrito Federal ou dos Municípios.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4_incIII~antigo2",
+      "caminho": "art4_incIII~antigo2",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - as políticas federais de fomento às parcerias em empreendimentos públicos de infraestrutura dos Estados, do Distrito Federal ou dos Municípios; e (Redação dada pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4_incIV",
+      "caminho": "art4_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - as obras e os serviços de engenharia de interesse estratégico. (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art4_incV",
+      "caminho": "art4_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V – os projetos de pesquisa, lavra, beneficiamento e transformação mineral e de mineração urbana de minerais críticos e estratégicos e as infraestruturas associadas. (Incluído pela Lei nº 15.506, de 2026)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art5",
+      "caminho": "art5",
+      "tipo": "artigo",
+      "rotulo": "Art. 5º",
+      "texto": "Art. 5º Os empreendimentos do PPI serão tratados como prioridade nacional por todos os agentes públicos de execução ou de controle, da União, dos Estados, do Distrito Federal e dos Municípios.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art5~antigo1",
+      "caminho": "art5~antigo1",
+      "tipo": "artigo",
+      "rotulo": "Art. 5º",
+      "texto": "Art. 5º Os projetos qualificados no PPI serão tratados como empreendimentos de interesse estratégico e terão prioridade nacional junto a todos os agentes públicos nas esferas administrativa e controladora da União, dos Estados, do Distrito Federal e dos Municípios. (Redação dada pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art5~antigo2",
+      "caminho": "art5~antigo2",
+      "tipo": "artigo",
+      "rotulo": "Art. 5º",
+      "texto": "Art. 5º Os empreendimentos do PPI serão tratados como prioridade nacional por todos os agentes públicos de execução ou de controle, da União, dos Estados, do Distrito Federal e dos Municípios.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art5~antigo3",
+      "caminho": "art5~antigo3",
+      "tipo": "artigo",
+      "rotulo": "Art. 5º",
+      "texto": "Art. 5º Os projetos qualificados no PPI serão tratados como empreendimentos de interesse estratégico e terão prioridade nacional perante todos os agentes públicos nas esferas administrativa e controladora da União, dos Estados, do Distrito Federal e dos Municípios. (Redação dada pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art6",
+      "caminho": "art6",
+      "tipo": "artigo",
+      "rotulo": "Art. 6º",
+      "texto": "Art. 6º Os órgãos, entidades e autoridades da administração pública da União com competências relacionadas aos empreendimentos do PPI formularão programas próprios visando à adoção, na regulação administrativa, independentemente de exigência legal, das práticas avançadas recomendadas pelas melhores experiências nacionais e internacionais, inclusive:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art6_incI",
+      "caminho": "art6_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - edição de planos, regulamentos e atos que formalizem e tornem estáveis as políticas de Estado fixadas pelo Poder Executivo para cada setor regulado, de forma a tornar segura sua execução no âmbito da regulação administrativa, observadas as competências da legislação específica, e mediante consulta pública prévia;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art6_incII",
+      "caminho": "art6_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - eliminação de barreiras burocráticas à livre organização da atividade empresarial;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art6_incIII",
+      "caminho": "art6_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - articulação com o Conselho Administrativo de Defesa Econômica - CADE, bem como com a Secretaria de Acompanhamento Econômico - SEAE do Ministério da Fazenda, para fins de compliance com a defesa da concorrência; e",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art6_incIV",
+      "caminho": "art6_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - articulação com os órgãos e autoridades de controle, para aumento da transparência das ações administrativas e para a eficiência no recebimento e consideração das contribuições e recomendações.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!capII",
+      "caminho": "capII",
+      "tipo": "divisao",
+      "rotulo": "CAPÍTULO II",
+      "texto": "CAPÍTULO II DO CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7",
+      "caminho": "art7",
+      "tipo": "artigo",
+      "rotulo": "Art. 7º",
+      "texto": "Art. 7º Fica criado o Conselho do Programa de Parcerias de Investimentos da Presidência da República - CPPI, com as seguintes competências:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incI",
+      "caminho": "art7_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - opinar, previamente à deliberação do Presidente da República, quanto às propostas dos órgãos ou entidades competentes, sobre as matérias previstas no art. 4º desta Lei;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incII",
+      "caminho": "art7_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - acompanhar a execução do PPI;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incIII",
+      "caminho": "art7_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - formular propostas e representações fundamentadas aos Chefes do Poder Executivo dos Estados, do Distrito Federal e dos Municípios;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incIV",
+      "caminho": "art7_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - formular recomendações e orientações normativas aos órgãos, entidades e autoridades da administração pública da União;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incV",
+      "caminho": "art7_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - exercer as funções atribuídas:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_alia",
+      "caminho": "art7_alia",
+      "tipo": "alinea",
+      "rotulo": "a)",
+      "texto": "a) ao órgão gestor de parcerias público-privadas federais pela Lei nº 11.079, de 30 de dezembro de 2004 ;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_alib",
+      "caminho": "art7_alib",
+      "tipo": "alinea",
+      "rotulo": "b)",
+      "texto": "b) (Revogado pela Medida Provisória nº 882/2019).",
+      "status": "revogado",
+      "texto_integral": "b) ao Conselho Nacional de Integração de Políticas de Transporte pela Lei nº 10.233, de 5 de junho de 2001 ; e (Revogado pela Medida Provisória nº 882, de 2019)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_alib~antigo1",
+      "caminho": "art7_alib~antigo1",
+      "tipo": "alinea",
+      "rotulo": "b)",
+      "texto": "b) ao Conselho Nacional de Integração de Políticas de Transporte pela Lei nº 10.233, de 5 de junho de 2001 ; e",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_alic",
+      "caminho": "art7_alic",
+      "tipo": "alinea",
+      "rotulo": "c)",
+      "texto": "c) ao Conselho Nacional de Desestatização pela Lei nº 9.491, de 9 de setembro de 1997 ;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incVI",
+      "caminho": "art7_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - editar o seu Regimento Interno.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incVI~antigo1",
+      "caminho": "art7_incVI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - propor medidas que propiciem a integração dos transportes aéreo, aquaviário e terrestre e a harmonização de suas políticas setoriais; (Redação dada pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incVI~antigo2",
+      "caminho": "art7_incVI~antigo2",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - editar o seu Regimento Interno.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incVI~antigo3",
+      "caminho": "art7_incVI~antigo3",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - editar o seu regimento interno; (Redação dada pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incVII",
+      "caminho": "art7_incVII",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII - definir os elementos de logística do transporte multimodal a serem implementados por órgãos ou entidades da administração pública; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incVII~antigo1",
+      "caminho": "art7_incVII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII - propor medidas que propiciem a integração dos transportes aéreo, aquaviário e terrestre e a harmonização de suas políticas setoriais; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incVIII",
+      "caminho": "art7_incVIII",
+      "tipo": "inciso",
+      "rotulo": "VIII",
+      "texto": "VIII - harmonizar as políticas nacionais de transporte com as políticas de transporte dos Estados, do Distrito Federal e dos Municípios, com vistas à articulação dos órgãos encarregados pelo gerenciamento dos sistemas viários e pela regulação dos transportes interestaduais, intermunicipais e urbanos; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incVIII~antigo1",
+      "caminho": "art7_incVIII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "VIII",
+      "texto": "VIII - definir os elementos de logística do transporte multimodal a serem implementados por órgãos ou entidades da administração pública; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incIX",
+      "caminho": "art7_incIX",
+      "tipo": "inciso",
+      "rotulo": "IX",
+      "texto": "IX - aprovar, em função das características regionais, as políticas de prestação de serviços de transporte às áreas mais remotas ou de difícil acesso do País e submeter ao Presidente da República as medidas específicas para esse fim; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incIX~antigo1",
+      "caminho": "art7_incIX~antigo1",
+      "tipo": "inciso",
+      "rotulo": "IX",
+      "texto": "IX - harmonizar as políticas nacionais de transporte com as políticas de transporte dos Estados, do Distrito Federal e dos Municípios, com vistas à articulação dos órgãos encarregados do gerenciamento dos sistemas viários e da regulação dos transportes interestaduais, intermunicipais e urbanos; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incX",
+      "caminho": "art7_incX",
+      "tipo": "inciso",
+      "rotulo": "X",
+      "texto": "X - aprovar as revisões periódicas das redes de transporte que contemplam as diversas regiões do País e propor ao Presidente da República e ao Congresso Nacional as reformulações do Sistema Nacional de Viação, instituído pela Lei nº 12.379, de 6 de janeiro de 2011, que atendam ao interesse nacional; e (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incX~antigo1",
+      "caminho": "art7_incX~antigo1",
+      "tipo": "inciso",
+      "rotulo": "X",
+      "texto": "X - aprovar, em função das características regionais, as políticas de prestação de serviços de transporte às áreas mais remotas ou de difícil acesso do País e submeter ao Presidente da República as medidas específicas para esse fim; e (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incXI",
+      "caminho": "art7_incXI",
+      "tipo": "inciso",
+      "rotulo": "XI",
+      "texto": "XI - editar o seu regimento interno. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_incXI~antigo1",
+      "caminho": "art7_incXI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "XI",
+      "texto": "XI - aprovar as revisões periódicas das redes de transporte que contemplam as diversas regiões do País e propor ao Presidente da República e ao Congresso Nacional as reformulações do Sistema Nacional de Viação, instituído pela Lei nº 12.379, de 6 de janeiro de 2011, que atendam ao interesse nacional. (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1",
+      "caminho": "art7_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Serão membros do CPPI, com direito a voto, o Secretário-Executivo da Secretaria do Programa de Parcerias de Investimentos da Presidência da República - SPPI, que também atuará como Secretário-Executivo do Conselho; o Ministro-Chefe da Casa Civil; os Ministros de Estado da Fazenda, do Planejamento, Desenvolvimento e Gestão, dos Transportes, Portos e Aviação Civil e o do Meio Ambiente; o Presidente do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e o Presidente da Caixa Econômica Federal.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1~antigo1",
+      "caminho": "art7_par1~antigo1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Serão membros do CPPI, com direito a voto, o Secretário-Executivo da Secretaria do Programa de Parcerias de Investimentos da Presidência da República (SPPI), que também atuará como Secretário-Executivo do Conselho; o Ministro-Chefe da Casa Civil; os Ministros de Estado da Fazenda, do Planejamento, Desenvolvimento e Gestão, de Minas e Energia, dos Transportes, Portos e Aviação Civil e do Meio Ambiente; o Presidente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e o Presidente da Caixa Econômica Federal. (Redação dada pela Lei nº 13.360, de 2016)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1~antigo2",
+      "caminho": "art7_par1~antigo2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Serão membros do CPPI, com direito a voto: (Redação da pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1~antigo3",
+      "caminho": "art7_par1~antigo3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Serão membros do CPPI, com direito a voto: (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1~antigo4",
+      "caminho": "art7_par1~antigo4",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "§ 1º Serão membros do CPPI, com direito a voto: (Redação dada pela Lei nº 13.502, de 2017) (Revogado pela Medida Provisória nº 922, de 2020)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1~antigo5",
+      "caminho": "art7_par1~antigo5",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Ato do Poder Executivo federal definirá a composição do CPPI. (Redação dada pela Medida Provisória nº 1.161, de 2023)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incI",
+      "caminho": "art7_par1_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - o Ministro de Estado Chefe da Secretaria-Geral da Presidência da República; (Incluído pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incI~antigo1",
+      "caminho": "art7_par1_incI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - o Ministro de Estado Chefe da Secretaria-Geral da Presidência da República; (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incI~antigo2",
+      "caminho": "art7_par1_incI~antigo2",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - o Ministro de Estado Chefe da Secretaria-Geral da Presidência da República; (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incI~antigo3",
+      "caminho": "art7_par1_incI~antigo3",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - o Ministro de Estado Chefe da Secretaria de Governo da Presidência da República; (Redação dada pela Medida Provisória nº 870, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incI~antigo4",
+      "caminho": "art7_par1_incI~antigo4",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - o Ministro de Estado Chefe da Secretaria-Geral da Presidência da República; (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incI~antigo5",
+      "caminho": "art7_par1_incI~antigo5",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - o Ministro de Estado Chefe da Secretaria de Governo da Presidência da República, que o presidirá; (Redação dada pela Medida Provisória nº 882, de 2019) (Alteração Revogada pela Medida Provisória nº 886, de 2019)",
+      "status": "revogado"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incI~antigo6",
+      "caminho": "art7_par1_incI~antigo6",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - o Ministro de Estado Chefe da Casa Civil da Presidência da República, que o presidirá; (Redação dada pela Medida Provisória nº 886, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incI~antigo7",
+      "caminho": "art7_par1_incI~antigo7",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "I - o Ministro de Estado Chefe da Casa Civil da Presidência da República, que o presidirá; (Redação dada pela Lei nº 13.901, de 2019) (Revogado pela Medida Provisória nº 922, de 2020) (Revogado pela Medida Provisória nº 1.161, de 2023) (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incII",
+      "caminho": "art7_par1_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - o Ministro de Estado Chefe da Casa Civil; (Incluído pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incII~antigo1",
+      "caminho": "art7_par1_incII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - o Ministro de Estado Chefe da Casa Civil da Presidência da República; (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incII~antigo2",
+      "caminho": "art7_par1_incII~antigo2",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - o Ministro de Estado Chefe da Casa Civil da Presidência da República; (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incII~antigo3",
+      "caminho": "art7_par1_incII~antigo3",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - o Ministro de Estado Chefe da Secretaria de Governo da Presidência da República; (Redação dada pela Medida Provisória nº 886, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incII~antigo4",
+      "caminho": "art7_par1_incII~antigo4",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "II - o Ministro de Estado Chefe da Secretaria de Governo da Presidência da República; (Redação dada pela Lei nº 13.901, de 2019) (Revogado pela Medida Provisória nº 922, de 2020) (Revogado pela Medida Provisória nº 1.161, de 2023) (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIII",
+      "caminho": "art7_par1_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - o Ministro de Estado da Fazenda; (Incluído pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIII~antigo1",
+      "caminho": "art7_par1_incIII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - o Ministro de Estado da Fazenda; (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIII~antigo2",
+      "caminho": "art7_par1_incIII~antigo2",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - o Ministro de Estado da Fazenda; (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIII~antigo3",
+      "caminho": "art7_par1_incIII~antigo3",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - o Ministro de Estado da Economia; (Redação dada pela Medida Provisória nº 870, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIII~antigo4",
+      "caminho": "art7_par1_incIII~antigo4",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - o Ministro de Estado da Fazenda; (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIII~antigo5",
+      "caminho": "art7_par1_incIII~antigo5",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - o Ministro de Estado da Economia; (Redação dada pela Medida Provisória nº 886, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIII~antigo6",
+      "caminho": "art7_par1_incIII~antigo6",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "III - o Ministro de Estado da Economia; (Redação dada pela Lei nº 13.901, de 2019) (Revogado pela Medida Provisória nº 922, de 2020) (Revogado pela Medida Provisória nº 1.161, de 2023) (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIV",
+      "caminho": "art7_par1_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - o Ministro de Estado do Planejamento, Desenvolvimento e Gestão; (Incluído pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIV~antigo1",
+      "caminho": "art7_par1_incIV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - o Ministro de Estado dos Transportes, Portos e Aviação Civil; (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIV~antigo2",
+      "caminho": "art7_par1_incIV~antigo2",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - o Ministro de Estado dos Transportes, Portos e Aviação Civil; (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIV~antigo3",
+      "caminho": "art7_par1_incIV~antigo3",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - o Ministro de Estado dos Transportes, Portos e Aviação Civil; (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIV~antigo4",
+      "caminho": "art7_par1_incIV~antigo4",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - o Ministro de Estado da Infraestrutura; (Redação dada pela Medida Provisória nº 886, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIV~antigo5",
+      "caminho": "art7_par1_incIV~antigo5",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "IV - o Ministro de Estado da Infraestrutura; (Redação dada pela Lei nº 13.901, de 2019) (Revogado pela Medida Provisória nº 922, de 2020) (Revogado pela Medida Provisória nº 1.161, de 2023) (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incV",
+      "caminho": "art7_par1_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - o Ministro de Estado de Minas e Energia; (Incluído pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incV~antigo1",
+      "caminho": "art7_par1_incV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - o Ministro de Estado de Minas e Energia; (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incV~antigo2",
+      "caminho": "art7_par1_incV~antigo2",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "V - o Ministro de Estado de Minas e Energia; (Redação dada pela Lei nº 13.502, de 2017) (Revogado pela Medida Provisória nº 922, de 2020) (Revogado pela Medida Provisória nº 1.161, de 2023) (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVI",
+      "caminho": "art7_par1_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - o Ministro de Estado dos Transportes, Portos e Aviação Civil; (Incluído pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVI~antigo1",
+      "caminho": "art7_par1_incVI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - o Ministro de Estado do Planejamento, Desenvolvimento e Gestão; (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVI~antigo2",
+      "caminho": "art7_par1_incVI~antigo2",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI (Revogado pela Medida Provisória nº 870/2019).",
+      "status": "revogado",
+      "texto_integral": "VI - o Ministro de Estado do Planejamento, Desenvolvimento e Gestão; (Redação dada pela Lei nº 13.502, de 2017) (Revogado pela Medida Provisória nº 870, de 2019) (Revogado pela Lei nº 13.844, de 2019) (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVII",
+      "caminho": "art7_par1_incVII",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII - o Ministro de Estado do Meio Ambiente; (Incluído pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVII~antigo1",
+      "caminho": "art7_par1_incVII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII - o Ministro de Estado do Meio Ambiente; (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVII~antigo2",
+      "caminho": "art7_par1_incVII~antigo2",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "VII - o Ministro de Estado do Meio Ambiente; (Redação dada pela Lei nº 13.502, de 2017) (Revogado pela Medida Provisória nº 922, de 2020) (Revogado pela Medida Provisória nº 1.161, de 2023) (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVIII",
+      "caminho": "art7_par1_incVIII",
+      "tipo": "inciso",
+      "rotulo": "VIII",
+      "texto": "VIII - o Presidente do Banco Nacional de Desenvolvimento Econômico e Social - BNDES; (Incluído pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVIII~antigo1",
+      "caminho": "art7_par1_incVIII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "VIII",
+      "texto": "VIII - o Presidente do Banco Nacional de Desenvolvimento Econômico e Social - BNDES; (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVIII~antigo2",
+      "caminho": "art7_par1_incVIII~antigo2",
+      "tipo": "inciso",
+      "rotulo": "VIII",
+      "texto": "VIII (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "VIII - o Presidente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES); (Redação dada pela Lei nº 13.502, de 2017) (Revogado pela Medida Provisória nº 922, de 2020) (Revogado pela Medida Provisória nº 1.161, de 2023) (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIX",
+      "caminho": "art7_par1_incIX",
+      "tipo": "inciso",
+      "rotulo": "IX",
+      "texto": "IX - o Presidente da Caixa Econômica Federal; e (Incluído pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIX~antigo1",
+      "caminho": "art7_par1_incIX~antigo1",
+      "tipo": "inciso",
+      "rotulo": "IX",
+      "texto": "IX - o Presidente da Caixa Econômica Federal; e (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIX~antigo2",
+      "caminho": "art7_par1_incIX~antigo2",
+      "tipo": "inciso",
+      "rotulo": "IX",
+      "texto": "IX (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "IX - o Presidente da Caixa Econômica Federal; e (Redação dada pela Lei nº 13.502, de 2017) (Revogado pela Medida Provisória nº 922, de 2020) (Revogado pela Medida Provisória nº 1.161, de 2023) (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incX",
+      "caminho": "art7_par1_incX",
+      "tipo": "inciso",
+      "rotulo": "X",
+      "texto": "X - o Presidente do Banco do Brasil. (Incluído pela Medida Provisória nº 768, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incX~antigo1",
+      "caminho": "art7_par1_incX~antigo1",
+      "tipo": "inciso",
+      "rotulo": "X",
+      "texto": "X - o Presidente do Banco do Brasil. (Redação dada pela Medida Provisória nº 782, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incX~antigo2",
+      "caminho": "art7_par1_incX~antigo2",
+      "tipo": "inciso",
+      "rotulo": "X",
+      "texto": "X (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "X - o Presidente do Banco do Brasil; (Redação dada pela Lei nº 13.901, de 2019) (Revogado pela Medida Provisória nº 922, de 2020) (Revogado pela Medida Provisória nº 1.161, de 2023) (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incXI",
+      "caminho": "art7_par1_incXI",
+      "tipo": "inciso",
+      "rotulo": "XI",
+      "texto": "XI (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "XI - o Ministro de Estado do Desenvolvimento Regional. (Incluído pela Lei nº 13.901, de 2019) (Revogado pela Medida Provisória nº 922, de 2020) (Revogado pela Medida Provisória nº 1.161, de 2023) (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1~antigo6",
+      "caminho": "art7_par1~antigo6",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Ato do Poder Executivo federal definirá a composição do CPPI. (Redação dada pela Lei nº 14.600, de 2023)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incI~antigo8",
+      "caminho": "art7_par1_incI~antigo8",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I (Revogado).",
+      "status": "revogado",
+      "texto_integral": "I - (revogado); (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incII~antigo5",
+      "caminho": "art7_par1_incII~antigo5",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II (Revogado).",
+      "status": "revogado",
+      "texto_integral": "II - (revogado); (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIII~antigo7",
+      "caminho": "art7_par1_incIII~antigo7",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III (Revogado).",
+      "status": "revogado",
+      "texto_integral": "III - (revogado); (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIV~antigo6",
+      "caminho": "art7_par1_incIV~antigo6",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV (Revogado).",
+      "status": "revogado",
+      "texto_integral": "IV - (revogado); (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incV~antigo3",
+      "caminho": "art7_par1_incV~antigo3",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V (Revogado).",
+      "status": "revogado",
+      "texto_integral": "V - (revogado); (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVI~antigo3",
+      "caminho": "art7_par1_incVI~antigo3",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI (Revogado).",
+      "status": "revogado",
+      "texto_integral": "VI - (revogado); (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVII~antigo3",
+      "caminho": "art7_par1_incVII~antigo3",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII (Revogado).",
+      "status": "revogado",
+      "texto_integral": "VII - (revogado); (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incVIII~antigo3",
+      "caminho": "art7_par1_incVIII~antigo3",
+      "tipo": "inciso",
+      "rotulo": "VIII",
+      "texto": "VIII (Revogado).",
+      "status": "revogado",
+      "texto_integral": "VIII - (revogado); (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incIX~antigo3",
+      "caminho": "art7_par1_incIX~antigo3",
+      "tipo": "inciso",
+      "rotulo": "IX",
+      "texto": "IX (Revogado).",
+      "status": "revogado",
+      "texto_integral": "IX - (revogado); (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incX~antigo3",
+      "caminho": "art7_par1_incX~antigo3",
+      "tipo": "inciso",
+      "rotulo": "X",
+      "texto": "X (Revogado).",
+      "status": "revogado",
+      "texto_integral": "X - (revogado); (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par1_incXI~antigo1",
+      "caminho": "art7_par1_incXI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "XI",
+      "texto": "XI (Revogado).",
+      "status": "revogado",
+      "texto_integral": "XI - (revogado). (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par2",
+      "caminho": "art7_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "§ 2º Serão convidados a participar das reuniões do Conselho, sem direito a voto, os ministros setoriais responsáveis pelas propostas ou matérias em exame e, quando for o caso, os dirigentes máximos das entidades reguladoras competentes. (Revogado pela Medida Provisória nº 922, de 2020) (Revogado pela Medida Provisória nº 1.161, de 2023 (Revogado pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par2~antigo1",
+      "caminho": "art7_par2~antigo1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º (Revogado).",
+      "status": "revogado",
+      "texto_integral": "§ 2º (Revogado). (Redação dada pela Lei nº 14.600, de 2023)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par3",
+      "caminho": "art7_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "§ 3º A composição do Conselho do Programa de Parcerias de Investimento da Presidência da República observará, quando for o caso, o § 2º do art. 5º da Lei nº 9.491, de 9 de setembro de 1997 . (Revogado pela Medida Provisória nº 922, de 2020)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par4",
+      "caminho": "art7_par4",
+      "tipo": "paragrafo",
+      "rotulo": "§ 4º",
+      "texto": "§ 4º As reuniões do Conselho serão presididas pelo Presidente da República, a quem caberá, nas matérias deliberativas, a decisão final em caso de empate.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par4~antigo1",
+      "caminho": "art7_par4~antigo1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 4º",
+      "texto": "§ 4º As reuniões do Conselho serão dirigidas pelo Presidente da República ou, em suas ausências ou seus impedimentos, pelo Ministro de Estado Chefe da Secretaria de Governo da Presidência da República. (Redação dada pela Medida Provisória nº 882, de 2019) (Alteração revogada pela Medida Provisória nº 886, de 2019)",
+      "status": "revogado"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par4~antigo2",
+      "caminho": "art7_par4~antigo2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 4º",
+      "texto": "§ 4º As reuniões do Conselho serão dirigidas pelo Presidente da República ou, em suas ausências ou seus impedimentos, pelo Ministro de Estado Chefe da Casa Civil da Presidência da República. (Redação dada pela Medida Provisória nº 886, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par4~antigo3",
+      "caminho": "art7_par4~antigo3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 4º",
+      "texto": "§ 4º (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "§ 4º As reuniões do Conselho serão dirigidas pelo Presidente da República ou, em suas ausências ou seus impedimentos, pelo Ministro de Estado Chefe da Casa Civil da Presidência da República. (Redação dada pela Lei nº 13.901, de 2019) (Revogado pela Medida Provisória nº 922, de 2020)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par5",
+      "caminho": "art7_par5",
+      "tipo": "paragrafo",
+      "rotulo": "§ 5º",
+      "texto": "§ 5º Compete ao Secretário Especial do Programa de Parcerias de Investimentos da Secretaria-Geral da Presidência da República atuar como Secretário-Executivo do Conselho do Programa de Parcerias de Investimentos. (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par5~antigo1",
+      "caminho": "art7_par5~antigo1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 5º",
+      "texto": "§ 5º Compete ao Secretário Especial do Programa de Parcerias de Investimentos da Secretaria de Governo da Presidência da República atuar como Secretário-Executivo do Conselho do Programa de Parcerias de Investimentos da Presidência da República. (Redação dada pela Medida Provisória nº 870, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par5~antigo2",
+      "caminho": "art7_par5~antigo2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 5º",
+      "texto": "§ 5º Compete ao Secretário Especial do Programa de Parcerias de Investimentos da Secretaria-Geral da Presidência da República atuar como Secretário-Executivo do Conselho do Programa de Parcerias de Investimentos. (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par5~antigo3",
+      "caminho": "art7_par5~antigo3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 5º",
+      "texto": "§ 5º Compete ao Secretário Especial do Programa de Parcerias de Investimentos da Secretaria de Governo da Presidência da República atuar como Secretário-Executivo do CPPI e participará de suas reuniões, sem direito a voto. (Redação dada pela Medida Provisória nº 882, de 2019) (Alteração revogada pela Medida Provisória nº 886, de 2019)",
+      "status": "revogado"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par5~antigo4",
+      "caminho": "art7_par5~antigo4",
+      "tipo": "paragrafo",
+      "rotulo": "§ 5º",
+      "texto": "§ 5º O Secretário Especial do Programa de Parcerias de Investimentos da Casa Civil da Presidência da República atuará como Secretário-Executivo do CPPI e participará de suas reuniões, sem direito a voto. (Redação dada pela Medida Provisória nº 886, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7_par5~antigo5",
+      "caminho": "art7_par5~antigo5",
+      "tipo": "paragrafo",
+      "rotulo": "§ 5º",
+      "texto": "§ 5º (Revogado pela Medida Provisória nº 922/2020).",
+      "status": "revogado",
+      "texto_integral": "§ 5º O Secretário Especial do Programa de Parcerias de Investimentos da Casa Civil da Presidência da República atuará como Secretário-Executivo do CPPI e participará de suas reuniões, sem direito a voto. (Redação dada pela Lei nº 13.901, de 2019) (Revogado pela Medida Provisória nº 922, de 2020)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7-A",
+      "caminho": "art7-A",
+      "tipo": "artigo",
+      "rotulo": "Art. 7º-A",
+      "texto": "Art. 7º-A Caberá ao Ministro de Estado Chefe da Secretaria de Governo da Presidência da República, em conjunto com o Ministro titular da pasta setorial correspondente, a prerrogativa de deliberar, nos casos de urgência e relevante interesse, ad referendum do CPPI. (Incluído pela Medida Provisória nº 882, de 2019) (Inclusão revogada pela Medida Provisória nº 886, de 2019)",
+      "status": "revogado"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7-A_parunico",
+      "caminho": "art7-A_parunico",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. A decisão ad referendum a que se refere o caput será submetida ao CPPI na primeira reunião após a deliberação. (Incluído pela Medida Provisória nº 882, de 2019) (Inclusão revogada pela Medida Provisória nº 886, de 2019)",
+      "status": "revogado"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7-A~antigo1",
+      "caminho": "art7-A~antigo1",
+      "tipo": "artigo",
+      "rotulo": "Art. 7º-A",
+      "texto": "Art. 7º-A Caberá ao Presidente do CPPI, em conjunto com o Ministro de Estado titular da pasta setorial correspondente, a prerrogativa de deliberar, nos casos de urgência e relevante interesse público, ad referendum do Conselho. (Redação dada pela Medida Provisória nº 922, de 2020)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7-A_parunico~antigo1",
+      "caminho": "art7-A_parunico~antigo1",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. A decisão ad referendum de que trata o caput será submetida ao CPPI na primeira reunião subsequente à deliberação. (Redação dada pela Medida Provisória nº 922, de 2020)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7-A~antigo2",
+      "caminho": "art7-A~antigo2",
+      "tipo": "artigo",
+      "rotulo": "Art. 7º-A",
+      "texto": "Art. 7º-A. Caberá ao Ministro de Estado Chefe da Casa Civil da Presidência da República, em conjunto com o Ministro titular da pasta setorial correspondente, a prerrogativa de deliberar, nos casos de urgência e relevante interesse, ad referendum do CPPI. (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7-A_parunico~antigo2",
+      "caminho": "art7-A_parunico~antigo2",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. A decisão ad referendum a que se refere o caput deste artigo será submetida ao CPPI na primeira reunião após a deliberação. (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7-B",
+      "caminho": "art7-B",
+      "tipo": "artigo",
+      "rotulo": "Art. 7º-B",
+      "texto": "Art. 7º-B. Caberá ao Ministro de Estado Chefe da Casa Civil da Presidência da República, em conjunto com o Ministro titular da pasta setorial correspondente, a prerrogativa de deliberar, nos casos de urgência e relevante interesse, ad referendum do CPPI. (Incluído pela Medida Provisória nº 886, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art7-B_parunico",
+      "caminho": "art7-B_parunico",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. A decisão ad referendum a que se refere o caput será submetida ao CPPI na primeira reunião após a deliberação. (Incluído pela Medida Provisória nº 886, de 2019) DA SECRETARIA DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS (Redação dada pela Medida Provisória nº 882, de 2019) DA SECRETARIA ESPECIAL DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!capIII",
+      "caminho": "capIII",
+      "tipo": "divisao",
+      "rotulo": "CAPÍTULO III",
+      "texto": "CAPÍTULO III DA SECRETARIA DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8",
+      "caminho": "art8",
+      "tipo": "artigo",
+      "rotulo": "Art. 8º",
+      "texto": "Art. 8º Ao Secretário Especial do Programa de Parcerias de Investimentos da Secretaria-Geral da Presidência da República compete: (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8~antigo1",
+      "caminho": "art8~antigo1",
+      "tipo": "artigo",
+      "rotulo": "Art. 8º",
+      "texto": "Art. 8º Ao Secretário Especial do Programa de Parcerias de Investimentos da Secretaria de Governo da Presidência da República compete: (Redação dada pela Medida Provisória nº 870, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8~antigo2",
+      "caminho": "art8~antigo2",
+      "tipo": "artigo",
+      "rotulo": "Art. 8º",
+      "texto": "Art. 8º Ao Secretário Especial do Programa de Parcerias de Investimentos da Secretaria-Geral da Presidência da República compete: (Redação dada pela Lei nº 13.502, de 2017)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8~antigo3",
+      "caminho": "art8~antigo3",
+      "tipo": "artigo",
+      "rotulo": "Art. 8º",
+      "texto": "Art. 8º O PPI contará com a Secretaria Especial do Programa de Parcerias de Investimentos da Presidência da República, órgão subordinado à Secretaria de Governo da Presidência da República, com a finalidade de coordenar, monitorar, avaliar e supervisionar as ações do PPI e de apoiar as ações setoriais necessárias à sua execução. (Redação dada pela Medida Provisória nº 882, de 2019) (Alteração revogada pela Medida Provisória nº 886, de 2019)",
+      "status": "revogado"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8~antigo4",
+      "caminho": "art8~antigo4",
+      "tipo": "artigo",
+      "rotulo": "Art. 8º",
+      "texto": "Art. 8º O PPI contará com a Secretaria Especial do Programa de Parcerias de Investimentos da Presidência da República, órgão subordinado à Casa Civil da Presidência da República, com a finalidade de coordenar, monitorar, avaliar e supervisionar as ações do PPI e de apoiar as ações setoriais necessárias à sua execução. (Redação dada pela Medida Provisória nº 886, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8~antigo5",
+      "caminho": "art8~antigo5",
+      "tipo": "artigo",
+      "rotulo": "Art. 8º",
+      "texto": "Art. 8º O PPI contará com a Secretaria Especial do Programa de Parcerias de Investimentos (SPPI), órgão subordinado à Casa Civil da Presidência da República, com a finalidade de coordenar, monitorar, avaliar e supervisionar as ações do PPI e de apoiar as ações setoriais necessárias à sua execução. (Redação dada pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incI",
+      "caminho": "art8_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I (Revogado pela Medida Provisória nº 882/2019).",
+      "status": "revogado",
+      "texto_integral": "I - dirigir a SPPI, superintender e coordenar suas atividades e orientar-lhe a atuação; (Revogado pela Medida Provisória nº 882, de 2019)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incI~antigo1",
+      "caminho": "art8_incI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I (Revogado).",
+      "status": "revogado",
+      "texto_integral": "I - (revogado); (Redação dada pela Lei nº 13.901, de 2019)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incII",
+      "caminho": "art8_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II (Revogado pela Medida Provisória nº 768/2017).",
+      "status": "revogado",
+      "texto_integral": "II - despachar com o Presidente da República; (Revogado pela Medida Provisória nº 768, de 2017) Revogado pela Medida Provisória nº 782, de 2017"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incII~antigo1",
+      "caminho": "art8_incII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II (Revogado).",
+      "status": "revogado",
+      "texto_integral": "II - (revogado) ; (Redação dada pela Lei nº 13.502, de 2017)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incIII",
+      "caminho": "art8_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III (Revogado pela Medida Provisória nº 768/2017).",
+      "status": "revogado",
+      "texto_integral": "III - assessorar o Presidente da República em assuntos relativos à atuação da SPPI, elaborando pareceres e estudos ou propondo normas, medidas e diretrizes; (Revogado pela Medida Provisória nº 768, de 2017) (Revogado pela Medida Provisória nº 782, de 2017"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incIII~antigo1",
+      "caminho": "art8_incIII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III (Revogado).",
+      "status": "revogado",
+      "texto_integral": "III - (revogado) ; (Redação dada pela Lei nº 13.502, de 2017)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incIV",
+      "caminho": "art8_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV (Revogado pela Medida Provisória nº 882/2019).",
+      "status": "revogado",
+      "texto_integral": "IV - exercer orientação normativa e supervisão técnica quanto às matérias relativas às atribuições da SPPI; (Revogado pela Medida Provisória nº 882, de 2019)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incIV~antigo1",
+      "caminho": "art8_incIV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - exercer orientação normativa e supervisão técnica quanto às matérias relativas às atribuições da SPPI;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incIV~antigo2",
+      "caminho": "art8_incIV~antigo2",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV (Revogado).",
+      "status": "revogado",
+      "texto_integral": "IV - (revogado); (Redação dada pela Lei nº 13.901, de 2019)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incV",
+      "caminho": "art8_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V (Revogado pela Medida Provisória nº 768/2017).",
+      "status": "revogado",
+      "texto_integral": "V - editar o Regimento Interno da SPPI; e (Revogado pela Medida Provisória nº 768, de 2017) Revogado pela Medida Provisória nº 782, de 2017"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incV~antigo1",
+      "caminho": "art8_incV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V (Revogado).",
+      "status": "revogado",
+      "texto_integral": "V - (revogado) ; (Redação dada pela Lei nº 13.502, de 2017)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incVI",
+      "caminho": "art8_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI (Revogado pela Medida Provisória nº 882/2019).",
+      "status": "revogado",
+      "texto_integral": "VI - editar e praticar os atos normativos e os demais atos, inerentes às suas atribuições. (Revogado pela Medida Provisória nº 882, de 2019)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incVI~antigo1",
+      "caminho": "art8_incVI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - editar e praticar os atos normativos e os demais atos, inerentes às suas atribuições.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8_incVI~antigo2",
+      "caminho": "art8_incVI~antigo2",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI (Revogado).",
+      "status": "revogado",
+      "texto_integral": "VI - (revogado). (Redação dada pela Lei nº 13.901, de 2019)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A",
+      "caminho": "art8-A",
+      "tipo": "artigo",
+      "rotulo": "Art. 8º-A",
+      "texto": "Art. 8º-A Compete à Secretaria Especial do Programa de Parcerias de Investimentos da Presidência da República: (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incI",
+      "caminho": "art8-A_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - coordenar, monitorar, avaliar e supervisionar as ações do PPI; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incII",
+      "caminho": "art8-A_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - fomentar a integração das ações de planejamento dos órgãos setoriais de infraestrutura; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incIII",
+      "caminho": "art8-A_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - acompanhar e subsidiar, no exercício de suas competências, a atuação dos Ministérios, dos órgãos, das entidades setoriais e do Fundo de Apoio à Estruturação de Parcerias - FAEP, sem prejuízo das competências legais dos Ministérios, dos órgãos e das entidades setoriais; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incIV",
+      "caminho": "art8-A_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - apoiar, junto às instituições financeiras federais, as ações de estruturação de projetos que possam ser qualificados no PPI; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incV",
+      "caminho": "art8-A_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - avaliar a consistência das propostas a serem submetidas para qualificação no PPI; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incVI",
+      "caminho": "art8-A_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - buscar a qualidade e a consistência técnica dos projetos de parcerias qualificados no PPI; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incVII",
+      "caminho": "art8-A_incVII",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII - propor o aprimoramento regulatório nos setores e mercados que possuam empreendimentos qualificados no PPI; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incVIII",
+      "caminho": "art8-A_incVIII",
+      "tipo": "inciso",
+      "rotulo": "VIII",
+      "texto": "VIII - apoiar o processo de licenciamento ambiental dos empreendimentos qualificados no PPI; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incIX",
+      "caminho": "art8-A_incIX",
+      "tipo": "inciso",
+      "rotulo": "IX",
+      "texto": "IX - divulgar os projetos do PPI, para permitir o acompanhamento público; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incX",
+      "caminho": "art8-A_incX",
+      "tipo": "inciso",
+      "rotulo": "X",
+      "texto": "X - acompanhar os empreendimentos qualificados no PPI, para garantir a previsibilidade dos cronogramas divulgados; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXI",
+      "caminho": "art8-A_incXI",
+      "tipo": "inciso",
+      "rotulo": "XI",
+      "texto": "XI - articular-se com os órgãos e as autoridades de controle, para garantir o aumento da transparência das ações do PPI; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXII",
+      "caminho": "art8-A_incXII",
+      "tipo": "inciso",
+      "rotulo": "XII",
+      "texto": "XII - promover e ampliar o diálogo com agentes de mercado e da sociedade civil organizada, para divulgação de oportunidades de investimentos e aprimoramento regulatório; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXIII",
+      "caminho": "art8-A_incXIII",
+      "tipo": "inciso",
+      "rotulo": "XIII",
+      "texto": "XIII - promover a elaboração de estudos para resolução de entraves na implantação e no desenvolvimento de empreendimentos de infraestrutura; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXIV",
+      "caminho": "art8-A_incXIV",
+      "tipo": "inciso",
+      "rotulo": "XIV",
+      "texto": "XIV - promover as políticas públicas federais de fomento às parcerias em empreendimentos públicos de infraestrutura dos Estados, do Distrito Federal e dos Municípios; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXV",
+      "caminho": "art8-A_incXV",
+      "tipo": "inciso",
+      "rotulo": "XV",
+      "texto": "XV - celebrar acordos, ajustes ou instrumentos congêneres com órgãos ou entidades da administração pública federal, estadual, distrital ou municipal, para a ação coordenada de projetos em regime de cooperação mútua; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXVI",
+      "caminho": "art8-A_incXVI",
+      "tipo": "inciso",
+      "rotulo": "XVI",
+      "texto": "XVI - exercer as atividades de Secretaria-Executiva do Conselho de Participação no Fundo de Apoio à Estruturação e ao Desenvolvimento de Projetos de Concessão e Parcerias Público-Privadas da União, dos Estados, do Distrito Federal e dos Municípios; e (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXVII",
+      "caminho": "art8-A_incXVII",
+      "tipo": "inciso",
+      "rotulo": "XVII",
+      "texto": "XVII - coordenar e secretariar o funcionamento do CPPI. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A~antigo1",
+      "caminho": "art8-A~antigo1",
+      "tipo": "artigo",
+      "rotulo": "Art. 8º-A",
+      "texto": "Art. 8º-A. Compete à SPPI: (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incI~antigo1",
+      "caminho": "art8-A_incI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - coordenar, monitorar, avaliar e supervisionar as ações do PPI; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incII~antigo1",
+      "caminho": "art8-A_incII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - fomentar a integração das ações de planejamento dos órgãos setoriais de infraestrutura; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incIII~antigo1",
+      "caminho": "art8-A_incIII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - acompanhar e subsidiar, no exercício de suas competências, a atuação dos Ministérios, dos órgãos, das entidades setoriais e do Fundo de Apoio à Estruturação de Parcerias (Faep), sem prejuízo das competências legais dos Ministérios, dos órgãos e das entidades setoriais; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incIV~antigo1",
+      "caminho": "art8-A_incIV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - apoiar, perante as instituições financeiras federais, as ações de estruturação de projetos que possam ser qualificados no PPI; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incV~antigo1",
+      "caminho": "art8-A_incV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - avaliar a consistência das propostas a serem submetidas para qualificação no PPI; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incVI~antigo1",
+      "caminho": "art8-A_incVI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - buscar a qualidade e a consistência técnica dos projetos de parcerias qualificados no PPI; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incVII~antigo1",
+      "caminho": "art8-A_incVII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII - propor o aprimoramento regulatório nos setores e mercados que possuam empreendimentos qualificados no PPI; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incVIII~antigo1",
+      "caminho": "art8-A_incVIII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "VIII",
+      "texto": "VIII - apoiar o processo de licenciamento ambiental dos empreendimentos qualificados no PPI; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incIX~antigo1",
+      "caminho": "art8-A_incIX~antigo1",
+      "tipo": "inciso",
+      "rotulo": "IX",
+      "texto": "IX - divulgar os projetos do PPI, para permitir o acompanhamento público; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incX~antigo1",
+      "caminho": "art8-A_incX~antigo1",
+      "tipo": "inciso",
+      "rotulo": "X",
+      "texto": "X - acompanhar os empreendimentos qualificados no PPI, para garantir a previsibilidade dos cronogramas divulgados; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXI~antigo1",
+      "caminho": "art8-A_incXI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "XI",
+      "texto": "XI - articular-se com os órgãos e as autoridades de controle, para garantir o aumento da transparência das ações do PPI; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXII~antigo1",
+      "caminho": "art8-A_incXII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "XII",
+      "texto": "XII - promover e ampliar o diálogo com agentes de mercado e da sociedade civil organizada, para divulgação de oportunidades de investimentos e aprimoramento regulatório; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXIII~antigo1",
+      "caminho": "art8-A_incXIII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "XIII",
+      "texto": "XIII - promover a elaboração de estudos para resolução de entraves na implantação e no desenvolvimento de empreendimentos de infraestrutura; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXIV~antigo1",
+      "caminho": "art8-A_incXIV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "XIV",
+      "texto": "XIV - promover as políticas públicas federais de fomento às parcerias em empreendimentos públicos de infraestrutura dos Estados, do Distrito Federal e dos Municípios; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXV~antigo1",
+      "caminho": "art8-A_incXV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "XV",
+      "texto": "XV - celebrar acordos, ajustes ou instrumentos congêneres com órgãos ou entidades da administração pública federal, estadual, distrital ou municipal, para a ação coordenada de projetos em regime de cooperação mútua; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXVI~antigo1",
+      "caminho": "art8-A_incXVI~antigo1",
+      "tipo": "inciso",
+      "rotulo": "XVI",
+      "texto": "XVI - exercer as atividades de Secretaria Executiva do Conselho de Participação no Fundo de Apoio à Estruturação e ao Desenvolvimento de Projetos de Concessão e Parcerias Público-Privadas da União, dos Estados, do Distrito Federal e dos Municípios; e (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-A_incXVII~antigo1",
+      "caminho": "art8-A_incXVII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "XVII",
+      "texto": "XVII - coordenar e secretariar o funcionamento do CPPI. (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incII",
+      "caminho": "art8-B_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - assessorar o Ministro de Estado Chefe da Secretaria de Governo da Presidência da República nos assuntos relativos à atuação da Secretaria Especial do Programa de Parcerias de Investimentos da Presidência da República, inclusive junto a Ministérios, órgãos e entidades setoriais; (Incluído pela Medida Provisória nº 882, de 2019) (Inclusão revogada pela Medida Provisória nº 886, de 2019)",
+      "status": "revogado"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incIII",
+      "caminho": "art8-B_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - exercer a orientação normativa e a supervisão técnica quanto às matérias relativas às atribuições da Secretaria Especial do Programa de Parcerias de Investimentos da Presidência da República; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incIV",
+      "caminho": "art8-B_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - editar e praticar os atos normativos e os demais atos inerentes às suas atribuições; e (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incV",
+      "caminho": "art8-B_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - atuar como Secretário-Executivo do CPPI. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B",
+      "caminho": "art8-B",
+      "tipo": "artigo",
+      "rotulo": "Art. 8º-B",
+      "texto": "Art. 8º-B. Ao Secretário Especial do PPI compete: (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incI",
+      "caminho": "art8-B_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - dirigir a SPPI, supervisionar e coordenar as suas atividades e orientar a sua atuação; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incII~antigo1",
+      "caminho": "art8-B_incII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - assessorar o Presidente do CPPI nos assuntos relativos à atuação da SPPI, inclusive perante Ministérios, órgãos e entidades setoriais; (Redação dada pela Medida Provisória nº 922, de 2020)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incII~antigo2",
+      "caminho": "art8-B_incII~antigo2",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - assessorar o Ministro de Estado Chefe da Casa Civil da Presidência da República nos assuntos relativos à atuação da SPPI, inclusive perante Ministérios, órgãos e entidades setoriais; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incIII~antigo1",
+      "caminho": "art8-B_incIII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - exercer a orientação normativa e a supervisão técnica quanto às matérias relativas às atribuições da SPPI; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incIV~antigo1",
+      "caminho": "art8-B_incIV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - editar e praticar os atos normativos e os demais atos inerentes às suas atribuições; (Incluído pela Medida Provisória nº 886, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incIV~antigo2",
+      "caminho": "art8-B_incIV~antigo2",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - editar e praticar os atos normativos e os demais atos inerentes às suas atribuições; (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incV~antigo1",
+      "caminho": "art8-B_incV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - atuar como Secretário-Executivo do CPPI; e (Incluído pela Medida Provisória nº 886, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incV~antigo2",
+      "caminho": "art8-B_incV~antigo2",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - atuar como Secretário-Executivo do CPPI. (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art8-B_incVI",
+      "caminho": "art8-B_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - assessorar o Ministro de Estado Chefe da Casa Civil da Presidência da República nos assuntos relativos à atuação da Secretaria Especial do Programa de Parcerias de Investimentos da Presidência da República, inclusive junto a Ministérios, órgãos e entidades setoriais. (Incluído pela Medida Provisória nº 886, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art9",
+      "caminho": "art9",
+      "tipo": "artigo",
+      "rotulo": "Art. 9º",
+      "texto": "Art. 9º A SPPI deverá dar amplo acesso para o Congresso Nacional aos documentos e informações dos empreendimentos em execução do PPI, fornecendo, em até trinta dias, os dados solicitados.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art9_par1",
+      "caminho": "art9_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Ao atender ao disposto no caput , a SPPI poderá exigir sigilo das informações fornecidas.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art9_par2",
+      "caminho": "art9_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º Cabe à SPPI enviar ao Congresso Nacional, até 30 de março do ano subsequente, relatório detalhado contendo dados sobre o andamento dos empreendimentos e demais ações no âmbito do PPI, ocorridos no ano anterior.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art9-A",
+      "caminho": "art9-A",
+      "tipo": "artigo",
+      "rotulo": "Art. 9º-A",
+      "texto": "Art. 9º-A. (VETADO) (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vetado"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art9-A~antigo1",
+      "caminho": "art9-A~antigo1",
+      "tipo": "artigo",
+      "rotulo": "Art. 9º-A",
+      "texto": "Art. 9º-A. A SPPI manterá mecanismos de diálogo com as confederações nacionais patronais setoriais, comissões temáticas e frentes parlamentares do Congresso Nacional do setor de infraestrutura, que poderão contribuir com estudos, pesquisas e análises temáticas para subsídio à tomada de decisões de caráter estratégico para a agenda de infraestrutura do País. (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art10",
+      "caminho": "art10",
+      "tipo": "artigo",
+      "rotulo": "Art. 10",
+      "texto": "Art. 10 (Revogado pela Medida Provisória nº 768/2017).",
+      "status": "revogado",
+      "texto_integral": "Art. 10. A composição, funcionamento e detalhamento das competências da SPPI serão estabelecidos em ato do Poder Executivo. (Revogado pela Medida Provisória nº 768, de 2017) (Revogado pela Medida Provisória nº 782, de 2017) (Revogado pela Lei nº 13.502, de 2017)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!capIV",
+      "caminho": "capIV",
+      "tipo": "divisao",
+      "rotulo": "CAPÍTULO IV",
+      "texto": "CAPÍTULO IV DA ESTRUTURAÇÃO DOS PROJETOS",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art11",
+      "caminho": "art11",
+      "tipo": "artigo",
+      "rotulo": "Art. 11",
+      "texto": "Art. 11. Ao ministério setorial ou órgão com competência para formulação da política setorial cabe, com o apoio da SPPI, a adoção das providências necessárias à inclusão do empreendimento no âmbito do PPI.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art12",
+      "caminho": "art12",
+      "tipo": "artigo",
+      "rotulo": "Art. 12",
+      "texto": "Art. 12. Para a estruturação dos projetos que integrem ou que venham a integrar o PPI, o órgão ou entidade competente poderá, sem prejuízo de outros mecanismos previstos na legislação:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art12_incI",
+      "caminho": "art12_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - utilizar a estrutura interna da própria administração pública;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art12_incII",
+      "caminho": "art12_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - contratar serviços técnicos profissionais especializados;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art12_incIII",
+      "caminho": "art12_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - abrir chamamento público;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art12_incIV",
+      "caminho": "art12_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - receber sugestões de projetos, sendo vedado qualquer ressarcimento; ou",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art12_incIV~antigo1",
+      "caminho": "art12_incIV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - receber sugestões de projetos, sendo vedado qualquer ressarcimento; ou",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art12_incIV~antigo2",
+      "caminho": "art12_incIV~antigo2",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - receber sugestões de projetos; (Redação dada pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art12_incV",
+      "caminho": "art12_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V (Revogado pela Medida Provisória nº 882/2019).",
+      "status": "revogado",
+      "texto_integral": "V - celebrar diretamente com o Fundo de Apoio à Estruturação de Parcerias - FAEP contrato de prestação de serviços técnicos profissionais especializados. (Revogado pela Medida Provisória nº 882, de 2019)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art12_incV~antigo1",
+      "caminho": "art12_incV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - celebrar diretamente com o Fundo de Apoio à Estruturação de Parcerias - FAEP contrato de prestação de serviços técnicos profissionais especializados.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art12_incV~antigo2",
+      "caminho": "art12_incV~antigo2",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V (Revogado).",
+      "status": "revogado",
+      "texto_integral": "V - (revogado). (Redação dada pela Lei nº 13.901, de 2019)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art13",
+      "caminho": "art13",
+      "tipo": "artigo",
+      "rotulo": "Art. 13",
+      "texto": "Art. 13. Observado o disposto no art. 3º da Lei nº 9.491, de 9 de setembro de 1997 , e no § 3º do art. 10 da Lei nº 11.079, de 30 de dezembro de 2004 , a licitação e celebração de parcerias dos empreendimentos públicos do PPI independem de lei autorizativa geral ou específica.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art13-A_parunico",
+      "caminho": "art13-A_parunico",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. A audiência pública a que se refere o caput poderá ter sua localidade definida pelo CPPI. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art13-A",
+      "caminho": "art13-A",
+      "tipo": "artigo",
+      "rotulo": "Art. 13-A",
+      "texto": "Art. 13-A. Os contratos de parceria a que se refere esta Lei que vierem a integrar a carteira de projetos do PPI não terão seus projetos licitados antes da submissão das minutas do edital e do contrato a consulta ou audiência pública. (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art13-A_parunico~antigo1",
+      "caminho": "art13-A_parunico~antigo1",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. Caberá ao CPPI definir o local da audiência pública a que se refere o caput deste artigo. (Incluído pela Lei nº 13.901, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!capV",
+      "caminho": "capV",
+      "tipo": "divisao",
+      "rotulo": "CAPÍTULO V",
+      "texto": "CAPÍTULO V DO FUNDO DE APOIO À ESTRUTURAÇÃO DE PARCERIAS",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!capV~antigo1",
+      "caminho": "capV~antigo1",
+      "tipo": "divisao",
+      "rotulo": "CAPÍTULO V",
+      "texto": "CAPÍTULO V (Redação dada pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!capV~antigo2",
+      "caminho": "capV~antigo2",
+      "tipo": "divisao",
+      "rotulo": "CAPÍTULO V",
+      "texto": "CAPÍTULO V DO FUNDO DE APOIO À ESTRUTURAÇÃO DE PARCERIAS",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14",
+      "caminho": "art14",
+      "tipo": "artigo",
+      "rotulo": "Art. 14",
+      "texto": "Art. 14. Fica o BNDES autorizado a constituir e participar do Fundo de Apoio à Estruturação de Parcerias - FAEP, que terá por finalidade a prestação onerosa, por meio de contrato, de serviços técnicos profissionais especializados para a estruturação de parcerias de investimentos e de medidas de desestatização.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par1",
+      "caminho": "art14_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º O FAEP terá natureza privada e patrimônio próprio separado do patrimônio dos cotistas, será sujeito a direitos e obrigações próprios e terá capacidade de celebrar, em seu nome, contratos, acordos ou qualquer ajuste que estabeleça deveres e obrigações e que seja necessário à realização de suas finalidades.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par1~antigo1",
+      "caminho": "art14_par1~antigo1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º O FAEP terá natureza privada, patrimônio próprio separado do patrimônio dos cotistas e da instituição financeira gestora e responderá por suas obrigações até o limite dos bens e direitos integrantes do seu patrimônio. (Redação dada pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par1~antigo2",
+      "caminho": "art14_par1~antigo2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º O FAEP terá natureza privada e patrimônio próprio separado do patrimônio dos cotistas, será sujeito a direitos e obrigações próprios e terá capacidade de celebrar, em seu nome, contratos, acordos ou qualquer ajuste que estabeleça deveres e obrigações e que seja necessário à realização de suas finalidades.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par2",
+      "caminho": "art14_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º O FAEP possuirá prazo inicial de dez anos, renovável por iguais períodos.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par2~antigo1",
+      "caminho": "art14_par2~antigo1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º O FAEP não terá personalidade jurídica própria e terá prazo indeterminado. (Redação dada pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par2~antigo2",
+      "caminho": "art14_par2~antigo2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º O FAEP possuirá prazo inicial de dez anos, renovável por iguais períodos.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par3",
+      "caminho": "art14_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º O administrador e os cotistas do FAEP não responderão por qualquer obrigação do Fundo, salvo pela integralização das cotas que subscreverem.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par4",
+      "caminho": "art14_par4",
+      "tipo": "paragrafo",
+      "rotulo": "§ 4º",
+      "texto": "§ 4º O FAEP será administrado, gerido e representado judicial e extrajudicialmente pelo BNDES.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par5",
+      "caminho": "art14_par5",
+      "tipo": "paragrafo",
+      "rotulo": "§ 5º",
+      "texto": "§ 5º O FAEP poderá se articular com os órgãos ou entidades da União, dos Estados, do Distrito Federal e dos Municípios cuja atuação funcional seja ligada à estruturação, liberação, licitação, contratação e financiamento de empreendimentos e atividades, para troca de informações e para acompanhamento e colaboração recíproca nos trabalhos.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par6",
+      "caminho": "art14_par6",
+      "tipo": "paragrafo",
+      "rotulo": "§ 6º",
+      "texto": "§ 6º Constituem recursos do FAEP:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par6_incI",
+      "caminho": "art14_par6_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - os oriundos da integralização de cotas, em moeda corrente nacional, por pessoas jurídicas de direito público, organismos internacionais e pessoas naturais ou jurídicas de direito privado, estatais ou não estatais;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par6_incII",
+      "caminho": "art14_par6_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - as remunerações recebidas por seus serviços; II -as remunerações recebidas em decorrência dos contratos de estruturação de parcerias de investimentos e das medidas de desestatização de que trata o caput; (Redação dada pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par6_incII~antigo1",
+      "caminho": "art14_par6_incII~antigo1",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - as remunerações recebidas por seus serviços;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par6_incIII",
+      "caminho": "art14_par6_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - os recebidos pela alienação de bens e direitos, ou de publicações, material técnico, dados e informações;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par6_incIV",
+      "caminho": "art14_par6_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - os rendimentos de aplicações financeiras que realizar; e",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par6_incIV~antigo1",
+      "caminho": "art14_par6_incIV~antigo1",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - os rendimentos de aplicações financeiras; e (Redação dada pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par6_incIV~antigo2",
+      "caminho": "art14_par6_incIV~antigo2",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - os rendimentos de aplicações financeiras que realizar; e",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par6_incV",
+      "caminho": "art14_par6_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - os recursos provenientes de outras fontes definidas em seu estatuto.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par7",
+      "caminho": "art14_par7",
+      "tipo": "paragrafo",
+      "rotulo": "§ 7º",
+      "texto": "§ 7º O FAEP destinará parcela do preço recebido por seus serviços como remuneração ao BNDES pela administração, gestão e representação do Fundo, de acordo com o seu estatuto.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par7~antigo1",
+      "caminho": "art14_par7~antigo1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 7º",
+      "texto": "§ 7º O FAEP destinará parcela do preço recebido por seus serviços como remuneração ao BNDES pela administração, gestão e representação do Fundo, de acordo com o seu estatuto.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par8",
+      "caminho": "art14_par8",
+      "tipo": "paragrafo",
+      "rotulo": "§ 8º",
+      "texto": "§ 8º O FAEP não pagará rendimentos a seus cotistas, assegurado a qualquer deles o direito de requerer o resgate total ou parcial de suas cotas, fazendo-se a liquidação com base na situação patrimonial do Fundo, sendo vedado o resgate de cotas em valor superior ao montante de recursos financeiros disponíveis ainda não vinculados às estruturações integradas já contratadas, nos termos do estatuto.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art14_par9",
+      "caminho": "art14_par9",
+      "tipo": "paragrafo",
+      "rotulo": "§ 9º",
+      "texto": "§ 9º O estatuto do FAEP deverá prever medidas que garantam a segurança da informação, de forma a contribuir para a ampla competição e evitar conflitos de interesses nas licitações das parcerias dos empreendimentos públicos.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art15",
+      "caminho": "art15",
+      "tipo": "artigo",
+      "rotulo": "Art. 15",
+      "texto": "Art. 15. O BNDES poderá ser contratado diretamente por órgãos e entidades da administração pública para prestar serviços técnicos profissionais especializados que visem à estruturação de contratos de parceria e de medidas de desestatização. (Redação dada pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art15_par1",
+      "caminho": "art15_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º A remuneração pelos serviços a que se refere o caput poderá, nos termos previstos no contrato, incluir parcela fixa, parcela variável, vinculada ao êxito da licitação da parceria, ou a combinação de ambas. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art15_par2",
+      "caminho": "art15_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º Na hipótese de êxito da licitação, a remuneração a que se refere o § 1º poderá ser paga pelo licitante vencedor. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art15_par3",
+      "caminho": "art15_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º Os autores dos projetos e estudos, na condição de contratados ou de subcontratados pelo BNDES, não poderão participar, direta ou indiretamente, da futura licitação da parceria ou da composição da sociedade de propósito específico criada para sua execução, permitida a prestação de serviços técnicos ao vencedor da licitação, desde que não tenham por escopo o detalhamento dos projetos e estudos objeto da contratação, na forma prevista no regulamento. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art15~antigo1",
+      "caminho": "art15~antigo1",
+      "tipo": "artigo",
+      "rotulo": "Art. 15",
+      "texto": "Art. 15. O FAEP poderá ser contratado diretamente por órgãos e entidades da administração pública para prestar serviços técnicos profissionais especializados visando à estruturação de contratos de parceria e de medidas de desestatização.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16",
+      "caminho": "art16",
+      "tipo": "artigo",
+      "rotulo": "Art. 16",
+      "texto": "Art. 16. Para a execução dos serviços técnicos de que trata o art. 15, o BNDES poderá contratar suporte técnico externo de profissionais, empresas ou entidades de elevada especialização, por ele selecionados, de acordo, preferencialmente, com os critérios de julgamento de melhor combinação de técnica e preço ou de melhor técnica, conforme o disposto nos incisos III e IV do caput do art. 54 da Lei nº 13.303, de 30 de junho de 2016. (Redação dada pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16_par1",
+      "caminho": "art16_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Para empreendimentos ou políticas qualificadas no PPI, o BNDES poderá utilizar o processo de colação previsto nos § 2º ao § 7º, hipótese em que se aplica subsidiariamente o disposto na Lei nº 13.303, de 2016, desde que compatível com as diretrizes e procedimentos neles disciplinados. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16_par2",
+      "caminho": "art16_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º O processo de colação de que trata o § 1º será realizado por meio do envio de consulta a três ou mais profissionais, empresas ou entidades de elevada especialização técnica, que atendam a requisitos de habilitação em função de suas qualidades e atuação anterior em porte e complexidade equivalente ou superior ao objeto a ser contratado. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16_par3",
+      "caminho": "art16_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º Sem prejuízo do envio das consultas de que trata o § 2º, o BNDES divulgará, em sítio eletrônico oficial ou em outro meio apto a lhe dar publicidade, o interesse em obter propostas adicionais, dispensada a publicação de edital. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16_par4",
+      "caminho": "art16_par4",
+      "tipo": "paragrafo",
+      "rotulo": "§ 4º",
+      "texto": "§ 4º O processo de colação observará as seguintes regras e condições: (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16_par4_incI",
+      "caminho": "art16_par4_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - a consulta poderá prever a realização de fases sucessivas, sendo permitido ao BNDES incluir ou excluir consultados para viabilizar a comparação dinâmica, efetiva e realista de propostas, inclusive mediante revisão de seu conteúdo e negociação direta com os proponentes, observados o interesse público e as características do mercado respectivo; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16_par4_incII",
+      "caminho": "art16_par4_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - o BNDES poderá considerar acréscimos de escopo, metodologias e demais alterações propostas pelos licitantes, ainda que não previstas inicialmente na consulta, facultada aos licitantes a possibilidade de revisão de suas propostas para sua adequação; (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16_par4_incIII",
+      "caminho": "art16_par4_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - ao declarar que a conclusão das fases de comparação de propostas, o BNDES abrirá prazo não inferior a vinte dias para que os licitantes apresentem suas propostas finais, as quais deverão conter todos os elementos necessários para a realização do projeto, nos termos do disposto no inciso II; e (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16_par4_incIV",
+      "caminho": "art16_par4_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - o BNDES definirá a proposta vencedora de acordo com critérios preponderantemente técnicos, que serão divulgados a todos os licitantes no momento da abertura do prazo para apresentação de propostas finais de que trata o inciso III. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16_par5",
+      "caminho": "art16_par5",
+      "tipo": "paragrafo",
+      "rotulo": "§ 5º",
+      "texto": "§ 5º O BNDES disciplinará no instrumento convocatório as informações apresentadas pelos licitantes, que poderão ser reveladas aos demais licitantes para apresentação de novas propostas no curso do processo de colação. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16_par6",
+      "caminho": "art16_par6",
+      "tipo": "paragrafo",
+      "rotulo": "§ 6º",
+      "texto": "§ 6º O BNDES comunicará o início do processo de colação ao Tribunal de Contas da União, no prazo de cinco dias, contado da data de envio da consulta de que trata o § 2º, sem prejuízo da disponibilização tempestiva e permanente das informações do processo. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16_par7",
+      "caminho": "art16_par7",
+      "tipo": "paragrafo",
+      "rotulo": "§ 7º",
+      "texto": "§ 7º O BNDES publicará, de acordo com o disposto no art. 40 da Lei nº 13.303, de 2016, regulamento relativo aos procedimentos operacionais do processo de colação, respeitados os princípios que regem a administração pública previstos no caput do art. 37 da Constituição. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16~antigo1",
+      "caminho": "art16~antigo1",
+      "tipo": "artigo",
+      "rotulo": "Art. 16",
+      "texto": "Art. 16. Para a execução dos serviços técnicos para os quais houver sido contratado, o FAEP poderá contratar, na forma da legislação, o suporte técnico de pessoas naturais ou jurídicas especializadas, cabendo aos agentes públicos gestores do Fundo, com o apoio da SPPI, a coordenação geral dos trabalhos e a articulação com os demais órgãos e entidades envolvidos.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16-A",
+      "caminho": "art16-A",
+      "tipo": "artigo",
+      "rotulo": "Art. 16-A",
+      "texto": "Art. 16-A. Ao final do processo de seleção de que trata o art. 16, o BNDES poderá contratar os serviços técnicos para a viabilização de empreendimento com: (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16-A_incI",
+      "caminho": "art16-A_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - consórcio privado de profissionais, empresas ou entidades de elevada especialização técnica; ou (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16-A_incII",
+      "caminho": "art16-A_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - profissionais, empresas ou entidades de elevada especialização técnica, garantida a adequada integração dos estudos a serem desenvolvidos por cada um dos contratados por meio de mecanismos de coordenação a serem previstos nos contratos. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16-A_par1",
+      "caminho": "art16-A_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º O contrato poderá autorizar a subcontratação de parcelas dos serviços técnicos, desde que: (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16-A_par1_incI",
+      "caminho": "art16-A_par1_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - o contratado inicial assuma a obrigação pela sua execução completa e pela sua coordenação geral; e (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art16-A_par1_incII",
+      "caminho": "art16-A_par1_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - os subcontratados comprovem a sua especialização, conforme critérios definidos pelo BNDES, a quem incumbirá a sua aceitação, observada, ainda, a sua regularidade fiscal e trabalhista. (Incluído pela Medida Provisória nº 882, de 2019)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!capVI",
+      "caminho": "capVI",
+      "tipo": "divisao",
+      "rotulo": "CAPÍTULO VI",
+      "texto": "CAPÍTULO VI DA LIBERAÇÃO DE EMPREENDIMENTOS DO PPI",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art17",
+      "caminho": "art17",
+      "tipo": "artigo",
+      "rotulo": "Art. 17",
+      "texto": "Art. 17. Os órgãos, entidades e autoridades estatais, inclusive as autônomas e independentes, da União, dos Estados, do Distrito Federal e dos Municípios, com competências de cujo exercício dependa a viabilização de empreendimento do PPI, têm o dever de atuar, em conjunto e com eficiência, para que sejam concluídos, de forma uniforme, econômica e em prazo compatível com o caráter prioritário nacional do empreendimento, todos os processos e atos administrativos necessários à sua estruturação, liberação e execução.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art17_par1",
+      "caminho": "art17_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Entende-se por liberação a obtenção de quaisquer licenças, autorizações, registros, permissões, direitos de uso ou exploração, regimes especiais, e títulos equivalentes, de natureza regulatória, ambiental, indígena, urbanística, de trânsito, patrimonial pública, hídrica, de proteção do patrimônio cultural, aduaneira, minerária, tributária, e quaisquer outras, necessárias à implantação e à operação do empreendimento.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art17_par2",
+      "caminho": "art17_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º Os órgãos, entidades e autoridades da administração pública da União com competências setoriais relacionadas aos empreendimentos do PPI convocarão todos os órgãos, entidades e autoridades da União, dos Estados, do Distrito Federal ou dos Municípios, que tenham competência liberatória, para participar da estruturação e execução do projeto e consecução dos objetivos do PPI, inclusive para a definição conjunta do conteúdo dos termos de referência para o licenciamento ambiental.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!capVII",
+      "caminho": "capVII",
+      "tipo": "divisao",
+      "rotulo": "CAPÍTULO VII",
+      "texto": "CAPÍTULO VII",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!dispFINAI",
+      "caminho": "dispFINAI",
+      "tipo": "divisao",
+      "rotulo": "DISPOSIÇÕES FINAIS",
+      "texto": "DISPOSIÇÕES FINAIS",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art18",
+      "caminho": "art18",
+      "tipo": "artigo",
+      "rotulo": "Art. 18",
+      "texto": "Art. 18. A Lei nº 10.683, de 28 de maio de 2003 , passa a vigorar com as seguintes alterações: “Art. 1º ............................................................................................................................... ........................................................................................................................................... XIV - pela Secretaria do Programa de Parcerias de Investimentos. ............................................................................................................................................ § 3º Integram, ainda, a Presidência da República a Câmara de Comércio Exterior - CAMEX e o Conselho do Programa de Parcerias de Investimentos.” (NR) “Art. 24-F . Compete à Secretaria de Parcerias de Investimento da Presidência da República - SPPI: I - coordenar, monitorar, avaliar e supervisionar as ações do Programa de Parcerias de Investimentos e o apoio às ações setoriais necessárias à sua execução, sem prejuízo das competências legais dos Ministérios, órgãos e entidades setoriais; II - acompanhar e subsidiar, no exercício de suas funções de supervisão e apoio, a atuação dos Ministérios, órgãos e entidades setoriais, assim como do Fundo de Apoio à Estruturação de Parcerias - FAEP; III - divulgar os projetos do PPI, de forma que permita o acompanhamento público; IV - celebrar ajustes com o Conselho Administrativo de Defesa Econômica - CADE, bem como com a Secretaria de Acompanhamento Econômico - SEAE do Ministério da Fazenda, para o recebimento de contribuições técnicas visando à adoção das melhores práticas nacionais e internacionais de promoção da ampla e justa competição na celebração das parcerias e na prestação dos serviços; e V - celebrar ajustes ou convênios com órgãos ou entidades da administração pública da União, dos Estados, do Distrito Federal ou dos Municípios, para a ação coordenada ou para o exercício de funções descentralizadas. § 1º A SPPI terá as mesmas prerrogativas ministeriais quanto à utilização de sistemas, em especial, aqueles destinados à tramitação de documentos. § 2º A SPPI tem como estrutura básica o Gabinete, a Secretaria Executiva e até três Secretarias.”",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art19",
+      "caminho": "art19",
+      "tipo": "artigo",
+      "rotulo": "Art. 19",
+      "texto": "Art. 19 (Revogado pela Medida Provisória nº 882/2019).",
+      "status": "revogado",
+      "texto_integral": "Art. 19. Fica criado o Cargo de Natureza Especial - CNE de Secretário-Executivo da SPPI. (Revogado pela Medida Provisória nº 882, de 2019)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art19~antigo1",
+      "caminho": "art19~antigo1",
+      "tipo": "artigo",
+      "rotulo": "Art. 19",
+      "texto": "Art. 19. Fica criado o Cargo de Natureza Especial - CNE de Secretário-Executivo da SPPI.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art20",
+      "caminho": "art20",
+      "tipo": "artigo",
+      "rotulo": "Art. 20",
+      "texto": "Art. 20 (Revogado pela Medida Provisória nº 882/2019).",
+      "status": "revogado",
+      "texto_integral": "Art. 20. A Empresa de Planejamento e Logística - EPL passa a ser vinculada à SPPI, cabendo-lhe prestar apoio ao CPPI. (Revogado pela Medida Provisória nº 882, de 2019)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art20~antigo1",
+      "caminho": "art20~antigo1",
+      "tipo": "artigo",
+      "rotulo": "Art. 20",
+      "texto": "Art. 20. A Empresa de Planejamento e Logística - EPL passa a ser vinculada à SPPI, cabendo-lhe prestar apoio ao CPPI.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art21",
+      "caminho": "art21",
+      "tipo": "artigo",
+      "rotulo": "Art. 21",
+      "texto": "Art. 21. Aplicam-se as disposições desta Lei, no que couber, aos empreendimentos empresariais privados que, em regime de autorização administrativa, concorram ou convivam, em setor de titularidade estatal ou de serviço público, com empreendimentos públicos a cargo de entidades estatais ou de terceiros contratados por meio das parcerias de que trata esta Lei.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:2016-09-13;13334!art22",
+      "caminho": "art22",
+      "tipo": "artigo",
+      "rotulo": "Art. 22",
+      "texto": "Art. 22. Esta Lei entra em vigor na data de sua publicação.",
+      "status": "vigente"
+    }
+  ]
+}
