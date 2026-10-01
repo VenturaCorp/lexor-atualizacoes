@@ -1,6 +1,6 @@
 {
-  "versao": 14,
-  "gerado_em": "2026-09-17",
+  "versao": 15,
+  "gerado_em": "2026-10-01",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -291,11 +291,11 @@
       "blocos": 4264
     },
     "cdc": {
-      "versao": 2,
-      "sha256": "089d4139ad6433e915cacd164866b30589c18fe0270f4faebd7bd3b8bbccb4d2",
-      "sha256_arquivo": "8a7580258e905b8029e81b6a84a7b38ce6c94b9868782a3726b7c7371779b2ac",
-      "bytes": 189823,
-      "blocos": 511
+      "versao": 3,
+      "sha256": "ade418d41bfae6f92f50d4315987e10b5bfec5ad30e44d78c3a24063c62c1255",
+      "sha256_arquivo": "9762575ed92e77ffa966c35822199b9f50371f40208053e4e9d5417a6508fffa",
+      "bytes": 190530,
+      "blocos": 512
     },
     "cdc_exemplar": {
       "versao": 1,
@@ -536,11 +536,11 @@
       "blocos": 8
     },
     "cp": {
-      "versao": 2,
-      "sha256": "af8263a8b061f32e954fc54fc9e165c264d4babedb5b508685b55915abf31db0",
-      "sha256_arquivo": "7d16177ea592ea33a5f2ebb63a871dc1c5c12529ad8e1e75e6b66efcacc5a3c8",
-      "bytes": 663990,
-      "blocos": 1776
+      "versao": 3,
+      "sha256": "86c3a2c9710208985e86c648441ec6d569743a8fcb85832dcebf43e9bb043552",
+      "sha256_arquivo": "fea30f107cdb1c109733e6b6c1043c42d4a3b379a4261d3f97399dcf4b069985",
+      "bytes": 671143,
+      "blocos": 1796
     },
     "cpc": {
       "versao": 3,
@@ -585,11 +585,11 @@
       "blocos": 6
     },
     "crimes_ordem_economica": {
-      "versao": 1,
-      "sha256": "2c01542c52f8bebb0d0055fbb008057db00dc139638affb39f06e8c39749502e",
-      "sha256_arquivo": "d0af0f5c38a48d5e13137fddb55bb546294011653ed6b73971ead89cc43e1bf9",
-      "bytes": 6044,
-      "blocos": 16
+      "versao": 2,
+      "sha256": "0daf586475a321b2fe521352e9e055ffbdec9b91964b739148c3dc3714bdf216",
+      "sha256_arquivo": "9b3505c6b2a4ec8e2179cf92e0c516eeaf7ea08c8683f6ea66ce83a023f29693",
+      "bytes": 10991,
+      "blocos": 25
     },
     "crimes_pcd": {
       "versao": 1,
@@ -634,11 +634,11 @@
       "blocos": 96
     },
     "csll": {
-      "versao": 1,
-      "sha256": "d9efb189039bf226983d629ea63dd6fec621b4da48bdbe0bf9c6bc9536ca647c",
-      "sha256_arquivo": "450baedcf5dd04fa687181ec6962ee8b2f838b76c1dbdf6bb7ab1b0ae507d1cc",
-      "bytes": 16151,
-      "blocos": 32
+      "versao": 2,
+      "sha256": "1231fe2d792a21b8327285b8ffce562b93a2e56fb5f1b903e9845c5d150a438f",
+      "sha256_arquivo": "d33b96b9d664343cfb590135b875b24c127e6be0d08b4f9c8d02a0bd8b7ef83c",
+      "bytes": 19043,
+      "blocos": 38
     },
     "ctn": {
       "versao": 4,
@@ -781,10 +781,10 @@
       "blocos": 96
     },
     "eca": {
-      "versao": 1,
-      "sha256": "4a6247b87c55672bef27bae849b9333e5f3cb55b34131c4654d3517df47061dc",
-      "sha256_arquivo": "569f982b8e78d88f10e52ba53170b8aeb546ee55a49453601b62c970da840abf",
-      "bytes": 540676,
+      "versao": 2,
+      "sha256": "47929b658e8d6a09032f6617652694426599cae37d413d6615a67c12f4dc7795",
+      "sha256_arquivo": "2424d8eb509519ade3f83b4a1edc1ba4ba0ad0f1749599db28448851b10cada8",
+      "bytes": 540735,
       "blocos": 1367
     },
     "economia_popular": {
@@ -893,11 +893,11 @@
       "blocos": 781
     },
     "estatuto_oab": {
-      "versao": 1,
-      "sha256": "3b0a1796d6b828ebd470d156bff6be40c64f987676e391ff6531c3c74000c599",
-      "sha256_arquivo": "43e2c4fd1ba54e556a83217d1c71af4a1ca279e4a347e9b898776309fe35dcfa",
-      "bytes": 198105,
-      "blocos": 514
+      "versao": 2,
+      "sha256": "e951f3a1a823c8202b0f0e3cb8b6120ff05cefbf03332920af5765e046d32837",
+      "sha256_arquivo": "b3b69c418d7915b509222cba813146c94154e3aff6f64d6caee34d6305ac460a",
+      "bytes": 198698,
+      "blocos": 515
     },
     "estatuto_roma": {
       "versao": 1,
@@ -1642,11 +1642,11 @@
       "blocos": 61
     },
     "pnma": {
-      "versao": 1,
-      "sha256": "a442bafa4d33db83d3df32ffaf3e2cac7653330ef8e3e9f1116a264a8681c786",
-      "sha256_arquivo": "e32dfba60c4f0479ecf61c29409544182225d26cc506260688d5f18c61686d8e",
-      "bytes": 76466,
-      "blocos": 196
+      "versao": 2,
+      "sha256": "c8b855bf14a151188309725f2214eb34f35c25f26dcaf6b7dbdd0099eccb5113",
+      "sha256_arquivo": "f228152404b0381a27eb46556e852058068e24fb45b1c903e274e5924c0debac",
+      "bytes": 76832,
+      "blocos": 197
     },
     "politica_inteligencia": {
       "versao": 1,
@@ -2314,11 +2314,11 @@
       "blocos": 22
     },
     "vitimas_violencia_sexual": {
-      "versao": 1,
-      "sha256": "694df01549b825516a5d0395f2e37fd744d9ce0366971336133aace311c1bb5c",
-      "sha256_arquivo": "a2fcc0c6c33bae0bcd8b8ff5e1d99fd9aac887cc0e1580e8066f78bf99f871c8",
-      "bytes": 5347,
-      "blocos": 15
+      "versao": 2,
+      "sha256": "f019acce0ebe56187f195cbb0f5e916e8041111d070ae718273179b350d84203",
+      "sha256_arquivo": "7c1f7961319df92d85d7d93096d18d9effa2e36ce2fa51b15b973b0fdbff3c22",
+      "bytes": 6789,
+      "blocos": 18
     }
   }
 }

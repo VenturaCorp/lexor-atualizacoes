@@ -4,7 +4,7 @@
   "ementa": "Dispõe sobre a proteção do consumidor e dá outras providências.",
   "sigla": "cdc",
   "fonte": "planalto.gov.br",
-  "gerado_em": "2026-09-01",
+  "gerado_em": "2026-10-01",
   "blocos": [
     {
       "id": "urn:lex:br:federal:lei:1990-09-11;8078!preambulo",
@@ -2647,11 +2647,19 @@
       "status": "vigente"
     },
     {
-      "id": "urn:lex:br:federal:lei:1990-09-11;8078!art57_parunico",
-      "caminho": "art57_parunico",
+      "id": "urn:lex:br:federal:lei:1990-09-11;8078!art57_par1",
+      "caminho": "art57_par1",
       "tipo": "paragrafo",
-      "rotulo": "Parágrafo único",
-      "texto": "Parágrafo único. A multa será em montante não inferior a duzentas e não superior a três milhões de vezes o valor da Unidade Fiscal de Referência (Ufir), ou índice equivalente que venha a substituí-lo. (Parágrafo acrescentado pela Lei nº 8.703, de 6.9.1993)",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º A multa será em montante não inferior a duzentas e não superior a três milhões de vezes o valor da Unidade Fiscal de Referência (Ufir), ou índice equivalente que venha a substituí-lo. (Redação dada pela Medida Provisória nº 1.393, de 2026)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1990-09-11;8078!art57_par2",
+      "caminho": "art57_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º Quando as condutas previstas no art. 39, caput, incisos II e X, forem praticadas por importadores, produtores, distribuidoras, transportadores-revendedores-retalhistas ou revendedores varejistas de combustíveis, biocombustíveis ou derivados de petróleo, em qualquer etapa da cadeia de comercialização, a multa será de R$ 20.000,00 (vinte mil reais) a R$ 500.000.000,00 (quinhentos milhões de reais), hipótese em que não se aplica o limite previsto no § 1º. (Incluído pela Medida Provisória nº 1.393, de 2026)",
       "status": "vigente"
     },
     {

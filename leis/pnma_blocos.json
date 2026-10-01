@@ -1,0 +1,1602 @@
+{
+  "urn": "urn:lex:br:federal:lei:1981-08-31;6938",
+  "nome": "Política Nacional do Meio Ambiente",
+  "ementa": "Dispõe sobre a Política Nacional do Meio Ambiente, seus fins e mecanismos de formulação e aplicação, e dá outras providências.",
+  "sigla": "pnma",
+  "fonte": "planalto.gov.br",
+  "gerado_em": "2026-10-01",
+  "blocos": [
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!preambulo",
+      "caminho": "preambulo",
+      "tipo": "preambulo",
+      "rotulo": "Preâmbulo",
+      "texto": "L6938compilada Presidência da República Casa Civil Subchefia para Assuntos Jurídicos LEI Nº 6.938, DE 31 DE AGOSTO DE 1981 Regulamento Regulamento Mensagem de veto Dispõe sobre a Política Nacional do Meio Ambiente, seus fins e mecanismos de formulação e aplicação, e dá outras providências. O PRESIDENTE DA REPÚBLICA, Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art1",
+      "caminho": "art1",
+      "tipo": "artigo",
+      "rotulo": "Art. 1º",
+      "texto": "Art. 1º - Esta Lei, com fundamento nos incisos VI e VII do art. 23 e no art. 235 da Constituição, estabelece a Política Nacional do Meio Ambiente, seus fins e mecanismos de formulação e aplicação, constitui o Sistema Nacional do Meio Ambiente - Sisnama e institui o Cadastro de Defesa Ambiental. (Redação dada pela Lei nº 8.028, de 1990)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2",
+      "caminho": "art2",
+      "tipo": "artigo",
+      "rotulo": "Art. 2º",
+      "texto": "Art. 2º. A Política Nacional do Meio Ambiente tem por objetivo a preservação, melhoria e recuperação da qualidade ambiental propícia à vida, visando assegurar, no País, condições ao desenvolvimento sócioeconômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana, atendidos os seguintes princípios:",
+      "status": "vigente",
+      "rubrica": "DA POLÍTICA NACIONAL DO MEIO AMBIENTE"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2_incI",
+      "caminho": "art2_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - ação governamental na manutenção do equilíbrio ecológico, considerando o meio ambiente como um patrimônio público a ser necessariamente assegurado e protegido, tendo em vista o uso coletivo;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2_incII",
+      "caminho": "art2_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - racionalização do uso do solo, do subsolo, da água e do ar;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2_incIII",
+      "caminho": "art2_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - planejamento e fiscalização do uso dos recursos ambientais;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2_incIV",
+      "caminho": "art2_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - proteção dos ecossistemas, com a preservação de áreas representativas;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2_incV",
+      "caminho": "art2_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - controle e zoneamento das atividades potencial ou efetivamente poluidoras;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2_incVI",
+      "caminho": "art2_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - incentivos ao estudo e à pesquisa de tecnologias orientadas para o uso racional e a proteção dos recursos ambientais;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2_incVII",
+      "caminho": "art2_incVII",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII - acompanhamento do estado da qualidade ambiental;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2_incVIII",
+      "caminho": "art2_incVIII",
+      "tipo": "inciso",
+      "rotulo": "VIII",
+      "texto": "VIII - recuperação de áreas degradadas; (Regulamento)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2_incIX",
+      "caminho": "art2_incIX",
+      "tipo": "inciso",
+      "rotulo": "IX",
+      "texto": "IX - proteção de áreas ameaçadas de degradação;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2_incX",
+      "caminho": "art2_incX",
+      "tipo": "inciso",
+      "rotulo": "X",
+      "texto": "X - educação ambiental a todos os níveis do ensino, inclusive a educação da comunidade, objetivando capacitá-la para participação ativa na defesa do meio ambiente.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art2_incXI",
+      "caminho": "art2_incXI",
+      "tipo": "inciso",
+      "rotulo": "XI",
+      "texto": "XI – garantia do acesso prioritário de crianças e adolescentes à natureza e ao meio ambiente ecologicamente equilibrado. (Incluído pela Lei nº 15.512, de 2026)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art3",
+      "caminho": "art3",
+      "tipo": "artigo",
+      "rotulo": "Art. 3º",
+      "texto": "Art. 3º - Para os fins previstos nesta Lei, entende-se por:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art3_incI",
+      "caminho": "art3_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - meio ambiente, o conjunto de condições, leis, influências e interações de ordem física, química e biológica, que permite, abriga e rege a vida em todas as suas formas;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art3_incII",
+      "caminho": "art3_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - degradação da qualidade ambiental, a alteração adversa das características do meio ambiente;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art3_incIII",
+      "caminho": "art3_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - poluição, a degradação da qualidade ambiental resultante de atividades que direta ou indiretamente:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art3_alia",
+      "caminho": "art3_alia",
+      "tipo": "alinea",
+      "rotulo": "a)",
+      "texto": "a) prejudiquem a saúde, a segurança e o bem-estar da população;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art3_alib",
+      "caminho": "art3_alib",
+      "tipo": "alinea",
+      "rotulo": "b)",
+      "texto": "b) criem condições adversas às atividades sociais e econômicas;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art3_alic",
+      "caminho": "art3_alic",
+      "tipo": "alinea",
+      "rotulo": "c)",
+      "texto": "c) afetem desfavoravelmente a biota;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art3_alid",
+      "caminho": "art3_alid",
+      "tipo": "alinea",
+      "rotulo": "d)",
+      "texto": "d) afetem as condições estéticas ou sanitárias do meio ambiente;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art3_alie",
+      "caminho": "art3_alie",
+      "tipo": "alinea",
+      "rotulo": "e)",
+      "texto": "e) lancem matérias ou energia em desacordo com os padrões ambientais estabelecidos;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art3_incIV",
+      "caminho": "art3_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - poluidor, a pessoa física ou jurídica, de direito público ou privado, responsável, direta ou indiretamente, por atividade causadora de degradação ambiental;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art3_incV",
+      "caminho": "art3_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - recursos ambientais: a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo, os elementos da biosfera, a fauna e a flora. (Redação dada pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art4",
+      "caminho": "art4",
+      "tipo": "artigo",
+      "rotulo": "Art. 4º",
+      "texto": "Art. 4º - A Política Nacional do Meio Ambiente visará:",
+      "status": "vigente",
+      "rubrica": "DOS OBJETIVOS DA POLÍTICA NACIONAL DO MEIO AMBIENTE"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art4_incI",
+      "caminho": "art4_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - à compatibilização do desenvolvimento econômico social com a preservação da qualidade do meio ambiente e do equilíbrio ecológico;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art4_incII",
+      "caminho": "art4_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - à definição de áreas prioritárias de ação governamental relativa à qualidade e ao equilíbrio ecológico, atendendo aos interesses da União, dos Estados, do Distrito Federal, do Territórios e dos Municípios;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art4_incIII",
+      "caminho": "art4_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - ao estabelecimento de critérios e padrões da qualidade ambiental e de normas relativas ao uso e manejo de recursos ambientais;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art4_incIV",
+      "caminho": "art4_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - ao desenvolvimento de pesquisas e de tecnologia s nacionais orientadas para o uso racional de recursos ambientais;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art4_incV",
+      "caminho": "art4_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - à difusão de tecnologias de manejo do meio ambiente, à divulgação de dados e informações ambientais e à formação de uma consciência pública sobre a necessidade de preservação da qualidade ambiental e do equilíbrio ecológico;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art4_incVI",
+      "caminho": "art4_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - à preservação e restauração dos recursos ambientais com vistas á sua utilização racional e disponibilidade permanente, concorrendo para a manutenção do equilíbrio ecológico propício à vida;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art4_incVII",
+      "caminho": "art4_incVII",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII - à imposição, ao poluidor e ao predador, da obrigação de recuperar e/ou indenizar os danos causados, e ao usuário, de contribuição pela utilização de recursos ambientais com fins econômicos.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art5",
+      "caminho": "art5",
+      "tipo": "artigo",
+      "rotulo": "Art. 5º",
+      "texto": "Art. 5º - As diretrizes da Política Nacional do Meio Ambiente serão formuladas em normas e planos, destinados a orientar a ação dos Governos da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios no que se relaciona com a preservação da qualidade ambiental e manutenção do equilíbrio ecológico, observados os princípios estabelecidos no art. 2º desta Lei.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art5_parunico",
+      "caminho": "art5_parunico",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. As atividades empresariais públicas ou privadas serão exercidas em consonância com as diretrizes da Política Nacional do Meio Ambiente.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art6",
+      "caminho": "art6",
+      "tipo": "artigo",
+      "rotulo": "Art. 6º",
+      "texto": "Art. 6º Os órgãos e entidades da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios, bem como as fundações instituídas pelo Poder Público, responsáveis pela proteção e melhoria da qualidade ambiental, constituirão o Sistema Nacional do Meio Ambiente - SISNAMA, assim estruturado:",
+      "status": "vigente",
+      "rubrica": "DO SISTEMA NACIONAL DO MEIO AMBIENTE"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art6_incI",
+      "caminho": "art6_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - órgão superior: o Conselho de Governo, com a função de assessorar o Presidente da República na formulação da política nacional e nas diretrizes governamentais para o meio ambiente e os recursos ambientais, inclusive de propor obras, serviços, projetos e atividades para a lista de empreendimentos estratégicos, para fins de licenciamento ambiental; (Redação dada pela Lei nº 15.190, de 2025) Vigência",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art6_incII",
+      "caminho": "art6_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - Órgão Consultivo e Deliberativo: o Conselho Nacional do Meio Ambiente - CONAMA, com a finalidade de assessorar, estudar e propor ao Conselho de Governo, diretrizes de políticas governamentais para o meio ambiente e os recursos naturais e deliberar, no âmbito de sua competência, sobre normas e padrões compatíveis com o meio ambiente ecologicamente equilibrado e essencial à sadia qualidade de vida; (Redação dada pela Lei nº 8.028, de 1990)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art6_incIII",
+      "caminho": "art6_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - Órgão Central: a Secretaria do Meio Ambiente da Presidência da República, com a finalidade de planejar, coordenar, supervisionar e controlar, como órgão federal, a política nacional e as diretrizes governamentais fixadas para o meio ambiente; (Redação dada pela Lei nº 8.028, de 1990)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art6_incIV",
+      "caminho": "art6_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - órgãos executores: o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA e o Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes, com a finalidade de executar e fazer executar a política e as diretrizes governamentais fixadas para o meio ambiente, de acordo com as respectivas competências; (Redação dada pela Lei nº 12.856, de 2013)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art6_incV",
+      "caminho": "art6_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - Órgãos Seccionais: os órgãos ou entidades estaduais responsáveis pela execução de programas, projetos e pelo controle e fiscalização de atividades capazes de provocar a degradação ambiental; (Redação dada pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art6_incVI",
+      "caminho": "art6_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - Órgãos Locais: os órgãos ou entidades municipais, responsáveis pelo controle e fiscalização dessas atividades, nas suas respectivas jurisdições; (Incluído pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art6_par1",
+      "caminho": "art6_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º - Os Estados, na esfera de suas competências e nas áreas de sua jurisdição, elaborarão normas supletivas e complementares e padrões relacionados com o meio ambiente, observados os que forem estabelecidos pelo CONAMA.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art6_par2",
+      "caminho": "art6_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º O s Municípios, observadas as normas e os padrões federais e estaduais, também poderão elaborar as normas mencionadas no parágrafo anterior.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art6_par3",
+      "caminho": "art6_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º Os órgãos central, setoriais, seccionais e locais mencionados neste artigo deverão fornecer os resultados das análises efetuadas e sua fundamentação, quando solicitados por pessoa legitimamente interessada.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art6_par4",
+      "caminho": "art6_par4",
+      "tipo": "paragrafo",
+      "rotulo": "§ 4º",
+      "texto": "§ 4º De acordo com a legislação em vigor, é o Poder Executivo autorizado a criar uma Fundação de apoio técnico científico às atividades do IBAMA. (Redação dada pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art7",
+      "caminho": "art7",
+      "tipo": "artigo",
+      "rotulo": "Art. 7º",
+      "texto": "Art. 7º (Revogado pela Lei nº 8.028/1990).",
+      "status": "revogado",
+      "rubrica": "DO CONSELHO NACIONAL DO MEIO AMBIENTE",
+      "texto_integral": "Art. 7º (Revogado pela Lei nº 8.028, de 1990)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art8",
+      "caminho": "art8",
+      "tipo": "artigo",
+      "rotulo": "Art. 8º",
+      "texto": "Art. 8º Compete ao CONAMA: (Redação dada pela Lei nº 8.028, de 1990)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art8_incI",
+      "caminho": "art8_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - estabelecer, mediante proposta do IBAMA, normas e critérios para o licenciamento de atividades efetiva ou potencialmente poluídoras, a ser concedido pelos Estados e supervisionado pelo IBAMA; (Redação dada pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art8_incII",
+      "caminho": "art8_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - determinar, quando julgar necessário, a realização de estudos das alternativas e das possíveis conseqüências ambientais de projetos públicos ou privados, requisitando aos órgãos federais, estaduais e municipais, bem assim a entidades privadas, as informações indispensáveis para apreciação dos estudos de impacto ambiental, e respectivos relatórios, no caso de obras ou atividades de significativa degradação ambiental, especialmente nas áreas consideradas patrimônio nacional. (Redação dada pela Lei nº 8.028, de 1990)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art8_incIII",
+      "caminho": "art8_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III (Revogado pela Lei nº 11.941/2009).",
+      "status": "revogado",
+      "texto_integral": "III - (Revogado pela Lei nº 11.941, de 2009)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art8_incIV",
+      "caminho": "art8_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - homologar acordos visando à transformação de penalidades pecuniárias na obrigação de executar medidas de interesse para a proteção ambiental; (VETADO);",
+      "status": "vetado"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art8_incV",
+      "caminho": "art8_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - determinar, mediante representação do IBAMA, a perda ou restrição de benefícios fiscais concedidos pelo Poder Público, em caráter geral ou condicional, e a perda ou suspensão de participação em linhas de fiananciamento em estabelecimentos oficiais de crédito; (Redação dada pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art8_incVI",
+      "caminho": "art8_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - estabelecer, privativamente, normas e padrões nacionais de controle da poluição por veículos automotores, aeronaves e embarcações, mediante audiência dos Ministérios competentes;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art8_incVII",
+      "caminho": "art8_incVII",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII - estabelecer normas, critérios e padrões relativos ao controle e à manutenção da qualidade do meio ambiente com vistas ao uso racional dos recursos ambientais, principalmente os hídricos.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art8_parunico",
+      "caminho": "art8_parunico",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. O Secretário do Meio Ambiente é, sem prejuízo de suas funções, o Presidente do Conama. (Incluído pela Lei nº 8.028, de 1990)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9",
+      "caminho": "art9",
+      "tipo": "artigo",
+      "rotulo": "Art. 9º",
+      "texto": "Art. 9º - São Instrumentos da Política Nacional do Meio Ambiente:",
+      "status": "vigente",
+      "rubrica": "DOS INSTRUMENTOS DA POLÍTICA NACIONAL DO MEIO AMBIENTE"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incI",
+      "caminho": "art9_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - o estabelecimento de padrões de qualidade ambiental;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incII",
+      "caminho": "art9_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - o zoneamento ambiental; (Regulamento)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incIII",
+      "caminho": "art9_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - a avaliação de impactos ambientais;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incIV",
+      "caminho": "art9_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - o licenciamento e a revisão de atividades efetiva ou potencialmente poluidoras;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incV",
+      "caminho": "art9_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - os incentivos à produção e instalação de equipamentos e a criação ou absorção de tecnologia, voltados para a melhoria da qualidade ambiental;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incVI",
+      "caminho": "art9_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - a criação de espaços territoriais especialmente protegidos pelo Poder Público federal, estadual e municipal, tais como áreas de proteção ambiental, de relevante interesse ecológico e reservas extrativistas; (Redação dada pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incVII",
+      "caminho": "art9_incVII",
+      "tipo": "inciso",
+      "rotulo": "VII",
+      "texto": "VII - o sistema nacional de informações sobre o meio ambiente;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incVIII",
+      "caminho": "art9_incVIII",
+      "tipo": "inciso",
+      "rotulo": "VIII",
+      "texto": "VIII - o Cadastro Técnico Federal de Atividades e Instrumento de Defesa Ambiental;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incIX",
+      "caminho": "art9_incIX",
+      "tipo": "inciso",
+      "rotulo": "IX",
+      "texto": "IX - as penalidades disciplinares ou compensatórias ao não cumprimento das medidas necessárias à preservação ou correção da degradação ambiental.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incX",
+      "caminho": "art9_incX",
+      "tipo": "inciso",
+      "rotulo": "X",
+      "texto": "X - a instituição do Relatório de Qualidade do Meio Ambiente, a ser divulgado anualmente pelo Instituto Brasileiro do Meio Ambiente e Recursos Naturais Renováveis - IBAMA; (Incluído pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incXI",
+      "caminho": "art9_incXI",
+      "tipo": "inciso",
+      "rotulo": "XI",
+      "texto": "XI - a garantia da prestação de informações relativas ao Meio Ambiente, obrigando-se o Poder Público a produzí-las, quando inexistentes; (Incluído pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incXII",
+      "caminho": "art9_incXII",
+      "tipo": "inciso",
+      "rotulo": "XII",
+      "texto": "XII - o Cadastro Técnico Federal de atividades potencialmente poluidoras e/ou utilizadoras dos recursos ambientais. (Incluído pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9_incXIII",
+      "caminho": "art9_incXIII",
+      "tipo": "inciso",
+      "rotulo": "XIII",
+      "texto": "XIII - instrumentos econômicos, como concessão florestal, servidão ambiental, seguro ambiental e outros. (Incluído pela Lei nº 11.284, de 2006)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A",
+      "caminho": "art9-A",
+      "tipo": "artigo",
+      "rotulo": "Art. 9º-A",
+      "texto": "Art. 9o-A. O proprietário ou possuidor de imóvel, pessoa natural ou jurídica, pode, por instrumento público ou particular ou por termo administrativo firmado perante órgão integrante do Sisnama, limitar o uso de toda a sua propriedade ou de parte dela para preservar, conservar ou recuperar os recursos ambientais existentes, instituindo servidão ambiental. (Redação dada pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par1",
+      "caminho": "art9-A_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º O instrumento ou termo de instituição da servidão ambiental deve incluir, no mínimo, os seguintes itens: (Redação dada pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par1_incI",
+      "caminho": "art9-A_par1_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - memorial descritivo da área da servidão ambiental, contendo pelo menos um ponto de amarração georreferenciado; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par1_incII",
+      "caminho": "art9-A_par1_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - objeto da servidão ambiental; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par1_incIII",
+      "caminho": "art9-A_par1_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - direitos e deveres do proprietário ou possuidor instituidor; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par1_incIV",
+      "caminho": "art9-A_par1_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - prazo durante o qual a área permanecerá como servidão ambiental. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par2",
+      "caminho": "art9-A_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º A servidão ambiental não se aplica às Áreas de Preservação Permanente e à Reserva Legal mínima exigida. (Redação dada pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par3",
+      "caminho": "art9-A_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º A restrição ao uso ou à exploração da vegetação da área sob servidão ambiental deve ser, no mínimo, a mesma estabelecida para a Reserva Legal. (Redação dada pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par4",
+      "caminho": "art9-A_par4",
+      "tipo": "paragrafo",
+      "rotulo": "§ 4º",
+      "texto": "§ 4º Devem ser objeto de averbação na matrícula do imóvel no registro de imóveis competente: (Redação dada pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par4_incI",
+      "caminho": "art9-A_par4_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - o instrumento ou termo de instituição da servidão ambiental; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par4_incII",
+      "caminho": "art9-A_par4_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - o contrato de alienação, cessão ou transferência da servidão ambiental. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par5",
+      "caminho": "art9-A_par5",
+      "tipo": "paragrafo",
+      "rotulo": "§ 5º",
+      "texto": "§ 5º Na hipótese de compensação de Reserva Legal, a servidão ambiental deve ser averbada na matrícula de todos os imóveis envolvidos. (Redação dada pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par6",
+      "caminho": "art9-A_par6",
+      "tipo": "paragrafo",
+      "rotulo": "§ 6º",
+      "texto": "§ 6º É vedada, durante o prazo de vigência da servidão ambiental, a alteração da destinação da área, nos casos de transmissão do imóvel a qualquer título, de desmembramento ou de retificação dos limites do imóvel. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-A_par7",
+      "caminho": "art9-A_par7",
+      "tipo": "paragrafo",
+      "rotulo": "§ 7º",
+      "texto": "§ 7º As áreas que tenham sido instituídas na forma de servidão florestal, nos termos do art. 44-A da Lei nº 4.771, de 15 de setembro de 1965, passam a ser consideradas, pelo efeito desta Lei, como de servidão ambiental. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-B",
+      "caminho": "art9-B",
+      "tipo": "artigo",
+      "rotulo": "Art. 9º-B",
+      "texto": "Art. 9o-B. A servidão ambiental poderá ser onerosa ou gratuita, temporária ou perpétua. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-B_par1",
+      "caminho": "art9-B_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º O prazo mínimo da servidão ambiental temporária é de 15 (quinze) anos. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-B_par2",
+      "caminho": "art9-B_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º A servidão ambiental perpétua equivale, para fins creditícios, tributários e de acesso aos recursos de fundos públicos, à Reserva Particular do Patrimônio Natural - RPPN, definida no art. 21 da Lei nº 9.985, de 18 de julho de 2000. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-B_par3",
+      "caminho": "art9-B_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º O detentor da servidão ambiental poderá aliená-la, cedê-la ou transferi-la, total ou parcialmente, por prazo determinado ou em caráter definitivo, em favor de outro proprietário ou de entidade pública ou privada que tenha a conservação ambiental como fim social. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C",
+      "caminho": "art9-C",
+      "tipo": "artigo",
+      "rotulo": "Art. 9º-C",
+      "texto": "Art. 9o-C. O contrato de alienação, cessão ou transferência da servidão ambiental deve ser averbado na matrícula do imóvel. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par1",
+      "caminho": "art9-C_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º O contrato referido no caput deve conter, no mínimo, os seguintes itens: (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par1_incI",
+      "caminho": "art9-C_par1_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - a delimitação da área submetida a preservação, conservação ou recuperação ambiental; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par1_incII",
+      "caminho": "art9-C_par1_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - o objeto da servidão ambiental; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par1_incIII",
+      "caminho": "art9-C_par1_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - os direitos e deveres do proprietário instituidor e dos futuros adquirentes ou sucessores; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par1_incIV",
+      "caminho": "art9-C_par1_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - os direitos e deveres do detentor da servidão ambiental; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par1_incV",
+      "caminho": "art9-C_par1_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - os benefícios de ordem econômica do instituidor e do detentor da servidão ambiental; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par1_incVI",
+      "caminho": "art9-C_par1_incVI",
+      "tipo": "inciso",
+      "rotulo": "VI",
+      "texto": "VI - a previsão legal para garantir o seu cumprimento, inclusive medidas judiciais necessárias, em caso de ser descumprido. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par2",
+      "caminho": "art9-C_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º São deveres do proprietário do imóvel serviente, entre outras obrigações estipuladas no contrato: (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par2_incI",
+      "caminho": "art9-C_par2_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - manter a área sob servidão ambiental; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par2_incII",
+      "caminho": "art9-C_par2_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - prestar contas ao detentor da servidão ambiental sobre as condições dos recursos naturais ou artificiais; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par2_incIII",
+      "caminho": "art9-C_par2_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - permitir a inspeção e a fiscalização da área pelo detentor da servidão ambiental; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par2_incIV",
+      "caminho": "art9-C_par2_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - defender a posse da área serviente, por todos os meios em direito admitidos. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par3",
+      "caminho": "art9-C_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º São deveres do detentor da servidão ambiental, entre outras obrigações estipuladas no contrato: (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par3_incI",
+      "caminho": "art9-C_par3_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - documentar as características ambientais da propriedade; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par3_incII",
+      "caminho": "art9-C_par3_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - monitorar periodicamente a propriedade para verificar se a servidão ambiental está sendo mantida; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par3_incIII",
+      "caminho": "art9-C_par3_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - prestar informações necessárias a quaisquer interessados na aquisição ou aos sucessores da propriedade; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par3_incIV",
+      "caminho": "art9-C_par3_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - manter relatórios e arquivos atualizados com as atividades da área objeto da servidão; (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art9-C_par3_incV",
+      "caminho": "art9-C_par3_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V - defender judicialmente a servidão ambiental. (Incluído pela Lei nº 12.651, de 2012).",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art10",
+      "caminho": "art10",
+      "tipo": "artigo",
+      "rotulo": "Art. 10",
+      "texto": "Art. 10. A construção, instalação, ampliação e funcionamento de estabelecimentos e atividades utilizadores de recursos ambientais, efetiva ou potencialmente poluidores ou capazes, sob qualquer forma, de causar degradação ambiental dependerão de prévio licenciamento ambiental. (Redação dada pela Lei Complementar nº 140, de 2011)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art10_par1",
+      "caminho": "art10_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Os pedidos de licenciamento, sua renovação e a respectiva concessão serão publicados no jornal oficial, bem como em periódico regional ou local de grande circulação, ou em meio eletrônico de comunicação mantido pelo órgão ambiental competente. (Redação dada pela Lei Complementar nº 140, de 2011)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art10_par2",
+      "caminho": "art10_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º (Revogado).",
+      "status": "revogado",
+      "texto_integral": "§ 2º (Revogado). (Redação dada pela Lei Complementar nº 140, de 2011)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art10_par3",
+      "caminho": "art10_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º (Revogado).",
+      "status": "revogado",
+      "texto_integral": "§ 3º (Revogado). (Redação dada pela Lei Complementar nº 140, de 2011)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art10_par4",
+      "caminho": "art10_par4",
+      "tipo": "paragrafo",
+      "rotulo": "§ 4º",
+      "texto": "§ 4º (Revogado).",
+      "status": "revogado",
+      "texto_integral": "§ 4º (Revogado). (Redação dada pela Lei Complementar nº 140, de 2011)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art11",
+      "caminho": "art11",
+      "tipo": "artigo",
+      "rotulo": "Art. 11",
+      "texto": "Art. 11. Compete ao IBAMA propor ao CONAMA normas e padrões para implantação, acompanhamento e fiscalização do licenciamento previsto no artigo anterior, além das que forem oriundas do próprio CONAMA.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art11_par1",
+      "caminho": "art11_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º (Revogado pela Lei Complementar nº 140/2011).",
+      "status": "revogado",
+      "texto_integral": "§ 1º (Revogado pela Lei Complementar nº 140, de 2011)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art11_par2",
+      "caminho": "art11_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º Inclui-se na competência da fiscalização e controle a análise de projetos de entidades, públicas ou privadas, objetivando a preservação ou a recuperação de recursos ambientais, afetados por processos de exploração predatórios ou poluidores.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art12",
+      "caminho": "art12",
+      "tipo": "artigo",
+      "rotulo": "Art. 12",
+      "texto": "Art. 12. As entidades e órgãos de financiamento e incentivos governamentais condicionarão a aprovação de projetos habilitados a esses benefícios ao licenciamento, na forma desta Lei, e ao cumprimento das normas, dos critérios e dos padrões expedidos pelo CONAMA.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art12_parunico",
+      "caminho": "art12_parunico",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. As entidades e órgãos referidos no caput deste artigo deverão fazer constar dos projetos a realização de obras e aquisição de equipamentos destinados ao controle de degradação ambiental e a melhoria da qualidade do meio ambiente.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art13",
+      "caminho": "art13",
+      "tipo": "artigo",
+      "rotulo": "Art. 13",
+      "texto": "Art. 13. O Poder Executivo incentivará as atividades voltadas ao meio ambiente, visando:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art13_incI",
+      "caminho": "art13_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - ao desenvolvimento, no País, de pesquisas e processos tecnológicos destinados a reduzir a degradação da qualidade ambiental;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art13_incII",
+      "caminho": "art13_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - à fabricação de equipamentos antipoluidores;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art13_incIII",
+      "caminho": "art13_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - a outras iniciativas que propiciem a racionalização do uso de recursos ambientais.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art13_parunico",
+      "caminho": "art13_parunico",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. Os órgãos, entidades e programas do Poder Público, destinados ao incentivo das pesquisas científicas e tecnológicas, considerarão, entre as suas metas prioritárias, o apoio aos projetos que visem a adquirir e desenvolver conhecimentos básicos e aplicáveis na área ambiental e ecológica.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art14",
+      "caminho": "art14",
+      "tipo": "artigo",
+      "rotulo": "Art. 14",
+      "texto": "Art. 14 - Sem prejuízo das penalidades definidas pela legislação federal, estadual e municipal, o não cumprimento das medidas necessárias à preservação ou correção dos inconvenientes e danos causados pela degradação da qualidade ambiental sujeitará os transgressores:",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art14_incI",
+      "caminho": "art14_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - à multa simples ou diária, nos valores correspondentes, no mínimo, a 10 (dez) e, no máximo, a 1.000 (mil) Obrigações Reajustáveis do Tesouro Nacional - ORTNs, agravada em casos de reincidência específica, conforme dispuser o regulamento, vedada a sua cobrança pela União se já tiver sido aplicada pelo Estado, Distrito Federal, Territórios ou pelos Municípios;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art14_incII",
+      "caminho": "art14_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - à perda ou restrição de incentivos e benefícios fiscais concedidos pelo Poder Público;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art14_incIII",
+      "caminho": "art14_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - à perda ou suspensão de participação em linhas de financiamento em estabelecimentos oficiais de crédito;",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art14_incIV",
+      "caminho": "art14_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV - à suspensão de sua atividade.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art14_par1",
+      "caminho": "art14_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Sem obstar a aplicação das penalidades previstas neste artigo, é o poluidor obrigado, independentemente da existência de culpa, a indenizar ou reparar os danos causados ao meio ambiente e a terceiros, afetados por sua atividade. O Ministério Público da União e dos Estados terá legitimidade para propor ação de responsabilidade civil e criminal, por danos causados ao meio ambiente.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art14_par2",
+      "caminho": "art14_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º No caso de omissão da autoridade estadual ou municipal, caberá ao Secretário do Meio Ambiente a aplicação das penalidades pecuniárias prevista neste artigo.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art14_par3",
+      "caminho": "art14_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º Nos casos previstos nos incisos II e III deste artigo, o ato declaratório da perda, restrição ou suspensão será atribuição da autoridade administrativa ou financeira que concedeu os benefícios, incentivos ou financiamento, cumprimento resolução do CONAMA.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art14_par4",
+      "caminho": "art14_par4",
+      "tipo": "paragrafo",
+      "rotulo": "§ 4º",
+      "texto": "§ 4º (Revogado pela Lei nº 9.966/2000).",
+      "status": "revogado",
+      "texto_integral": "§ 4º (Revogado pela Lei nº 9.966, de 2000)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art14_par5",
+      "caminho": "art14_par5",
+      "tipo": "paragrafo",
+      "rotulo": "§ 5º",
+      "texto": "§ 5º A execução das garantias exigidas do poluidor não impede a aplicação das obrigações de indenização e reparação de danos previstas no § 1º deste artigo. (Incluído pela Lei nº 11.284, de 2006)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art15",
+      "caminho": "art15",
+      "tipo": "artigo",
+      "rotulo": "Art. 15",
+      "texto": "Art. 15. O poluidor que expuser a perigo a incolumidade humana, animal ou vegetal, ou estiver tornando mais grave situação de perigo existente, fica sujeito à pena de reclusão de 1 (um) a 3 (três) anos e multa de 100 (cem) a 1.000 (mil) MVR. (Redação dada pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art15_par1",
+      "caminho": "art15_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º A pena e aumentada até o dobro se: (Redação dada pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art15_par1_incI",
+      "caminho": "art15_par1_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - resultar: (Incluído pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art15_par1_alia",
+      "caminho": "art15_par1_alia",
+      "tipo": "alinea",
+      "rotulo": "a)",
+      "texto": "a) dano irreversível à fauna, à flora e ao meio ambiente; (Incluído pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art15_par1_alib",
+      "caminho": "art15_par1_alib",
+      "tipo": "alinea",
+      "rotulo": "b)",
+      "texto": "b) lesão corporal grave; (Incluído pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art15_par1_incII",
+      "caminho": "art15_par1_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - a poluição é decorrente de atividade industrial ou de transporte; (Incluído pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art15_par1_incIII",
+      "caminho": "art15_par1_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III - o crime é praticado durante a noite, em domingo ou em feriado. (Incluído pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art15_par2",
+      "caminho": "art15_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º Incorre no mesmo crime a autoridade competente que deixar de promover as medidas tendentes a impedir a prática das condutas acima descritas. (Redação dada pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art16",
+      "caminho": "art16",
+      "tipo": "artigo",
+      "rotulo": "Art. 16",
+      "texto": "Art. 16 (Revogado pela Lei nº 7.804/1989).",
+      "status": "revogado",
+      "texto_integral": "Art. 16 - (Revogado pela Lei nº 7.804, de 1989)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17",
+      "caminho": "art17",
+      "tipo": "artigo",
+      "rotulo": "Art. 17",
+      "texto": "Art. 17. Fica instituído, sob a administração do Instituto Brasileiro do Meio Ambiente e Recursos Naturais Renováveis - IBAMA: (Redação dada pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17_incI",
+      "caminho": "art17_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I - Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental, para registro obrigatório de pessoas físicas ou jurídicas que se dedicam a consultoria técnica sobre problemas ecológicos e ambientais e à indústria e comércio de equipamentos, aparelhos e instrumentos destinados ao controle de atividades efetiva ou potencialmente poluidoras; (Incluído pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17_incII",
+      "caminho": "art17_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II - Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais, para registro obrigatório de pessoas físicas ou jurídicas que se dedicam a atividades potencialmente poluidoras e/ou à extração, produção, transporte e comercialização de produtos potencialmente perigosos ao meio ambiente, assim como de produtos e subprodutos da fauna e flora. (Incluído pela Lei nº 7.804, de 1989)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-A",
+      "caminho": "art17-A",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-A",
+      "texto": "Art. 17-A. São estabelecidos os preços dos serviços e produtos do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama, a serem aplicados em âmbito nacional, conforme Anexo a esta Lei. (Incluído pela Lei nº 9.960, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-B",
+      "caminho": "art17-B",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-B",
+      "texto": "Art. 17-B. Fica instituída a Taxa de Controle e Fiscalização Ambiental – TCFA, cujo fato gerador é o exercício regular do poder de polícia conferido ao Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – Ibama para controle e fiscalização das atividades potencialmente poluidoras e utilizadoras de recursos naturais. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-B_par1",
+      "caminho": "art17-B_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Revogado. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-B_par2",
+      "caminho": "art17-B_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º Revogado. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-C",
+      "caminho": "art17-C",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-C",
+      "texto": "Art. 17-C. É sujeito passivo da TCFA todo aquele que exerça as atividades constantes do Anexo VIII desta Lei. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-C_par1",
+      "caminho": "art17-C_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º O sujeito passivo da TCFA é obrigado a entregar até o dia 31 de março de cada ano relatório das atividades exercidas no ano anterior, cujo modelo será definido pelo Ibama, para o fim de colaborar com os procedimentos de controle e fiscalização. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-C_par2",
+      "caminho": "art17-C_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º O descumprimento da providência determinada no § 1º sujeita o infrator a multa equivalente a vinte por cento da TCFA devida, sem prejuízo da exigência desta. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-C_par3",
+      "caminho": "art17-C_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º Revogado. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-D",
+      "caminho": "art17-D",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-D",
+      "texto": "Art. 17-D. A TCFA é devida por estabelecimento e os seus valores são os fixados no Anexo IX desta Lei. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-D_par1",
+      "caminho": "art17-D_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Para os fins desta Lei, consideram-se: (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-D_par1_incI",
+      "caminho": "art17-D_par1_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I – microempresa e empresa de pequeno porte, as pessoas jurídicas que se enquadrem, respectivamente, nas descrições dos incisos I e II do caput do art. 2º da Lei nº 9.841, de 5 de outubro de 1999; (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-D_par1_incII",
+      "caminho": "art17-D_par1_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II – empresa de médio porte, a pessoa jurídica que tiver receita bruta anual superior a R$ 1.200.000,00 (um milhão e duzentos mil reais) e igual ou inferior a R$ 12.000.000,00 (doze milhões de reais); (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-D_par1_incIII",
+      "caminho": "art17-D_par1_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III – empresa de grande porte, a pessoa jurídica que tiver receita bruta anual superior a R$ 12.000.000,00 (doze milhões de reais). (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-D_par2",
+      "caminho": "art17-D_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º O potencial de poluição (PP) e o grau de utilização (GU) de recursos naturais de cada uma das atividades sujeitas à fiscalização encontram-se definidos no Anexo VIII desta Lei. (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-D_par3",
+      "caminho": "art17-D_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º Caso o estabelecimento exerça mais de uma atividade sujeita à fiscalização, pagará a taxa relativamente a apenas uma delas, pelo valor mais elevado. (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-E",
+      "caminho": "art17-E",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-E",
+      "texto": "Art. 17-E. É o Ibama autorizado a cancelar débitos de valores inferiores a R$ 40,00 (quarenta reais), existentes até 31 de dezembro de 1999. (Incluído pela Lei nº 9.960, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-F",
+      "caminho": "art17-F",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-F",
+      "texto": "Art. 17-F. São isentas do pagamento da TCFA as entidades públicas federais, distritais, estaduais e municipais, as entidades filantrópicas, aqueles que praticam agricultura de subsistência e as populações tradicionais. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-G",
+      "caminho": "art17-G",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-G",
+      "texto": "Art. 17-G. A TCFA será devida no último dia útil de cada trimestre do ano civil, nos valores fixados no Anexo IX desta Lei, e o recolhimento será efetuado em conta bancária vinculada ao Ibama, por intermédio de documento próprio de arrecadação, até o quinto dia útil do mês subseqüente. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-G_parunico",
+      "caminho": "art17-G_parunico",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. Revogado. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-G_par2",
+      "caminho": "art17-G_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º Os recursos arrecadados com a TCFA terão utilização restrita em atividades de controle e fiscalização ambiental. (Incluído pela Lei nº 11.284, de 2006)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-H",
+      "caminho": "art17-H",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-H",
+      "texto": "Art. 17-H. A TCFA não recolhida nos prazos e nas condições estabelecidas no artigo anterior será cobrada com os seguintes acréscimos: (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-H_incI",
+      "caminho": "art17-H_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I – juros de mora, na via administrativa ou judicial, contados do mês seguinte ao do vencimento, à razão de um por cento; (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-H_incII",
+      "caminho": "art17-H_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II – multa de mora de vinte por cento, reduzida a dez por cento se o pagamento for efetuado até o último dia útil do mês subseqüente ao do vencimento; (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-H_incIII",
+      "caminho": "art17-H_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III – encargo de vinte por cento, substitutivo da condenação do devedor em honorários de advogado, calculado sobre o total do débito inscrito como Dívida Ativa, reduzido para dez por cento se o pagamento for efetuado antes do ajuizamento da execução. (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-H_par1",
+      "caminho": "art17-H_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1o-A. Os juros de mora não incidem sobre o valor da multa de mora. (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-H_par1~antigo1",
+      "caminho": "art17-H_par1~antigo1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Os débitos relativos à TCFA poderão ser parcelados de acordo com os critérios fixados na legislação tributária, conforme dispuser o regulamento desta Lei. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-I",
+      "caminho": "art17-I",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-I",
+      "texto": "Art. 17-I. As pessoas físicas e jurídicas que exerçam as atividades mencionadas nos incisos I e II do art. 17 e que não estiverem inscritas nos respectivos cadastros até o último dia útil do terceiro mês que se seguir ao da publicação desta Lei incorrerão em infração punível com multa de: (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-I_incI",
+      "caminho": "art17-I_incI",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "texto": "I – R$ 50,00 (cinqüenta reais), se pessoa física; (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-I_incII",
+      "caminho": "art17-I_incII",
+      "tipo": "inciso",
+      "rotulo": "II",
+      "texto": "II – R$ 150,00 (cento e cinqüenta reais), se microempresa; (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-I_incIII",
+      "caminho": "art17-I_incIII",
+      "tipo": "inciso",
+      "rotulo": "III",
+      "texto": "III – R$ 900,00 (novecentos reais), se empresa de pequeno porte; (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-I_incIV",
+      "caminho": "art17-I_incIV",
+      "tipo": "inciso",
+      "rotulo": "IV",
+      "texto": "IV – R$ 1.800,00 (mil e oitocentos reais), se empresa de médio porte; (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-I_incV",
+      "caminho": "art17-I_incV",
+      "tipo": "inciso",
+      "rotulo": "V",
+      "texto": "V – R$ 9.000,00 (nove mil reais), se empresa de grande porte. (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-I_parunico",
+      "caminho": "art17-I_parunico",
+      "tipo": "paragrafo",
+      "rotulo": "Parágrafo único",
+      "texto": "Parágrafo único. Revogado. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-J",
+      "caminho": "art17-J",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-J",
+      "texto": "Art. 17-J (Revogado pela Lei nº 10.165/2000).",
+      "status": "revogado",
+      "texto_integral": "Art. 17-J. (Revogado pela Lei nº 10.165, de 2000)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-L",
+      "caminho": "art17-L",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-L",
+      "texto": "Art. 17-L. As ações de licenciamento, registro, autorizações, concessões e permissões relacionadas à fauna, à flora, e ao controle ambiental são de competência exclusiva dos órgãos integrantes do Sistema Nacional do Meio Ambiente. (Incluído pela Lei nº 9.960, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-M",
+      "caminho": "art17-M",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-M",
+      "texto": "Art. 17-M. Os preços dos serviços administrativos prestados pelo Ibama, inclusive os referentes à venda de impressos e publicações, assim como os de entrada, permanência e utilização de áreas ou instalações nas unidades de conservação, serão definidos em portaria do Ministro de Estado do Meio Ambiente, mediante proposta do Presidente daquele Instituto. (Incluído pela Lei nº 9.960, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-N",
+      "caminho": "art17-N",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-N",
+      "texto": "Art. 17-N. Os preços dos serviços técnicos do Laboratório de Produtos Florestais do Ibama, assim como os para venda de produtos da flora, serão, também, definidos em portaria do Ministro de Estado do Meio Ambiente, mediante proposta do Presidente daquele Instituto. (Incluído pela Lei nº 9.960, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-O",
+      "caminho": "art17-O",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-O",
+      "texto": "Art. 17-O. Os proprietários rurais que se beneficiarem com redução do valor do Imposto sobre a Propriedade Territorial Rural – ITR, com base em Ato Declaratório Ambiental - ADA, deverão recolher ao Ibama a importância prevista no item 3.11 do Anexo VII da Lei nº 9.960, de 29 de janeiro de 2000, a título de Taxa de Vistoria. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-O_par1",
+      "caminho": "art17-O_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º (Revogado pela Lei nº 14.932/2024).",
+      "status": "revogado",
+      "texto_integral": "§ 1º (Revogado pela Lei nº 14.932, de 2024)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-O_par1~antigo1",
+      "caminho": "art17-O_par1~antigo1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1o-A. A Taxa de Vistoria a que se refere o caput deste artigo não poderá exceder a dez por cento do valor da redução do imposto proporcionada pelo ADA. (Incluído pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-O_par2",
+      "caminho": "art17-O_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º O pagamento de que trata o caput deste artigo poderá ser efetivado em cota única ou em parcelas, nos mesmos moldes escolhidos pelo contribuinte para o pagamento do ITR, em documento próprio de arrecadação do Ibama. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-O_par3",
+      "caminho": "art17-O_par3",
+      "tipo": "paragrafo",
+      "rotulo": "§ 3º",
+      "texto": "§ 3º Para efeito de pagamento parcelado, nenhuma parcela poderá ser inferior a R$ 50,00 (cinqüenta reais). (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-O_par4",
+      "caminho": "art17-O_par4",
+      "tipo": "paragrafo",
+      "rotulo": "§ 4º",
+      "texto": "§ 4º O inadimplemento de qualquer parcela ensejará a cobrança de juros e multa nos termos dos incisos I e II do caput e §§ 1o-A e 1º, todos do art. 17-H desta Lei. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-O_par5",
+      "caminho": "art17-O_par5",
+      "tipo": "paragrafo",
+      "rotulo": "§ 5º",
+      "texto": "§ 5º Após a vistoria, realizada por amostragem, caso os dados constantes do ADA não coincidam com os efetivamente levantados pelos técnicos do Ibama, estes lavrarão, de ofício, novo ADA, contendo os dados reais, o qual será encaminhado à Secretaria da Receita Federal, para as providências cabíveis. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-P",
+      "caminho": "art17-P",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-P",
+      "texto": "Art. 17-P. Constitui crédito para compensação com o valor devido a título de TCFA, até o limite de sessenta por cento e relativamente ao mesmo ano, o montante efetivamente pago pelo estabelecimento ao Estado, ao Município e ao Distrito Federal em razão de taxa de fiscalização ambiental. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-P_par1",
+      "caminho": "art17-P_par1",
+      "tipo": "paragrafo",
+      "rotulo": "§ 1º",
+      "texto": "§ 1º Valores recolhidos ao Estado, ao Município e ao Distrital Federal a qualquer outro título, tais como taxas ou preços públicos de licenciamento e venda de produtos, não constituem crédito para compensação com a TCFA. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-P_par2",
+      "caminho": "art17-P_par2",
+      "tipo": "paragrafo",
+      "rotulo": "§ 2º",
+      "texto": "§ 2º A restituição, administrativa ou judicial, qualquer que seja a causa que a determine, da taxa de fiscalização ambiental estadual ou distrital compensada com a TCFA restaura o direito de crédito do Ibama contra o estabelecimento, relativamente ao valor compensado. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art17-Q",
+      "caminho": "art17-Q",
+      "tipo": "artigo",
+      "rotulo": "Art. 17-Q",
+      "texto": "Art. 17-Q. É o Ibama autorizado a celebrar convênios com os Estados, os Municípios e o Distrito Federal para desempenharem atividades de fiscalização ambiental, podendo repassar-lhes parcela da receita obtida com a TCFA. (Redação dada pela Lei nº 10.165, de 2000)",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art18",
+      "caminho": "art18",
+      "tipo": "artigo",
+      "rotulo": "Art. 18",
+      "texto": "Art. 18 (Revogado pela Lei nº 9.985/2000).",
+      "status": "revogado",
+      "texto_integral": "Art. 18. (Revogado pela Lei nº 9.985, de 2000)"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art19",
+      "caminho": "art19",
+      "tipo": "artigo",
+      "rotulo": "Art. 19",
+      "texto": "Art 19 -(VETADO).",
+      "status": "vetado"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art19~antigo1",
+      "caminho": "art19~antigo1",
+      "tipo": "artigo",
+      "rotulo": "Art. 19",
+      "texto": "Art. 19. Ressalvado o disposto nas Leis nºs 5.357, de 17 de novembro de 1967, e 7.661, de 16 de maio de 1988, a receita proveniente da aplicação desta Lei será recolhida de acordo com o disposto no art. 4º da Lei nº 7.735, de 22 de fevereiro de 1989. (Incluído pela Lei nº 7.804, de 1989))",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art20",
+      "caminho": "art20",
+      "tipo": "artigo",
+      "rotulo": "Art. 20",
+      "texto": "Art. 20. Esta Lei entrará em vigor na data de sua publicação.",
+      "status": "vigente"
+    },
+    {
+      "id": "urn:lex:br:federal:lei:1981-08-31;6938!art21",
+      "caminho": "art21",
+      "tipo": "artigo",
+      "rotulo": "Art. 21",
+      "texto": "Art. 21. Revogam-se as disposições em contrário.",
+      "status": "vigente"
+    }
+  ]
+}

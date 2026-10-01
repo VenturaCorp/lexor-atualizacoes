@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-17",
+ "gerado_em": "2026-10-01",
  "leis": {
   "regulamento_marco_civil": {
    "urn": "urn:lex:br:federal:decreto:2016-05-11;8771",
@@ -715,8 +715,22 @@
   },
   "cdc": {
    "urn": "urn:lex:br:federal:lei:1990-09-11;8078",
-   "detectado_em": "2026-09-01",
+   "detectado_em": "2026-10-01",
    "eventos": [
+    {
+     "evento": "bloco_novo",
+     "caminho": "art57_par1",
+     "rotulo": "§ 1º",
+     "texto_antigo": null,
+     "texto_novo": "§ 1º A multa será em montante não inferior a duzentas e não superior a três milhões de vezes o valor da Unidade Fiscal de Referência (Ufir), ou índice equivalente que venha a substituí-lo. (Redação dada pela Medida Provisória nº 1.393, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art57_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": null,
+     "texto_novo": "§ 2º Quando as condutas previstas no art. 39, caput, incisos II e X, forem praticadas por importadores, produtores, distribuidoras, transportadores-revendedores-retalhistas ou revendedores varejistas de combustíveis, biocombustíveis ou derivados de petróleo, em qualquer etapa da cadeia de comercialização, a multa será de R$ 20.000,00 (vinte mil reais) a R$ 500.000.000,00 (quinhentos milhões de reais), hipótese em que não se aplica o limite previsto no § 1º. (Incluído pela Medida Provisória nº 1.393, de 2026)"
+    },
     {
      "evento": "texto_alterado",
      "caminho": "preambulo",
@@ -2172,6 +2186,454 @@
      "rotulo": "V",
      "texto_antigo": null,
      "texto_novo": "V – os projetos de pesquisa, lavra, beneficiamento e transformação mineral e de mineração urbana de minerais críticos e estratégicos e as infraestruturas associadas. (Incluído pela Lei nº 15.506, de 2026)"
+    }
+   ]
+  },
+  "cp": {
+   "urn": "urn:lex:br:federal:decreto.lei:1940-12-07;2848",
+   "detectado_em": "2026-10-01",
+   "eventos": [
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par10",
+     "rotulo": "§ 10",
+     "texto_antigo": null,
+     "texto_novo": "§ 10. A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se a subtração for de petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico hidratado carburante e demais combustíveis fluidos carburantes, inclusive biocombustíveis, e óleos lubrificantes, removidos dos estabelecimentos de produção ou de quaisquer instalações de armazenamento e de transporte de combustíveis, incluídos dutos e unidades de transporte em qualquer modal. (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par11",
+     "rotulo": "§ 11",
+     "texto_antigo": null,
+     "texto_novo": "§ 11. Na hipótese do § 10 deste artigo, a pena é aumentada de 1/3 (um terço), se o crime é praticado: (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par11_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I – com destruição, rompimento de obstáculo à subtração da coisa ou dano de qualquer natureza; (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par11_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II – mediante o concurso de 2 (duas) ou mais pessoas; (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par11_incIII",
+     "rotulo": "III",
+     "texto_antigo": null,
+     "texto_novo": "III – com abuso de confiança ou valendo-se de vínculo atual ou passado com o ente lesado; ou (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par11_incIV",
+     "rotulo": "IV",
+     "texto_antigo": null,
+     "texto_novo": "IV – por ocupante de cargo, de emprego ou de função pública. (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par12",
+     "rotulo": "§ 12",
+     "texto_antigo": null,
+     "texto_novo": "§ 12. Na hipótese do § 10 deste artigo, a pena é aumentada de 2/3 (dois terços) se do crime resulta: (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par12_incI",
+     "rotulo": "I",
+     "texto_antigo": null,
+     "texto_novo": "I – suspensão ou paralisação das atividades do estabelecimento; (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par12_incII",
+     "rotulo": "II",
+     "texto_antigo": null,
+     "texto_novo": "II – desabastecimento; (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par12_incIII",
+     "rotulo": "III",
+     "texto_antigo": null,
+     "texto_novo": "III – incêndio; (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par12_incIV",
+     "rotulo": "IV",
+     "texto_antigo": null,
+     "texto_novo": "IV – poluição efetiva ou potencial ao meio ambiente; (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par12_incV",
+     "rotulo": "V",
+     "texto_antigo": null,
+     "texto_novo": "V – lesão corporal grave; ou (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art155_par12_incVI",
+     "rotulo": "VI",
+     "texto_antigo": null,
+     "texto_novo": "VI – morte. (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art157_par2_alia",
+     "rotulo": "a)",
+     "texto_antigo": null,
+     "texto_novo": "a) suspensão ou paralisação das atividades do estabelecimento; (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art157_par2_alib",
+     "rotulo": "b)",
+     "texto_antigo": null,
+     "texto_novo": "b) desabastecimento; (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art157_par2_alic",
+     "rotulo": "c)",
+     "texto_antigo": null,
+     "texto_novo": "c) incêndio; (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art157_par2_alid",
+     "rotulo": "d)",
+     "texto_antigo": null,
+     "texto_novo": "d) poluição efetiva ou potencial ao meio ambiente; ou (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art157_par2_alie",
+     "rotulo": "e)",
+     "texto_antigo": null,
+     "texto_novo": "e) (VETADO). (Incluído pela Lei nº 15.517, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art157_par2_incXI",
+     "rotulo": "XI",
+     "texto_antigo": null,
+     "texto_novo": "XI – se a subtração for de petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico hidratado carburante e demais combustíveis fluidos carburantes, inclusive biocombustíveis, e óleos lubrificantes, removidos dos estabelecimentos de produção ou de quaisquer instalações de armazenamento e de transporte de combustíveis, incluídos dutos e unidades de transporte em qualquer modal. (Incluído pela Lei nº 15.517, de 2026)"
+    }
+   ]
+  },
+  "eca": {
+   "urn": "urn:lex:br:federal:lei:1990-07-13;8069",
+   "detectado_em": "2026-10-01",
+   "eventos": [
+    {
+     "evento": "texto_alterado",
+     "caminho": "art4",
+     "rotulo": "Art. 4º",
+     "texto_antigo": "Art. 4º É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária.",
+     "texto_novo": "Art. 4º É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade, à natureza e à convivência familiar e comunitária. (Redação dada pela Lei nº 15.512, de 2026)"
+    }
+   ]
+  },
+  "estatuto_oab": {
+   "urn": "urn:lex:br:federal:lei:1994-07-04;8906",
+   "detectado_em": "2026-10-01",
+   "eventos": [
+    {
+     "evento": "texto_alterado",
+     "caminho": "art55",
+     "rotulo": "Art. 55",
+     "texto_antigo": "Art. 55. A diretoria do Conselho Federal é composta de um Presidente, de um Vice-Presidente, de um Secretário-Geral, de um Secretário-Geral Adjunto e de um Tesoureiro.",
+     "texto_novo": "Art. 55. A Diretoria do Conselho Federal é composta de 1 (um) Presidente, 1 (um) Vice-Presidente, 1 (um) Secretário-Geral, 1 (um) Corregedor-Geral, 1 (um) Diretor Tesoureiro, 1 (um) Diretor Administrativo e 1 (um) Diretor Executivo. (“Caput” do artigo com redação dada pela Lei nº 15.511, de 21/9/2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art57_parunico",
+     "rotulo": "Parágrafo único",
+     "texto_antigo": null,
+     "texto_novo": "Parágrafo único. É facultada aos Conselhos Seccionais, na forma do Regulamento Geral, a criação de diretorias regimentais temporárias de caráter temático. (Parágrafo único acrescido pela Lei nº 15.511, de 21/9/2026)"
+    }
+   ]
+  },
+  "csll": {
+   "urn": "urn:lex:br:federal:lei:1988-12-15;7689",
+   "detectado_em": "2026-10-01",
+   "eventos": [
+    {
+     "evento": "bloco_novo",
+     "caminho": "art3_alia",
+     "rotulo": "a)",
+     "texto_antigo": null,
+     "texto_novo": "a) 12% (doze por cento), até 31 de dezembro de 2027; e"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art3_alib",
+     "rotulo": "b)",
+     "texto_antigo": null,
+     "texto_novo": "b) 15% (quinze por cento), a partir de 1º de janeiro de 2028; (Inciso acrescido pela Lei Complementar nº 224, de 26/12/2025, publicada na Edição Extra B do DOU de 26/12/2025, produzindo efeitos a partir do primeiro dia do quarto mês subsequente ao de sua publicação) II-C - no caso das pessoas jurídicas referidas no inciso IV do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001, e das pessoas jurídicas de capitalização:"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art3_incI",
+     "rotulo": "I",
+     "texto_antigo": "I - 20% (vinte por cento) até o dia 31 de dezembro de 2021 e 15% (quinze por cento) a partir de 1º de janeiro de 2022, no caso das pessoas jurídicas de seguros privados, das de capitalização e das referidas nos incisos II, III, IV, V, VI, VII, IX e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; (Inciso acrescido pela Medida Provisória nº 413, de 3/1/2008, convertida na Lei nº 11.727, de 23/6/2008, e com nova redação dada pela Lei nº 14.183, de 14/7/2021)",
+     "texto_novo": "I - 15% (quinze por cento), no caso das pessoas jurídicas de seguros privados, ressalvado o disposto no inciso V deste artigo, e das referidas nos incisos II, III, V, VI, VII, IX e X do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; (Inciso acrescido pela Medida Provisória nº 413, de 3/1/2008, convertida na Lei nº 11.727, de 23/6/2008, e com redação dada pela Lei nº 15.525, de 28/9/2026, produzindo efeitos a partir de 1º/1/2027)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art3_incII",
+     "rotulo": "II",
+     "texto_antigo": "II - (Inciso acrescido pela Lei nº 13.169, de 6/10/2015, e revogado pela Lei nº 14.183, de 14/7/2021) II-A - 25% (vinte e cinco por cento) até o dia 31 de dezembro de 2021 e 20% (vinte por cento) a partir de 1º de janeiro de 2022, no caso das pessoas jurídicas referidas no inciso I do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; e (Inciso acrescido pela Lei nº 14.183, de 14/7/2021)",
+     "texto_novo": "II - (Inciso acrescido pela Lei nº 13.169, de 6/10/2015, e revogado pela Lei nº 14.183, de 14/7/2021) II-A - 20% (vinte por cento), no caso das pessoas jurídicas referidas no inciso I do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; (Inciso acrescido pela Lei nº 14.183, de 14/7/2021, com nova redação dada pela Lei Complementar nº 224, de 26/12/2025, publicada na Edição Extra B do DOU de 26/12/2025, produzindo efeitos a partir do primeiro dia do quarto mês subsequente ao de sua publicação) II-B - no caso das instituições de pagamento, nos termos da Lei nº 12.865, de 9 de outubro de 2013, e das pessoas jurídicas referidas nos incisos VIII, XI, XII e XIII do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001:"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art3_incIV",
+     "rotulo": "IV",
+     "texto_antigo": null,
+     "texto_novo": "IV – (Inciso acrescido pela Medida Provisória nº 1.034, de 1º/3/2021, e não mantido pela Lei nº 14.183, de 14/7/2021, na qual foi convertida a referida Medida Provisória)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art3_incV",
+     "rotulo": "V",
+     "texto_antigo": null,
+     "texto_novo": "V - 9% (nove por cento), no caso das sociedades resseguradoras locais de que trata o inciso I do caput do art. 4º da Lei Complementar nº 126, de 15 de janeiro de 2007. (Inciso acrescido pela Lei nº 15.525, de 28/9/2026, produzindo efeitos a partir de 1º/1/2027)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art3_parunico",
+     "rotulo": "Parágrafo único",
+     "texto_antigo": "Parágrafo único. As alíquotas da contribuição de que tratam os incisos I e II-A do caput deste artigo serão de 16% (dezesseis por cento) e de 21% (vinte e um por cento), respectivamente, até 31 de dezembro de 2022. (Parágrafo único acrescido pela Medida Provisória nº 1.115, de 28/4/2022, publicada na Edição Extra A do DOU de 28/4/2022, produzindo efeitos a partir do 1º dia do 4º mês subsequente ao de sua publicação, convertida na Lei nº 14.446, de 2/9/2022)",
+     "texto_novo": "Parágrafo único. As alíquotas da contribuição de que tratam os incisos I e II-A do caput deste artigo serão de 16% (dezesseis por cento) e de 21% (vinte e um por cento), respectivamente, até 31 de dezembro de 2022. (Parágrafo único acrescido pela Medida Provisória nº 1.115, de 28/4/2022, publicada na Edição Extra A do DOU de 28/4/2022, produzindo efeitos a partir do 1º dia do 4º mês subsequente ao de sua publicação, convertida na Lei nº 14.446, de 2/9/2022, republicada no DOU de 19/9/2022)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "preambulo",
+     "rotulo": "Preâmbulo",
+     "texto_antigo": "[Detalhes da Norma] ﻿ CÂMARA DOS DEPUTADOS Centro de Documentação e Informação LEI Nº 7.689, DE 15 DE DEZEMBRO DE 1988 Institui contribuição social sobre o lucro das pessoas jurídicas e dá outras providências. Faço saber que o Presidente da República adotou a Medida Provisória nº 22, de 1988, que o Congresso Nacional aprovou, e eu, HUMBERTO LUCENA, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:",
+     "texto_novo": "[Detalhes da Norma] CÂMARA DOS DEPUTADOS Centro de Documentação e Informação LEI Nº 7.689, DE 15 DE DEZEMBRO DE 1988 Institui contribuição social sobre o lucro das pessoas jurídicas e dá outras providências. Faço saber que o Presidente da República adotou a Medida Provisória nº 22, de 1988, que o Congresso Nacional aprovou, e eu, HUMBERTO LUCENA, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte Lei:"
+    }
+   ]
+  },
+  "crimes_ordem_economica": {
+   "urn": "urn:lex:br:federal:lei:1991-02-08;8176",
+   "detectado_em": "2026-10-01",
+   "eventos": [
+    {
+     "evento": "texto_alterado",
+     "caminho": "art1",
+     "rotulo": "Art. 1º",
+     "texto_antigo": "Art. 1° Constitui crime contra a ordem econômica:",
+     "texto_novo": "Art. 1º Constitui crime contra a ordem econômica:"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1-A",
+     "rotulo": "Art. 1º-A",
+     "texto_antigo": null,
+     "texto_novo": "Art. 1º-A. Constitui crime contra a ordem econômica adquirir, receber, transportar ou contratar serviço de transporte, conduzir, ocultar, ter em depósito ou contratar serviço de armazenagem, vender, expor à venda, distribuir ou de qualquer forma utilizar ou manter em unidades produtoras, em tanques de armazenamento de bases e terminais terrestres e aquaviários, em dutos, em vagões de ferrovias, em caminhões-tanques, em embarcações ou em aeronaves, no exercício de atividade comercial ou industrial, petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico hidratado carburante e demais combustíveis fluidos carburantes, inclusive biocombustíveis, e óleos lubrificantes, em proveito próprio ou alheio, que sabe ser produto de crime."
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1-A_par1",
+     "rotulo": "§ 1º",
+     "texto_antigo": null,
+     "texto_novo": "§ 1º Equipara-se à atividade comercial, para efeito deste artigo, qualquer forma de comércio irregular ou clandestino, inclusive o exercido em residência."
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1-A_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": null,
+     "texto_novo": "§ 2º O crime previsto no caput deste artigo é punível ainda que desconhecido ou isento de pena o autor do crime de que proveio a coisa."
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1-A_par3",
+     "rotulo": "§ 3º",
+     "texto_antigo": null,
+     "texto_novo": "§ 3º Constitui efeito da condenação a interdição do estabelecimento pelo dobro do prazo da pena aplicada. (Artigo acrescido pela Lei nº 15.517, de 22/9/2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1-A_pena",
+     "rotulo": "Pena",
+     "texto_antigo": null,
+     "texto_novo": "Pena: reclusão, de 3 (três) a 8 (oito) anos, e multa."
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1-B",
+     "rotulo": "Art. 1º-B",
+     "texto_antigo": null,
+     "texto_novo": "Art. 1º-B. Constitui crime contra a ordem econômica adquirir, receber ou manter em unidades produtoras, em tanques de armazenamento de bases e terminais terrestres e aquaviários, em dutos, em vagões de ferrovias, em caminhões-tanques, em embarcações ou em aeronaves petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico hidratado carburante e demais combustíveis fluidos carburantes, inclusive biocombustíveis, e óleos lubrificantes, em proveito próprio ou alheio, que, por sua natureza ou pela desproporção entre o valor e o preço, ou pela condição de quem os oferece, devam presumir-se obtidos por meio criminoso."
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1-B_par1",
+     "rotulo": "§ 1º",
+     "texto_antigo": null,
+     "texto_novo": "§ 1º Se o agente é primário, poderá o juiz, consideradas as circunstâncias e as consequências do crime, diminuir a pena de 1/3 (um terço) a 2/3 (dois terços) ou deixar de aplicar a multa."
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1-B_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": null,
+     "texto_novo": "§ 2º O crime previsto no caput deste artigo é punível ainda que desconhecido ou isento de pena o autor do crime de que proveio a coisa. (Artigo acrescido pela Lei nº 15.517, de 22/9/2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1-B_pena",
+     "rotulo": "Pena",
+     "texto_antigo": null,
+     "texto_novo": "Pena: reclusão, de 1 (um) a 4 (quatro) anos, e multa."
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1-C",
+     "rotulo": "Art. 1º-C",
+     "texto_antigo": null,
+     "texto_novo": "Art. 1º-C. Nos crimes previstos nos arts. 1º-A e 1º-B desta Lei, a condenação terá como efeito a perda do cargo, da função ou do emprego público, com a inabilitação para o seu exercício pelo dobro do prazo da pena aplicada. (Artigo acrescido pela Lei nº 15.517, de 22/9/2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art1-D",
+     "rotulo": "Art. 1º-D",
+     "texto_antigo": null,
+     "texto_novo": "Art. 1º-D. O juiz determinará a alienação antecipada, na forma do art. 144-A do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para preservação do valor dos bens, sempre que estiverem sujeitos a qualquer grau de deterioração ou depreciação ou quando houver dificuldade para sua manutenção. (Artigo acrescido pela Lei nº 15.517, de 22/9/2026)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art1_incII",
+     "rotulo": "II",
+     "texto_antigo": "II - usar gás liqüefeito de petróleo em motores de qualquer espécie, saunas, caldeiras e aquecimento de piscinas, ou para fins automotivos, em desacordo com as normas estabelecidas na forma da lei.",
+     "texto_novo": "II - usar gás liquefeito de petróleo para fins automotivos, em desacordo com as normas estabelecidas na forma da lei. (Inciso com redação dada pela Lei nº 15.348, de 13/2/2026) Pena detenção de um a cinco anos."
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art2",
+     "rotulo": "Art. 2º",
+     "texto_antigo": "Art. 2° Constitui crime contra o patrimônio, na modalidade de usurpacão, produzir bens ou explorar matéria-prima pertencentes à União, sem autorização legal ou em desacordo com as obrigações impostas pelo título autorizativo.",
+     "texto_novo": "Art. 2º Constitui crime contra o patrimônio, na modalidade de usurpacão, produzir bens ou explorar matéria-prima pertencentes à União, sem autorização legal ou em desacordo com as obrigações impostas pelo título autorizativo. Pena detenção, de um a cinco anos e multa."
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art2_par1",
+     "rotulo": "§ 1º",
+     "texto_antigo": "§ 1° Incorre na mesma pena aquele que, sem autorização legal, adquirir, transportar, industrializar, tiver consigo, consumir ou comercializar produtos ou matéria-prima, obtidos na forma prevista no caput deste artigo.",
+     "texto_novo": "§ 1º Incorre na mesma pena aquele que, sem autorização legal, adquirir, transportar, industrializar, tiver consigo, consumir ou comercializar produtos ou matéria-prima, obtidos na forma prevista no caput deste artigo."
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art2_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": "§ 2° No crime definido neste artigo, a pena de multa será fixada entre dez e trezentos e sessenta dias-multa, conforme seja necessário e suficiente para a reprovação e a prevenção do crime.",
+     "texto_novo": "§ 2º No crime definido neste artigo, a pena de multa será fixada entre dez e trezentos e sessenta dias-multa, conforme seja necessário e suficiente para a reprovação e a prevenção do crime."
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art2_par3",
+     "rotulo": "§ 3º",
+     "texto_antigo": "§ 3° O dia-multa será fixado pelo juiz em valor não inferior a quatorze nem superior a duzentos Bônus do Tesouro Nacional - BTN.",
+     "texto_novo": "§ 3º O dia-multa será fixado pelo juiz em valor não inferior a quatorze nem superior a duzentos Bônus do Tesouro Nacional (BTN)."
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art3",
+     "rotulo": "Art. 3º",
+     "texto_antigo": "Art. 3° (VETADO).",
+     "texto_novo": "Art. 3º (VETADO)."
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art4",
+     "rotulo": "Art. 4º",
+     "texto_antigo": "Art. 4° Fica instituído o Sistema Nacional de Estoques de Combustíveis.",
+     "texto_novo": "Art. 4º Fica instituído o Sistema Nacional de Estoques de Combustíveis."
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art5",
+     "rotulo": "Art. 5º",
+     "texto_antigo": "Art. 5° Esta lei entra em vigor cinco dias após a sua publicação.",
+     "texto_novo": "Art. 5º Esta Lei entra em vigor cinco dias após a sua publicação."
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art6",
+     "rotulo": "Art. 6º",
+     "texto_antigo": "Art. 6° Revogam-se as disposições em contrário, em especial o art. 18 da Lei n° 8.137, de 27 de dezembro de 1990, restaurando-se a numeração dos artigos do Decreto-Lei n° 2.848, de 7 de dezembro de 1940 Código Penal Brasileiro, alterado por aquele dispositivo.",
+     "texto_novo": "Art. 6º Revogam-se as disposições em contrário, em especial o art. 18 da Lei n° 8.137, de 27 de dezembro de 1990, restaurando-se a numeração dos artigos do Decreto-Lei n° 2.848, de 7 de dezembro de 1940 Código Penal Brasileiro, alterado por aquele dispositivo."
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "preambulo",
+     "rotulo": "Preâmbulo",
+     "texto_antigo": "[Detalhes da Norma] ﻿ 1 LEI N° 8.176, DE 8 DE FEVEREIRO DE 1991 Define crimes contra a ordem econômica e cria o Sistema de Estoques de Combustíveis. O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:",
+     "texto_novo": "[Detalhes da Norma] CÂMARA DOS DEPUTADOS Centro de Documentação e Informação LEI Nº 8.176, DE 8 DE FEVEREIRO DE 1991 Define crimes contra a ordem econômica e cria o Sistema de Estoques de Combustíveis. O PRESIDENTE DA REPÚBLICA, Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:"
+    }
+   ]
+  },
+  "vitimas_violencia_sexual": {
+   "urn": "urn:lex:br:federal:lei:2013-08-01;12845",
+   "detectado_em": "2026-10-01",
+   "eventos": [
+    {
+     "evento": "bloco_novo",
+     "caminho": "art3_incIX",
+     "rotulo": "IX",
+     "texto_antigo": null,
+     "texto_novo": "IX – comunicação obrigatória à autoridade policial, no prazo de 24 (vinte e quatro) horas, dos casos em que houver indícios ou confirmação de violência sexual, para as providências cabíveis e para fins estatísticos. (Incluído pela Lei nº 15.516, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art3_incVIII",
+     "rotulo": "VIII",
+     "texto_antigo": null,
+     "texto_novo": "VIII – coleta de material para exame toxicológico, se indicado; (Incluído pela Lei nº 15.516, de 2026)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art3_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": "§ 2º No tratamento das lesões, caberá ao médico preservar materiais que possam ser coletados no exame médico legal.",
+     "texto_novo": "§ 2º No tratamento das lesões, o médico deverá coletar e preservar materiais que possam compor o corpo de delito. (Redação dada pela Lei nº 15.516, de 2026)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art3_par3",
+     "rotulo": "§ 3º",
+     "texto_antigo": "§ 3º Cabe ao órgão de medicina legal o exame de DNA para identificação do agressor.",
+     "texto_novo": "§ 3º Caberá aos órgãos de perícia oficial de natureza criminal realizar o exame de DNA para identificação do agressor e inclusão no Banco Nacional de Perfis Genéticos, ainda que não identificado. (Redação dada pela Lei nº 15.516, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art3_par4",
+     "rotulo": "§ 4º",
+     "texto_antigo": null,
+     "texto_novo": "§ 4º Os órgãos de perícia oficial de natureza criminal deverão capacitar os médicos dos serviços de saúde para o protocolo de atendimento e coleta de vestígios de que trata o § 2º deste artigo. (Incluído pela Lei nº 15.516, de 2026)"
+    }
+   ]
+  },
+  "pnma": {
+   "urn": "urn:lex:br:federal:lei:1981-08-31;6938",
+   "detectado_em": "2026-10-01",
+   "eventos": [
+    {
+     "evento": "bloco_novo",
+     "caminho": "art2_incXI",
+     "rotulo": "XI",
+     "texto_antigo": null,
+     "texto_novo": "XI – garantia do acesso prioritário de crianças e adolescentes à natureza e ao meio ambiente ecologicamente equilibrado. (Incluído pela Lei nº 15.512, de 2026)"
     }
    ]
   }
