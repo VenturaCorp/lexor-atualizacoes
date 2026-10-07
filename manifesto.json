@@ -1,6 +1,6 @@
 {
   "versao": 15,
-  "gerado_em": "2026-10-01",
+  "gerado_em": "2026-10-07",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -83,7 +83,7 @@
     "alienacao_fiduciaria": {
       "versao": 1,
       "sha256": "20e03eae75857202365129fd5b32e51759e5a8810653c14b9caa597b85d3fdf0",
-      "sha256_arquivo": "884e30f30b03a9a86ca605286a5486585fe0d51834b60ba014260d47f0ef5a3c",
+      "sha256_arquivo": "582089ec509fd43d5517c4b6a3c7528fc920bf587afcb4242ff6574099871fff",
       "bytes": 43252,
       "blocos": 94
     },
@@ -342,7 +342,7 @@
     "cf": {
       "versao": 1,
       "sha256": "b10925f662d29ea187cbca82292091e094ef208e1a27459bffdbadeb9f5eb378",
-      "sha256_arquivo": "93e4bbf5b4efa2af5aa942264bac3fdec1ab68dc4d57f35d48bf0428271a7a00",
+      "sha256_arquivo": "1c1622bcc8efa8fb16c08160a15b3875d2b7528768302201bf47513691b970ab",
       "bytes": 1086423,
       "blocos": 2666
     },
@@ -706,7 +706,7 @@
     "desapropriacao_interesse_social": {
       "versao": 1,
       "sha256": "05bcba29b75d0bc37a466d1e71cefaf9100c572fe602171d08ef44d4f709f0b0",
-      "sha256_arquivo": "831b82adacc1c4c11b5500c37235c69ca944981f4b48891f8e2e221923bde9d9",
+      "sha256_arquivo": "36a35e1da5039b2ed1eb3f9ed25f91a324806c94902cb7d623fac215f71eec3c",
       "bytes": 7531,
       "blocos": 19
     },
