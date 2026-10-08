@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-07",
+ "gerado_em": "2026-10-08",
  "leis": {
   "regulamento_marco_civil": {
    "urn": "urn:lex:br:federal:decreto:2016-05-11;8771",
@@ -690,7 +690,7 @@
   },
   "reforma_tributaria": {
    "urn": "urn:lex:br:federal:lei.complementar:2025-01-16;214",
-   "detectado_em": "2026-08-28",
+   "detectado_em": "2026-10-08",
    "eventos": [
     {
      "evento": "bloco_novo",

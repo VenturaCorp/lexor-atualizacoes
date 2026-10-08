@@ -1,6 +1,6 @@
 {
   "versao": 15,
-  "gerado_em": "2026-10-07",
+  "gerado_em": "2026-10-08",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -1875,7 +1875,7 @@
     "reforma_tributaria": {
       "versao": 2,
       "sha256": "c16a0dd53f6e93afe5d99f8b1204b4f7a13583384946d0b9e4198603e1cd8c85",
-      "sha256_arquivo": "baca0389c39d0ae5d24e7f049ad8affda4028d9109e4da4f5d94814062d5e024",
+      "sha256_arquivo": "868a85c2fc9d1e5411b4e36e68232804d9b3dad61dcfedb3f505d35add0d36e8",
       "bytes": 1791797,
       "blocos": 4482
     },
