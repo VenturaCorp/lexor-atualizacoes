@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-08",
+ "gerado_em": "2026-10-09",
  "leis": {
   "regulamento_marco_civil": {
    "urn": "urn:lex:br:federal:decreto:2016-05-11;8771",
@@ -2645,6 +2645,16 @@
   "desapropriacao_interesse_social": {
    "urn": "urn:lex:br:federal:lei:1962-09-10;4132",
    "detectado_em": "2026-10-07",
+   "eventos": []
+  },
+  "clt": {
+   "urn": "urn:lex:br:federal:decreto.lei:1943-05-01;5452",
+   "detectado_em": "2026-10-09",
+   "eventos": []
+  },
+  "custeio_seguridade": {
+   "urn": "urn:lex:br:federal:lei:1991-07-24;8212",
+   "detectado_em": "2026-10-09",
    "eventos": []
   }
  }
