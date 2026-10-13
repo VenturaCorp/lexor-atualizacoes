@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-09",
+ "gerado_em": "2026-10-13",
  "leis": {
   "regulamento_marco_civil": {
    "urn": "urn:lex:br:federal:decreto:2016-05-11;8771",
@@ -715,7 +715,7 @@
   },
   "cdc": {
    "urn": "urn:lex:br:federal:lei:1990-09-11;8078",
-   "detectado_em": "2026-10-01",
+   "detectado_em": "2026-10-13",
    "eventos": [
     {
      "evento": "bloco_novo",
@@ -736,7 +736,7 @@
      "caminho": "preambulo",
      "rotulo": "Preâmbulo",
      "texto_antigo": "L8078compilado Presidência da República Casa Civil Subchefia para Assuntos Jurídicos LEI Nº 8.078, DE 11 DE SETEMBRO DE 1990. Vigência Mensagem de veto Regulamento Regulamento Regulamento Regulamento Vigência Regulamento Dispõe sobre a proteção do consumidor e dá outras providências. O PRESIDENTE DA REPÚBLICA, faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:",
-     "texto_novo": "L8078compilado Presidência da República Casa Civil Subchefia para Assuntos Jurídicos LEI Nº 8.078, DE 11 DE SETEMBRO DE 1990. Vigência Mensagem de veto Regulamento Regulamento Regulamento Regulamento Vigência Regulamento Regulamento Vigência Dispõe sobre a proteção do consumidor e dá outras providências. O PRESIDENTE DA REPÚBLICA, faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:"
+     "texto_novo": "L8078compilado Presidência da República Casa Civil Subchefia para Assuntos Jurídicos LEI Nº 8.078, DE 11 DE SETEMBRO DE 1990. Vigência Mensagem de veto Regulamento Regulamento Regulamento Regulamento Vigência Regulamento Regulamento Vigência Regulamento Vigência Dispõe sobre a proteção do consumidor e dá outras providências. O PRESIDENTE DA REPÚBLICA, faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:"
     }
    ]
   },
@@ -2656,6 +2656,19 @@
    "urn": "urn:lex:br:federal:lei:1991-07-24;8212",
    "detectado_em": "2026-10-09",
    "eventos": []
+  },
+  "susp": {
+   "urn": "urn:lex:br:federal:lei:2018-06-11;13675",
+   "detectado_em": "2026-10-13",
+   "eventos": [
+    {
+     "evento": "texto_alterado",
+     "caminho": "preambulo",
+     "rotulo": "Preâmbulo",
+     "texto_antigo": "L13675 Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos LEI Nº 13.675, DE 11 DE JUNHO DE 2018. Vigência Mensagem de veto Regulamento Disciplina a organização e o funcionamento dos órgãos responsáveis pela segurança pública, nos termos do § 7º do art. 144 da Constituição Federal; cria a Política Nacional de Segurança Pública e Defesa Social (PNSPDS); institui o Sistema Único de Segurança Pública (Susp); altera a Lei Complementar nº 79, de 7 de janeiro de 1994, a Lei nº 10.201, de 14 de fevereiro de 2001, e a Lei nº 11.530, de 24 de outubro de 2007; e revoga dispositivos da Lei nº 12.681, de 4 de julho de 2012. O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:",
+     "texto_novo": "L13675 Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos LEI Nº 13.675, DE 11 DE JUNHO DE 2018. Vigência Mensagem de veto Regulamento Regulamento Disciplina a organização e o funcionamento dos órgãos responsáveis pela segurança pública, nos termos do § 7º do art. 144 da Constituição Federal; cria a Política Nacional de Segurança Pública e Defesa Social (PNSPDS); institui o Sistema Único de Segurança Pública (Susp); altera a Lei Complementar nº 79, de 7 de janeiro de 1994, a Lei nº 10.201, de 14 de fevereiro de 2001, e a Lei nº 11.530, de 24 de outubro de 2007; e revoga dispositivos da Lei nº 12.681, de 4 de julho de 2012. O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:"
+    }
+   ]
   }
  }
 }
