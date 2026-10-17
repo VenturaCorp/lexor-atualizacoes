@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-13",
+ "gerado_em": "2026-10-17",
  "leis": {
   "regulamento_marco_civil": {
    "urn": "urn:lex:br:federal:decreto:2016-05-11;8771",
@@ -2639,8 +2639,65 @@
   },
   "cf": {
    "urn": "urn:lex:br:federal:constituicao:1988-10-05;1988",
-   "detectado_em": "2026-10-07",
-   "eventos": []
+   "detectado_em": "2026-10-17",
+   "eventos": [
+    {
+     "evento": "bloco_novo",
+     "caminho": "art198_incIV",
+     "rotulo": "IV",
+     "texto_antigo": null,
+     "texto_novo": "IV - atuação obrigatória e permanente de agentes comunitários de saúde e de agentes de combate às endemias, cuja atividade é essencial ao sistema único de saúde e exclusiva de Estado. (Incluído pela Emenda Constitucional nº 140, de 2026)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art198_par10",
+     "rotulo": "§ 10",
+     "texto_antigo": "§ 10. Os agentes comunitários de saúde e os agentes de combate às endemias terão também, em razão dos riscos inerentes às funções desempenhadas, aposentadoria especial e, somado aos seus vencimentos, adicional de insalubridade. (Incluído pela Emenda Constitucional nº 120, de 2022)",
+     "texto_novo": "§ 10. Os agentes comunitários de saúde e os agentes de combate às endemias terão, em razão dos riscos inerentes às funções desempenhadas, direito à aposentadoria mediante requisitos diferenciados, na forma do § 5º-A do art. 40 e do § 8º-A do art. 201 desta Constituição, e ao adicional de insalubridade. (Redação dada pela Emenda Constitucional nº 140, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art201_par9",
+     "rotulo": "§ 9º",
+     "texto_antigo": null,
+     "texto_novo": "§ 9º Para fins de aposentadoria, será assegurada a contagem recíproca do tempo de contribuição entre o Regime Geral de Previdência Social e os regimes próprios de previdência social, e destes entre si, observada a compensação financeira, de acordo com os critérios estabelecidos em lei. (Redação dada pela Emenda Constitucional nº 103, de 2019)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art40_par4",
+     "rotulo": "§ 4º",
+     "texto_antigo": "§ 4º É vedada a adoção de requisitos ou critérios diferenciados para concessão de benefícios em regime próprio de previdência social, ressalvado o disposto nos §§ 4º-A, 4º-B, 4º-C e 5º. (Redação dada pela Emenda Constitucional nº 103, de 2019)",
+     "texto_novo": "§ 4º É vedada a adoção de requisitos ou critérios diferenciados para concessão de benefícios em regime próprio de previdência social, ressalvado o disposto nos §§ 4º-A, 4º-B, 4º-C, 5º e 5º-A deste artigo. (Redação dada pela Emenda Constitucional nº 140, de 2026)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art7_incXIII",
+     "rotulo": "XIII",
+     "texto_antigo": "XIII - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho;",
+     "texto_novo": "XIII - duração do trabalho normal não superior a 8 (oito) horas diárias e 40 (quarenta) horas semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; (Redação dada pela Emenda Constitucional nº 141, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art7_par1",
+     "rotulo": "§ 1º",
+     "texto_antigo": null,
+     "texto_novo": "§ 1º São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à previdência social. (Redação dada pela Emenda Constitucional nº 141, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art7_par2",
+     "rotulo": "§ 2º",
+     "texto_antigo": null,
+     "texto_novo": "§ 2º Excepcionalmente, convenção ou acordo coletivo de trabalho poderão, inclusive para os trabalhadores sujeitos a regimes diferenciados de trabalho estabelecidos em lei ou norma regulamentadora, estabelecer regime compensatório que assegure, na média, 2 (dois) dias de repouso semanal remunerado dentro do mês-calendário, garantido o gozo de pelo menos 1 (um) dos dias dentro do período máximo de 1 (uma) semana de trabalho. (Incluído pela Emenda Constitucional nº 141, de 2026)"
+    },
+    {
+     "evento": "bloco_novo",
+     "caminho": "art7_par3",
+     "rotulo": "§ 3º",
+     "texto_antigo": null,
+     "texto_novo": "§ 3º Lei poderá dispor sobre hipóteses e condições em que a duração do trabalho e os dias de repouso semanal remunerado poderão observar regimes diferenciados, respeitados os limites previstos nos incisos XIII, XIV e XV do caput deste artigo. (Incluído pela Emenda Constitucional nº 141, de 2026)"
+    }
+   ]
   },
   "desapropriacao_interesse_social": {
    "urn": "urn:lex:br:federal:lei:1962-09-10;4132",
