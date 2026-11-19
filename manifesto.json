@@ -1,6 +1,6 @@
 {
   "versao": 18,
-  "gerado_em": "2026-10-23",
+  "gerado_em": "2026-11-19",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -664,7 +664,7 @@
     "custeio_seguridade": {
       "versao": 1,
       "sha256": "360cb635ba3af252174d188d57f831f9c7e00587113f20853ac7db9dcea27f92",
-      "sha256_arquivo": "fbe930c343655b83d9bb61da3dceae687b2c5ebff918c8a46bb779e18306e429",
+      "sha256_arquivo": "e9f90e6de061c551564ce7309c4452b0a3529925750678f494acb7d7956dccfd",
       "bytes": 289734,
       "blocos": 690
     },
