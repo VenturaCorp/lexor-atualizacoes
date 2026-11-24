@@ -1,6 +1,6 @@
 {
   "versao": 18,
-  "gerado_em": "2026-11-19",
+  "gerado_em": "2026-11-24",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -1406,7 +1406,7 @@
     "lrf": {
       "versao": 1,
       "sha256": "23a826a7715a7fd02b3bb5e6c0cd0f7eb13ae9eb12afeabd7fbead0ba89e980c",
-      "sha256_arquivo": "dcf3dce9b7326bdbfb6017d8b0586abe32e9f41d7b0cc4500fbffe53e71f55b5",
+      "sha256_arquivo": "fd14426a9afe8832b7d196a2e3c250ce87f563c89e47bcd071630ea172321ff0",
       "bytes": 227772,
       "blocos": 582
     },
