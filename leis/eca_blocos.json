@@ -4,7 +4,7 @@
   "ementa": "Dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências.",
   "sigla": "eca",
   "fonte": "planalto.gov.br",
-  "gerado_em": "2026-10-01",
+  "gerado_em": "2026-11-27",
   "blocos": [
     {
       "id": "urn:lex:br:federal:lei:1990-07-13;8069!preambulo",
@@ -2524,7 +2524,7 @@
       "caminho": "art54_incI",
       "tipo": "inciso",
       "rotulo": "I",
-      "texto": "I - ensino fundamental, obrigatório e gratuito, inclusive para os que a ele não tiveram acesso na idade própria;",
+      "texto": "I – educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade, assegurada sua oferta gratuita a todos que a ela não tiveram acesso na idade própria; (Redação dada pela Lei nº 15.555, de 2026)",
       "status": "vigente"
     },
     {
@@ -2532,8 +2532,9 @@
       "caminho": "art54_incII",
       "tipo": "inciso",
       "rotulo": "II",
-      "texto": "II - progressiva extensão da obrigatoriedade e gratuidade ao ensino médio;",
-      "status": "vigente"
+      "texto": "II (Revogado).",
+      "status": "revogado",
+      "texto_integral": "II – (revogado); (Redação dada pela Lei nº 15.555, de 2026)"
     },
     {
       "id": "urn:lex:br:federal:lei:1990-07-13;8069!art54_incIII",
@@ -2572,7 +2573,7 @@
       "caminho": "art54_incVII",
       "tipo": "inciso",
       "rotulo": "VII",
-      "texto": "VII - atendimento no ensino fundamental, através de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde.",
+      "texto": "VII – atendimento ao educando, em todas as etapas da educação básica, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde. (Redação dada pela Lei nº 15.555, de 2026)",
       "status": "vigente"
     },
     {
@@ -2596,7 +2597,7 @@
       "caminho": "art54_par3",
       "tipo": "paragrafo",
       "rotulo": "§ 3º",
-      "texto": "§ 3º Compete ao poder público recensear os educandos no ensino fundamental, fazer-lhes a chamada e zelar, junto aos pais ou responsável, pela freqüência à escola.",
+      "texto": "§ 3º Compete ao poder público recensear os educandos da educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade, fazer-lhes a chamada e zelar, juntamente com os pais ou o responsável, pela frequência à escola. (Redação dada pela Lei nº 15.555, de 2026)",
       "status": "vigente"
     },
     {
@@ -2612,7 +2613,7 @@
       "caminho": "art56",
       "tipo": "artigo",
       "rotulo": "Art. 56",
-      "texto": "Art. 56. Os dirigentes de estabelecimentos de ensino fundamental comunicarão ao Conselho Tutelar os casos de:",
+      "texto": "Art. 56. Os dirigentes de estabelecimentos de educação básica comunicarão ao Conselho Tutelar os casos de: (Redação dada pela Lei nº 15.555, de 2026)",
       "status": "vigente"
     },
     {
@@ -2652,7 +2653,7 @@
       "caminho": "art57",
       "tipo": "artigo",
       "rotulo": "Art. 57",
-      "texto": "Art. 57. O poder público estimulará pesquisas, experiências e novas propostas relativas a calendário, seriação, currículo, metodologia, didática e avaliação, com vistas à inserção de crianças e adolescentes excluídos do ensino fundamental obrigatório.",
+      "texto": "Art. 57. O poder público estimulará pesquisas, experiências e novas propostas relativas a calendário, seriação, currículo, metodologia, didática e avaliação, com vistas à inserção de crianças e adolescentes excluídos da educação básica obrigatória. (Redação dada pela Lei nº 15.555, de 2026)",
       "status": "vigente"
     },
     {

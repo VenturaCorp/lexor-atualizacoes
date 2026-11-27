@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24",
+ "gerado_em": "2026-11-27",
  "leis": {
   "regulamento_marco_civil": {
    "urn": "urn:lex:br:federal:decreto:2016-05-11;8771",
@@ -2330,7 +2330,7 @@
   },
   "eca": {
    "urn": "urn:lex:br:federal:lei:1990-07-13;8069",
-   "detectado_em": "2026-10-01",
+   "detectado_em": "2026-11-27",
    "eventos": [
     {
      "evento": "texto_alterado",
@@ -2338,6 +2338,48 @@
      "rotulo": "Art. 4º",
      "texto_antigo": "Art. 4º É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária.",
      "texto_novo": "Art. 4º É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade, à natureza e à convivência familiar e comunitária. (Redação dada pela Lei nº 15.512, de 2026)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art54_incI",
+     "rotulo": "I",
+     "texto_antigo": "I - ensino fundamental, obrigatório e gratuito, inclusive para os que a ele não tiveram acesso na idade própria;",
+     "texto_novo": "I – educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade, assegurada sua oferta gratuita a todos que a ela não tiveram acesso na idade própria; (Redação dada pela Lei nº 15.555, de 2026)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art54_incII",
+     "rotulo": "II",
+     "texto_antigo": "II - progressiva extensão da obrigatoriedade e gratuidade ao ensino médio;",
+     "texto_novo": "II (Revogado)."
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art54_incVII",
+     "rotulo": "VII",
+     "texto_antigo": "VII - atendimento no ensino fundamental, através de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde.",
+     "texto_novo": "VII – atendimento ao educando, em todas as etapas da educação básica, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde. (Redação dada pela Lei nº 15.555, de 2026)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art54_par3",
+     "rotulo": "§ 3º",
+     "texto_antigo": "§ 3º Compete ao poder público recensear os educandos no ensino fundamental, fazer-lhes a chamada e zelar, junto aos pais ou responsável, pela freqüência à escola.",
+     "texto_novo": "§ 3º Compete ao poder público recensear os educandos da educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade, fazer-lhes a chamada e zelar, juntamente com os pais ou o responsável, pela frequência à escola. (Redação dada pela Lei nº 15.555, de 2026)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art56",
+     "rotulo": "Art. 56",
+     "texto_antigo": "Art. 56. Os dirigentes de estabelecimentos de ensino fundamental comunicarão ao Conselho Tutelar os casos de:",
+     "texto_novo": "Art. 56. Os dirigentes de estabelecimentos de educação básica comunicarão ao Conselho Tutelar os casos de: (Redação dada pela Lei nº 15.555, de 2026)"
+    },
+    {
+     "evento": "texto_alterado",
+     "caminho": "art57",
+     "rotulo": "Art. 57",
+     "texto_antigo": "Art. 57. O poder público estimulará pesquisas, experiências e novas propostas relativas a calendário, seriação, currículo, metodologia, didática e avaliação, com vistas à inserção de crianças e adolescentes excluídos do ensino fundamental obrigatório.",
+     "texto_novo": "Art. 57. O poder público estimulará pesquisas, experiências e novas propostas relativas a calendário, seriação, currículo, metodologia, didática e avaliação, com vistas à inserção de crianças e adolescentes excluídos da educação básica obrigatória. (Redação dada pela Lei nº 15.555, de 2026)"
     }
    ]
   },

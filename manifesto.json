@@ -1,6 +1,6 @@
 {
-  "versao": 18,
-  "gerado_em": "2026-11-24",
+  "versao": 19,
+  "gerado_em": "2026-11-27",
   "total_leis": 331,
   "leis": {
     "abuso": {
@@ -781,10 +781,10 @@
       "blocos": 96
     },
     "eca": {
-      "versao": 2,
-      "sha256": "47929b658e8d6a09032f6617652694426599cae37d413d6615a67c12f4dc7795",
-      "sha256_arquivo": "2424d8eb509519ade3f83b4a1edc1ba4ba0ad0f1749599db28448851b10cada8",
-      "bytes": 540735,
+      "versao": 3,
+      "sha256": "6e383b8a69a5ed72734d9e1a50ed176a0e6afadc7af30344aea33d6874e55869",
+      "sha256_arquivo": "59acb3da1ec59f5dcf352aa91c9bb04a6daf3252ba2c249b87f5e9ecddcf0f59",
+      "bytes": 541181,
       "blocos": 1367
     },
     "economia_popular": {
